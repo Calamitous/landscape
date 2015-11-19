@@ -1,26 +1,23 @@
 defmodule Landscape do
-  @width 10
-  @height 10
+  @width 50
+  @height 15
 
-  def run_sim do
-    build_map
-    |> create_elevations
-    |> add_random_water
-    |> run_sim
-  end
+  def elem_to_xy(elem),   do: {div(elem, @width), rem(elem, @width)}
+  def xy_to_elem({x, y}), do: (@width * y) + x
 
-  def run_sim(map) do
-    :timer.sleep(100)
-    map = map
-    |> update_map
-    |> print_map
-    # |> run_sim
-    IO.puts("------")
+  def neighbor(elem, :n)  when elem > @width,                                                    do: elem - @width
+  def neighbor(elem, :ne) when elem > @width and rem(elem + 1, @width) != 0,                     do: (elem - @width) + 1
+  def neighbor(elem, :e)  when rem(elem + 1, @width) != 0,                                       do: elem + 1
+  def neighbor(elem, :se) when (div(elem, @width) + 1) < @height and rem(elem + 1, @width) != 0, do: elem + @width + 1
+  def neighbor(elem, :s)  when (div(elem, @width) + 1) < @height,                                do: elem + @width
+  def neighbor(elem, :sw) when (div(elem, @width) + 1) < @height and rem(elem, @width) != 0,     do: (elem + @width) - 1
+  def neighbor(elem, :w)  when rem(elem, @width) != 0,                                           do: elem - 1
+  def neighbor(elem, :nw) when elem > @width and rem(elem, @width) != 0,                         do: elem - 1 - @width
+  def neighbor(elem, _), do: elem
 
-    map
-  end
-
-  def elem_to_xy(elem), do: {div(elem, @width) - 1, rem(elem, @height) - 1}
+  def neighbors(elem),                               do: neighbors(elem, [:n, :ne, :e, :se, :s, :sw, :w, :nw], [])
+  def neighbors(elem, [direction | tail], elements), do: neighbors(elem, tail, [neighbor(elem, direction)| elements])
+  def neighbors(elem, [], elements),                 do: Enum.uniq(elements) -- [elem]
 
   def neighbors(ma, {x, y}, distance \\ 1) do
     x = x + 1
@@ -36,14 +33,11 @@ defmodule Landscape do
     m
   end
 
-  def update_map(m), do: m |> flow_water
-
   def has_potential_water(m, elem) do
-    {elev, _} = elem(List.to_tuple(m), elem)
     m
     |> neighbors(elem_to_xy(elem))
     |> List.flatten()
-    |> Enum.filter(fn({lev, _}) -> lev >= elev end)
+    # |> Enum.filter(fn({lev, _}) -> lev >= get_elevation(m, elem) end)
     |> Enum.map(fn(c) -> elem(c, 1) end)
     |> Enum.reduce(false, fn(c, acc) -> acc || c end)
   end
@@ -54,6 +48,8 @@ defmodule Landscape do
     end
   end
 
+  def update_map(m), do: m |> flow_water
+  defp get_elevation(m, elem), do: elem(elem(List.to_tuple(m), elem), 0)
   defp print_cell({{c, false}, 0}), do: IO.puts(c)
   defp print_cell({{c, false}, _}), do: IO.write(c)
   defp print_cell({{c, true},  0}), do: IO.puts("#{IO.ANSI.blue}#{c}#{IO.ANSI.reset}")
