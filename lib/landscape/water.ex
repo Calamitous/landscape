@@ -1,13 +1,13 @@
 defmodule Landscape.Water do
-  def flow(m) do
-    Enum.map Enum.with_index(m), fn({{elev, has_water, grass}, i}) ->
-      {elev, has_water || should_have_water(m, i), grass}
-    end
+  def flow({w, h, m}) do
+    {w, h, Enum.map(Enum.with_index(m), fn({{elev, has_water, grass}, i}) ->
+      {elev, has_water || should_have_water({w, h, m}, i), grass}
+    end)}
   end
 
-  defp should_have_water(m, elem) do
+  defp should_have_water({w, h, m}, elem) do
     m = List.to_tuple(m)
-    Landscape.Position.neighbors(elem)
+    Landscape.Position.neighbors(w, h, elem)
     |> Enum.map(fn(e) -> elem(m, e) end)
     |> Enum.filter(fn({lev, _, _}) -> lev >= get_elevation(m, elem) end)
     |> Enum.map(fn(c) -> elem(c, 1) end)

@@ -1,6 +1,6 @@
 defmodule Sim do
   def run do
-    Landscape.build_map
+    Landscape.build_map(50, 15)
     |> Landscape.add_water
     |> run(false)
   end

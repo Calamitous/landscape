@@ -1,7 +1,5 @@
 defmodule Landscape.Display do
   require Landscape.Position
-  @width 50
-  @height 15
 
   @water  "#{IO.ANSI.blue_background}#{IO.ANSI.black}"
   @dirt   "#{IO.ANSI.magenta_background}#{IO.ANSI.black}"
@@ -9,10 +7,10 @@ defmodule Landscape.Display do
   @flower "#{IO.ANSI.green_background}#{IO.ANSI.yellow}"
   @reset  IO.ANSI.reset
 
-  def print_map(m) do
+  def print_map({w, h, m}) do
     map_w_index = Enum.with_index(m)
-    Enum.each(map_w_index, fn({c, i}) -> print_cell(c, Landscape.Position.eol(i)) end)
-    m
+    Enum.each(map_w_index, fn({c, i}) -> print_cell(c, Landscape.Position.eol(w, h, i)) end)
+    {w, h, m}
   end
 
   defp print_cell({c, false, 0}, is_eol), do: smart_put("#{@dirt}#{c}#{@reset}", is_eol)
