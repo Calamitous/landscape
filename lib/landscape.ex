@@ -1,5 +1,4 @@
 defmodule Landscape do
-  require Landscape.Water
 
   def update(world), do: world |> Landscape.Water.flow
 
