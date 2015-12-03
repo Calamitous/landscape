@@ -1,12 +1,15 @@
 defmodule Sim do
+  def add_calendar(map), do: {map, Calendar.first_day}
+
   def run do
     Landscape.build_map(50, 15)
     |> Landscape.add_water
+    |> add_calendar
     |> run(false)
   end
 
-  def run(map, false) do
-    map
+  def run(world, false) do
+    world
     |> Landscape.Display.print_map
     |> Landscape.update
     |> run(should_stop(IO.getn('--------- q to quit: ')))

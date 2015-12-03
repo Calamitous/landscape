@@ -1,8 +1,8 @@
 defmodule Landscape.Water do
-  def flow({w, h, m}) do
-    {w, h, Enum.map(Enum.with_index(m), fn({{elev, has_water, grass}, i}) ->
+  def flow({{w, h, m}, date}) do
+    {{w, h, Enum.map(Enum.with_index(m), fn({{elev, has_water, grass}, i}) ->
       {elev, has_water || should_have_water({w, h, m}, i), grass}
-    end)}
+    end)}, date}
   end
 
   defp should_have_water({w, h, m}, elem) do

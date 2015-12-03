@@ -1,6 +1,5 @@
 defmodule Landscape do
-
-  def update(world), do: world |> Landscape.Water.flow
+  def update(world), do: world |> Landscape.Water.flow |> Calendar.next_day
 
   # Generation
   def add_water({w, h, m}), do: add_water({w, h, m}, :random.uniform(w * h))
