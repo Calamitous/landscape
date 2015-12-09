@@ -1,6 +1,6 @@
 defmodule Calendar do
   @season_progression %{:spring => :summer, :summer => :fall, :fall => :winter, :winter => :spring}
-  @season_length 30
+  @season_length 5
 
   def first_day(), do:  {1, :spring, 1}
 
