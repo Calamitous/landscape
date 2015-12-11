@@ -1,6 +1,7 @@
 defmodule Landscape do
-  def start(a, b) do
+  def start(:normal, _) do
     Interface.bootstrap
+    Supervisor.start_link [], strategy: :one_for_one
   end
 
   def update(world), do: world |> Landscape.Water.flow |> Calendar.next_day
