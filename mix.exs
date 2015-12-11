@@ -27,6 +27,6 @@ defmodule Landscape.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    []
+    [{:encurses, github: 'sofuture/encurses'}]
   end
 end
