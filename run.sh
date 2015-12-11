@@ -1,1 +1,1 @@
-elixir --erl "-noinput +A 50" -S mix
+../elixir/bin/elixir --erl "-noinput +A 50" -S mix

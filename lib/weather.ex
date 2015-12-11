@@ -1,13 +1,13 @@
 defmodule Weather do
   @season_base_temp %{:spring => 70, :summer => 80, :fall => 50, :winter => 20}
   @direction_str %{
-    :n => 'North',
+    :n  => 'North',
     :ne => 'Northeast',
-    :e => 'East',
+    :e  => 'East',
     :se => 'Southeast',
-    :s => 'South',
+    :s  => 'South',
     :sw => 'Southwest',
-    :w => 'West',
+    :w  => 'West',
     :nw => 'Northwest'
   }
 
