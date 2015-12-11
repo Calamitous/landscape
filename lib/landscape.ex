@@ -1,4 +1,8 @@
 defmodule Landscape do
+  def start(a, b) do
+    Interface.bootstrap
+  end
+
   def update(world), do: world |> Landscape.Water.flow |> Calendar.next_day
 
   # Generation

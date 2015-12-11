@@ -1,1 +1,2 @@
-%{"encurses": {:git, "https://github.com/sofuture/encurses.git", "5f3b5300fc9a6c084cf4185d1d3441e69abece3e", []}}
+%{"cecho": {:git, "https://github.com/mazenharake/cecho.git", "2c1d9bdeceb606ddcda6663c71f6932ce2b92e57", []},
+  "encurses": {:git, "https://github.com/sofuture/encurses.git", "5f3b5300fc9a6c084cf4185d1d3441e69abece3e", []}}
