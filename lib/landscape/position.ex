@@ -1,23 +1,23 @@
 defmodule Landscape.Position do
-  defmacro top(w, _, elem), do: quote do: unquote(w) > unquote(elem)
-  defmacro bot(w, h, elem), do: quote do: unquote(h) <= (div(unquote(elem), unquote(w)) + 1)
-  defmacro bol(w, _, elem), do: quote do: rem(unquote(elem), unquote(w)) == 0
-  defmacro eol(w, _, elem), do: quote do: rem(unquote(elem) + 1, unquote(w)) == 0
+  defmacro top(w, _, ele), do: quote do: unquote(w) > unquote(ele)
+  defmacro bot(w, h, ele), do: quote do: unquote(h) <= (div(unquote(ele), unquote(w)) + 1)
+  defmacro bol(w, _, ele), do: quote do: rem(unquote(ele), unquote(w)) == 0
+  defmacro eol(w, _, ele), do: quote do: rem(unquote(ele) + 1, unquote(w)) == 0
 
-  def elem_to_xy(w, elem),   do: {div(elem, w), rem(elem, w)}
+  def elem_to_xy(w, ele),   do: {div(ele, w), rem(ele, w)}
   def xy_to_elem(w, {x, y}), do: (w * y) + x
 
-  def neighbor(w, _, elem, :n)  when not top(w, h, elem),                         do: elem - w
-  def neighbor(w, h, elem, :e)  when not eol(w, h, elem),                         do: elem + 1
-  def neighbor(w, h, elem, :s)  when not bot(w, h, elem),                         do: elem + w
-  def neighbor(w, h, elem, :w)  when not bol(w, h, elem),                         do: elem - 1
-  def neighbor(w, h, elem, :ne) when not top(w, h, elem) and not eol(w, h, elem), do: (elem - w) + 1
-  def neighbor(w, h, elem, :se) when not bot(w, h, elem) and not eol(w, h, elem), do: elem + w + 1
-  def neighbor(w, h, elem, :sw) when not bot(w, h, elem) and not bol(w, h, elem), do: (elem + w) - 1
-  def neighbor(w, h, elem, :nw) when not top(w, h, elem) and not bol(w, h, elem), do: elem - 1 - w
-  def neighbor(_, _, elem, _), do: elem
+  def neighbor(w, _, ele, :n)  when not top(w, h, ele),                         do: ele - w
+  def neighbor(w, h, ele, :e)  when not eol(w, h, ele),                         do: ele + 1
+  def neighbor(w, h, ele, :s)  when not bot(w, h, ele),                         do: ele + w
+  def neighbor(w, h, ele, :w)  when not bol(w, h, ele),                         do: ele - 1
+  def neighbor(w, h, ele, :ne) when not top(w, h, ele) and not eol(w, h, ele), do: (ele - w) + 1
+  def neighbor(w, h, ele, :se) when not bot(w, h, ele) and not eol(w, h, ele), do: ele + w + 1
+  def neighbor(w, h, ele, :sw) when not bot(w, h, ele) and not bol(w, h, ele), do: (ele + w) - 1
+  def neighbor(w, h, ele, :nw) when not top(w, h, ele) and not bol(w, h, ele), do: ele - 1 - w
+  def neighbor(_, _, ele, _), do: ele
 
-  def neighbors(w, h, elem),                               do: neighbors(w, h, elem, [:n, :ne, :e, :se, :s, :sw, :w, :nw], [])
-  def neighbors(w, h, elem, [direction | tail], elements), do: neighbors(w, h, elem, tail, [neighbor(w, h, elem, direction)| elements])
-  def neighbors(_, _, elem, [], elements),                 do: Enum.uniq(elements) -- [elem]
+  def neighbors(w, h, ele),                               do: neighbors(w, h, ele, [:n, :ne, :e, :se, :s, :sw, :w, :nw], [])
+  def neighbors(w, h, ele, [direction | tail], elements), do: neighbors(w, h, ele, tail, [neighbor(w, h, ele, direction)| elements])
+  def neighbors(_, _, ele, [], elements),                 do: Enum.uniq(elements) -- [ele]
 end

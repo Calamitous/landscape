@@ -8,9 +8,9 @@ defmodule Landscape do
 
   # Generation
   def add_water({w, h, m}), do: add_water({w, h, m}, :random.uniform(w * h))
-  def add_water({w, h, m}, elem) do
-    {elev, _, grass} = hd(Enum.slice(m, elem..elem))
-    {w, h, Enum.slice(m, 0..elem-1) ++ [{elev, true, grass}] ++ Enum.slice(m, elem+1..length(m))}
+  def add_water({w, h, m}, ele) do
+    {elev, _, grass} = hd(Enum.slice(m, ele..ele))
+    {w, h, Enum.slice(m, 0..ele-1) ++ [{elev, true, grass}] ++ Enum.slice(m, ele+1..length(m))}
   end
 
   def build_map(w, h),                               do: build_map({w, h, []})

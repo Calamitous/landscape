@@ -8,14 +8,14 @@ defmodule Landscape.Water do
     end)}, date}
   end
 
-  defp should_have_water({w, h, m}, elem) do
+  defp should_have_water({w, h, m}, ele) do
     m = List.to_tuple(m)
-    Landscape.Position.neighbors(w, h, elem)
+    Landscape.Position.neighbors(w, h, ele)
     |> Enum.map(fn(e) -> elem(m, e) end)
-    |> Enum.filter(fn({lev, _, _}) -> lev >= get_elevation(m, elem) end)
+    |> Enum.filter(fn({lev, _, _}) -> lev >= get_elevation(m, ele) end)
     |> Enum.map(fn(c) -> elem(c, 1) end)
     |> Enum.reduce(false, fn(c, acc) -> acc || c end)
   end
 
-  defp get_elevation(m, elem), do: elem(elem(m, elem), 0)
+  defp get_elevation(m, ele), do: elem(elem(m, ele), 0)
 end

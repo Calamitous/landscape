@@ -1,2 +1,4 @@
-%{"cecho": {:git, "https://github.com/mazenharake/cecho.git", "2c1d9bdeceb606ddcda6663c71f6932ce2b92e57", []},
+%{"bunt": {:hex, :bunt, "0.1.4"},
+  "cecho": {:git, "https://github.com/mazenharake/cecho.git", "2c1d9bdeceb606ddcda6663c71f6932ce2b92e57", []},
+  "credo": {:hex, :credo, "0.1.10"},
   "encurses": {:git, "https://github.com/sofuture/encurses.git", "5f3b5300fc9a6c084cf4185d1d3441e69abece3e", []}}
