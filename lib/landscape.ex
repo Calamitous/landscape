@@ -1,10 +1,21 @@
 defmodule Landscape do
   def start(:normal, _) do
-    Interface.bootstrap
+    # IO.inspect(:lists.keyfind(:encoding, 1, :io.getopts())) # yup, unicode
+    c = Calendar.start
+    i = Interface.start
+    l = Landscape.make
     Supervisor.start_link [], strategy: :one_for_one
   end
 
-  def update(world), do: world |> Landscape.Water.flow |> Calendar.next_day
+  def make() do
+    Landscape.build_map(1, 15)
+    |> Landscape.add_water
+    # |> add_calendar
+    |> Landscape.Display.print_map
+    |> Landscape.update
+  end
+
+  def update(world), do: world |> Landscape.Water.flow
 
   # Generation
   def add_water({w, h, m}), do: add_water({w, h, m}, :random.uniform(w * h))

@@ -1,5 +1,5 @@
 defmodule Sim do
-  def add_calendar(map), do: {map, Calendar.first_day}
+  def add_calendar(map), do: {map, {1, :spring, 1, :pause}}
 
   def run do
     Landscape.build_map(50, 15)
