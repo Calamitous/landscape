@@ -1,19 +1,35 @@
 defmodule Landscape do
-  def start(:normal, _) do
+  use Supervisor
+
+  def start(:normal, duh) do
+    start_link(:normal, duh)
+  end
+
+  def start_link(:normal, _) do
     # IO.inspect(:lists.keyfind(:encoding, 1, :io.getopts())) # yup, unicode
-    c = Calendar.start
-    i = Interface.start
-    l = Landscape.make
-    Supervisor.start_link [], strategy: :one_for_one
+    # c = Calendar.start
+    # i = Interface.start
+    # l = Landscape.make
+    Supervisor.start_link __MODULE__, nil
+  end
+
+  def init(_) do
+    procs = [
+      worker(Calendar, [])
+    ]
+    supervise(procs, strategy: :one_for_one)
+    # Supervisor.start_link [Calendar], strategy: :one_for_one
   end
 
   def make() do
     Landscape.build_map(1, 15)
     |> Landscape.add_water
-    # |> add_calendar
+    |> add_calendar
     |> Landscape.Display.print_map
     |> Landscape.update
   end
+
+  def add_calendar(map), do: {map, {1, :spring, 1, 8, 0, :pause}}
 
   def update(world), do: world |> Landscape.Water.flow
 

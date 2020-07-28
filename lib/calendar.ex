@@ -4,7 +4,7 @@ defmodule Calendar do
   @advancement_speed  %{:pause => 0, :minute => 1, :hour => 60, :day => 60 * 24}
   @season_length 30
 
-  def start, do: GenServer.start(__MODULE__, nil, name: :calendar)
+  def start_link, do: GenServer.start_link(__MODULE__, nil, name: :calendar)
 
   def init(_) do
     :timer.send_interval(1000, :advance)
@@ -17,7 +17,7 @@ defmodule Calendar do
   def glance, do: GenServer.call(:calendar, :glance)
 
   def notify_watchers(state) do
-    Interface.advance date_format(state)
+    # Interface.advance date_format(state)
     state
   end
 

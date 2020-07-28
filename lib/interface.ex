@@ -14,7 +14,6 @@ defmodule Interface do
 
   def keyloop, do: handle_key :cecho.getch
   def advance, do: Landscape.Display.print_map
-  def add_calendar(map), do: {map, {1, :spring, 1, 8, 0, :pause}}
 
   def handle_key(?d) do
     :cecho.refresh

@@ -14,7 +14,7 @@ defmodule Landscape.Display do
   def dirt(:winter),   do: "#{IO.ANSI.white_background}#{IO.ANSI.black}"
   def dirt(_),         do: "#{IO.ANSI.color_background(1, 1, 0)}"
 
-  def grass(:fall),    do: "#{IO.ANSI.yellow_background}#{IO.ANSI.black}"
+  def grass(:fall),    do: [IO.ANSI.yellow_background, IO.ANSI.black]
   def grass(:winter),  do: "#{IO.ANSI.white_background}#{IO.ANSI.black}"
   def grass(_),        do: "#{IO.ANSI.green_background}#{IO.ANSI.black}"
 

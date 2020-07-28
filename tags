@@ -1,0 +1,1743 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABCSize	deps/credo/lib/credo/check/refactor/abc_size.ex	/^defmodule Credo.Check.Refactor.ABCSize do$/;"	m
+ACS_BLOCK	deps/encurses/include/encurses.hrl	/^-define(ACS_BLOCK, 4194352).$/;"	d
+ACS_BOARD	deps/encurses/include/encurses.hrl	/^-define(ACS_BOARD, 4194408).$/;"	d
+ACS_BTEE	deps/encurses/include/encurses.hrl	/^-define(ACS_BTEE, 4194422).$/;"	d
+ACS_BULLET	deps/encurses/include/encurses.hrl	/^-define(ACS_BULLET, 4194430).$/;"	d
+ACS_CKBOARD	deps/encurses/include/encurses.hrl	/^-define(ACS_CKBOARD, 4194401).$/;"	d
+ACS_DARROW	deps/encurses/include/encurses.hrl	/^-define(ACS_DARROW, 4194350).$/;"	d
+ACS_DEGREE	deps/encurses/include/encurses.hrl	/^-define(ACS_DEGREE, 4194406).$/;"	d
+ACS_DIAMOND	deps/encurses/include/encurses.hrl	/^-define(ACS_DIAMOND, 4194400).$/;"	d
+ACS_GEQUAL	deps/encurses/include/encurses.hrl	/^-define(ACS_GEQUAL, 4194426).$/;"	d
+ACS_HLINE	deps/encurses/include/encurses.hrl	/^-define(ACS_HLINE, 4194417).$/;"	d
+ACS_LANTERN	deps/encurses/include/encurses.hrl	/^-define(ACS_LANTERN, 4194409).$/;"	d
+ACS_LARROW	deps/encurses/include/encurses.hrl	/^-define(ACS_LARROW, 4194348).$/;"	d
+ACS_LEQUAL	deps/encurses/include/encurses.hrl	/^-define(ACS_LEQUAL, 4194425).$/;"	d
+ACS_LLCORNER	deps/encurses/include/encurses.hrl	/^-define(ACS_LLCORNER, 4194413).$/;"	d
+ACS_LRCORNER	deps/encurses/include/encurses.hrl	/^-define(ACS_LRCORNER, 4194410).$/;"	d
+ACS_LTEE	deps/encurses/include/encurses.hrl	/^-define(ACS_LTEE, 4194420).$/;"	d
+ACS_NEQUAL	deps/encurses/include/encurses.hrl	/^-define(ACS_NEQUAL, 4194428).$/;"	d
+ACS_PI	deps/encurses/include/encurses.hrl	/^-define(ACS_PI, 4194427).$/;"	d
+ACS_PLMINUS	deps/encurses/include/encurses.hrl	/^-define(ACS_PLMINUS, 4194407).$/;"	d
+ACS_PLUS	deps/encurses/include/encurses.hrl	/^-define(ACS_PLUS, 4194414).$/;"	d
+ACS_RARROW	deps/encurses/include/encurses.hrl	/^-define(ACS_RARROW, 4194347).$/;"	d
+ACS_RTEE	deps/encurses/include/encurses.hrl	/^-define(ACS_RTEE, 4194421).$/;"	d
+ACS_S1	deps/encurses/include/encurses.hrl	/^-define(ACS_S1, 4194415).$/;"	d
+ACS_S3	deps/encurses/include/encurses.hrl	/^-define(ACS_S3, 4194416).$/;"	d
+ACS_S7	deps/encurses/include/encurses.hrl	/^-define(ACS_S7, 4194418).$/;"	d
+ACS_S9	deps/encurses/include/encurses.hrl	/^-define(ACS_S9, 4194419).$/;"	d
+ACS_STERLING	deps/encurses/include/encurses.hrl	/^-define(ACS_STERLING, 4194429).$/;"	d
+ACS_TTEE	deps/encurses/include/encurses.hrl	/^-define(ACS_TTEE, 4194423).$/;"	d
+ACS_UARROW	deps/encurses/include/encurses.hrl	/^-define(ACS_UARROW, 4194349).$/;"	d
+ACS_ULCORNER	deps/encurses/include/encurses.hrl	/^-define(ACS_ULCORNER, 4194412).$/;"	d
+ACS_URCORNER	deps/encurses/include/encurses.hrl	/^-define(ACS_URCORNER, 4194411).$/;"	d
+ACS_VLINE	deps/encurses/include/encurses.hrl	/^-define(ACS_VLINE, 4194424).$/;"	d
+ADDCH	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(ADDCH, 7).$/;"	d
+ADDCH	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(ADDCH, 7).$/;"	d
+ADDCH	deps/cecho/c_src/cecho_commands.h	25;"	d
+ADDCH	deps/cecho/include/cecho_commands.hrl	/^-define(ADDCH, 7).$/;"	d
+ADDSTR	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(ADDSTR, 8).$/;"	d
+ADDSTR	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(ADDSTR, 8).$/;"	d
+ADDSTR	deps/cecho/c_src/cecho_commands.h	26;"	d
+ADDSTR	deps/cecho/include/cecho_commands.hrl	/^-define(ADDSTR, 8).$/;"	d
+ANSI	deps/bunt/lib/bunt_ansi.ex	/^defmodule Bunt.ANSI do$/;"	m
+A_BLINK	deps/encurses/include/encurses.hrl	/^-define(A_BLINK, (1 bsl (8 + 11))).$/;"	d
+A_BOLD	deps/encurses/include/encurses.hrl	/^-define(A_BOLD, (1 bsl (8 + 13))).$/;"	d
+A_NORMAL	deps/encurses/include/encurses.hrl	/^-define(A_NORMAL, 0).$/;"	d
+A_REVERSE	deps/encurses/include/encurses.hrl	/^-define(A_REVERSE, (1 bsl (8 + 10))).$/;"	d
+A_UNDERLINE	deps/encurses/include/encurses.hrl	/^-define(A_UNDERLINE, (1 bsl (8 + 9))).$/;"	d
+AliasUsage	deps/credo/lib/credo/check/design/alias_usage.ex	/^defmodule Credo.Check.Design.AliasUsage do$/;"	m
+BOX	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(BOX, 35).$/;"	d
+BOX	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(BOX, 35).$/;"	d
+BOX	deps/cecho/c_src/cecho_commands.h	53;"	d
+BOX	deps/cecho/include/cecho_commands.hrl	/^-define(BOX, 35).$/;"	d
+BadCodeError	deps/credo/lib/credo/check/consistency/exception_names.ex	/^      defmodule BadCodeError do$/;"	m
+BadHTTPResponse	deps/credo/lib/credo/check/consistency/exception_names.ex	/^      defmodule BadHTTPResponse do$/;"	m
+Block	deps/credo/lib/credo/code/block.ex	/^defmodule Credo.Code.Block do$/;"	m
+Bunt	deps/bunt/lib/bunt.ex	/^defmodule Bunt do$/;"	m
+C	chk.exs	/^defmodule C do$/;"	m
+CBREAK	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(CBREAK, 3).$/;"	d
+CBREAK	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(CBREAK, 3).$/;"	d
+CBREAK	deps/cecho/c_src/cecho_commands.h	21;"	d
+CBREAK	deps/cecho/include/cecho_commands.hrl	/^-define(CBREAK, 3).$/;"	d
+CLI	deps/credo/lib/credo/cli.ex	/^defmodule Credo.CLI do$/;"	m
+COLOR_BLACK	deps/encurses/include/encurses.hrl	/^-define(COLOR_BLACK, 0).$/;"	d
+COLOR_BLUE	deps/encurses/include/encurses.hrl	/^-define(COLOR_BLUE, 4).$/;"	d
+COLOR_CYAN	deps/encurses/include/encurses.hrl	/^-define(COLOR_CYAN, 6).$/;"	d
+COLOR_GREEN	deps/encurses/include/encurses.hrl	/^-define(COLOR_GREEN, 2).$/;"	d
+COLOR_MAGENTA	deps/encurses/include/encurses.hrl	/^-define(COLOR_MAGENTA, 5).$/;"	d
+COLOR_PAIR	deps/encurses/include/encurses.hrl	/^-define(COLOR_PAIR(C), (C bsl 8)).$/;"	d
+COLOR_RED	deps/encurses/include/encurses.hrl	/^-define(COLOR_RED, 1).$/;"	d
+COLOR_WHITE	deps/encurses/include/encurses.hrl	/^-define(COLOR_WHITE, 7).$/;"	d
+COLOR_YELLOW	deps/encurses/include/encurses.hrl	/^-define(COLOR_YELLOW, 3).$/;"	d
+CURS_INVISIBLE	deps/encurses/include/encurses.hrl	/^-define(CURS_INVISIBLE, 0).$/;"	d
+CURS_NORMAL	deps/encurses/include/encurses.hrl	/^-define(CURS_NORMAL, 1).$/;"	d
+CURS_SET	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(CURS_SET, 12).$/;"	d
+CURS_SET	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(CURS_SET, 12).$/;"	d
+CURS_SET	deps/cecho/c_src/cecho_commands.h	30;"	d
+CURS_SET	deps/cecho/include/cecho_commands.hrl	/^-define(CURS_SET, 12).$/;"	d
+CURS_VERY_VISIBLE	deps/encurses/include/encurses.hrl	/^-define(CURS_VERY_VISIBLE, 2).$/;"	d
+Calendar	lib/calendar.ex	/^defmodule Calendar do$/;"	m
+Categories	deps/credo/lib/credo/cli/command/categories.ex	/^defmodule Credo.CLI.Command.Categories do$/;"	m
+Categories	deps/credo/lib/credo/cli/output/categories.ex	/^defmodule Credo.CLI.Output.Categories do$/;"	m
+Check	deps/credo/lib/credo/check.ex	/^defmodule Credo.Check do$/;"	m
+Code	deps/credo/lib/credo/code.ex	/^defmodule Credo.Code do$/;"	m
+CodeHelper	deps/credo/lib/credo/check/code_helper.ex	/^defmodule Credo.Check.CodeHelper do$/;"	m
+CodePattern	deps/credo/lib/credo/check/code_pattern.ex	/^defmodule Credo.Check.CodePattern do$/;"	m
+Command	deps/credo/lib/credo/cli/command.ex	/^defmodule Credo.CLI.Command do$/;"	m
+Config	deps/credo/lib/credo/config.ex	/^defmodule Credo.Config do$/;"	m
+Credo	deps/credo/lib/credo.ex	/^defmodule Credo do$/;"	m
+Credo	deps/credo/lib/mix/tasks/credo.ex	/^defmodule Mix.Tasks.Credo do$/;"	m
+CredoSampleModule	deps/credo/lib/credo/check/refactor/nesting.ex	/^      defmodule CredoSampleModule do$/;"	m
+Cursor	lib/io/cursor.ex	/^defmodule IO.ANSI.Cursor do$/;"	m
+CyclomaticComplexity	deps/credo/lib/credo/check/refactor/cyclomatic_complexity.ex	/^defmodule Credo.Check.Refactor.CyclomaticComplexity do$/;"	m
+DELWIN	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(DELWIN, 25).$/;"	d
+DELWIN	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(DELWIN, 25).$/;"	d
+DELWIN	deps/cecho/c_src/cecho_commands.h	43;"	d
+DELWIN	deps/cecho/include/cecho_commands.hrl	/^-define(DELWIN, 25).$/;"	d
+DRIVER_INIT	deps/cecho/c_src/cecho.c	/^DRIVER_INIT(cecho) {$/;"	f
+Display	lib/landscape/display.ex	/^defmodule Landscape.Display do$/;"	m
+DuplicatedCode	deps/credo/lib/credo/check/design/duplicated_code.ex	/^defmodule Credo.Check.Design.DuplicatedCode do$/;"	m
+ECHO	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(ECHO, 5).$/;"	d
+ECHO	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(ECHO, 5).$/;"	d
+ECHO	deps/cecho/c_src/cecho_commands.h	23;"	d
+ECHO	deps/cecho/include/cecho_commands.hrl	/^-define(ECHO, 5).$/;"	d
+ENDWIN	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(ENDWIN, 0).$/;"	d
+ENDWIN	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(ENDWIN, 0).$/;"	d
+ENDWIN	deps/cecho/c_src/cecho_commands.h	18;"	d
+ENDWIN	deps/cecho/include/cecho_commands.hrl	/^-define(ENDWIN, 0).$/;"	d
+ErlDrvSSizeT	deps/cecho/c_src/cecho.c	32;"	d	file:
+ErlDrvSizeT	deps/cecho/c_src/cecho.c	31;"	d	file:
+ExceptionNames	deps/credo/lib/credo/check/consistency/exception_names.ex	/^defmodule Credo.Check.Consistency.ExceptionNames do$/;"	m
+Explain	deps/credo/lib/credo/cli/command/explain.ex	/^defmodule Credo.CLI.Command.Explain do$/;"	m
+Explain	deps/credo/lib/credo/cli/output/explain.ex	/^defmodule Credo.CLI.Output.Explain do$/;"	m
+ExsLoader	deps/credo/lib/credo/exs_loader.ex	/^defmodule Credo.ExsLoader do$/;"	m
+FALSE	deps/encurses/include/encurses.hrl	/^-define(FALSE, 0).$/;"	d
+Filename	deps/credo/lib/credo/cli/filename.ex	/^defmodule Credo.CLI.Filename do$/;"	m
+Filter	deps/credo/lib/credo/cli/filter.ex	/^defmodule Credo.CLI.Filter do$/;"	m
+FunctionNames	deps/credo/lib/credo/check/readability/function_names.ex	/^defmodule Credo.Check.Readability.FunctionNames do$/;"	m
+GETMAXYX	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(GETMAXYX, 11).$/;"	d
+GETMAXYX	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(GETMAXYX, 11).$/;"	d
+GETMAXYX	deps/cecho/c_src/cecho_commands.h	29;"	d
+GETMAXYX	deps/cecho/include/cecho_commands.hrl	/^-define(GETMAXYX, 11).$/;"	d
+GETYX	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(GETYX, 10).$/;"	d
+GETYX	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(GETYX, 10).$/;"	d
+GETYX	deps/cecho/c_src/cecho_commands.h	28;"	d
+GETYX	deps/cecho/include/cecho_commands.hrl	/^-define(GETYX, 10).$/;"	d
+HAS_COLORS	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(HAS_COLORS, 14).$/;"	d
+HAS_COLORS	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(HAS_COLORS, 14).$/;"	d
+HAS_COLORS	deps/cecho/c_src/cecho_commands.h	32;"	d
+HAS_COLORS	deps/cecho/include/cecho_commands.hrl	/^-define(HAS_COLORS, 14).$/;"	d
+HTTPHeaderException	deps/credo/lib/credo/check/consistency/exception_names.ex	/^      defmodule HTTPHeaderException do$/;"	m
+Help	deps/credo/lib/credo/cli/command/help.ex	/^defmodule Credo.CLI.Command.Help do$/;"	m
+Helper	deps/credo/lib/credo/check/consistency/helper.ex	/^defmodule Credo.Check.Consistency.Helper do$/;"	m
+Helper	deps/credo/lib/credo/check/refactor/helper.ex	/^defmodule Credo.Check.Refactor.Helper do$/;"	m
+IExPry	deps/credo/lib/credo/check/warning/iex_pry.ex	/^defmodule Credo.Check.Warning.IExPry do$/;"	m
+INITSCR	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(INITSCR, 1).$/;"	d
+INITSCR	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(INITSCR, 1).$/;"	d
+INITSCR	deps/cecho/c_src/cecho_commands.h	19;"	d
+INITSCR	deps/cecho/include/cecho_commands.hrl	/^-define(INITSCR, 1).$/;"	d
+INIT_PAIR	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(INIT_PAIR, 16).$/;"	d
+INIT_PAIR	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(INIT_PAIR, 16).$/;"	d
+INIT_PAIR	deps/cecho/c_src/cecho_commands.h	34;"	d
+INIT_PAIR	deps/cecho/include/cecho_commands.hrl	/^-define(INIT_PAIR, 16).$/;"	d
+Interface	lib/interface.ex	/^defmodule Interface do$/;"	m
+IoInspect	deps/credo/lib/credo/check/warning/io_inspect.ex	/^defmodule Credo.Check.Warning.IoInspect do$/;"	m
+Issue	deps/credo/lib/credo/issue.ex	/^defmodule Credo.Issue do$/;"	m
+IssueHelper	deps/credo/lib/credo/cli/output/issue_helper.ex	/^defmodule Credo.CLI.Output.IssueHelper do$/;"	m
+IssueMeta	deps/credo/lib/credo/issue_meta.ex	/^defmodule Credo.IssueMeta do$/;"	m
+IssuesByScope	deps/credo/lib/credo/cli/output/issues_by_scope.ex	/^defmodule Credo.CLI.Output.IssuesByScope do$/;"	m
+IssuesGroupedByCategory	deps/credo/lib/credo/cli/output/issues_grouped_by_category.ex	/^defmodule Credo.CLI.Output.IssuesGroupedByCategory do$/;"	m
+IssuesShortList	deps/credo/lib/credo/cli/output/issues_short_list.ex	/^defmodule Credo.CLI.Output.IssuesShortList do$/;"	m
+KEYPAD	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(KEYPAD, 36).$/;"	d
+KEYPAD	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(KEYPAD, 36).$/;"	d
+KEYPAD	deps/cecho/c_src/cecho_commands.h	54;"	d
+KEYPAD	deps/cecho/include/cecho_commands.hrl	/^-define(KEYPAD, 36).$/;"	d
+KEY_DEL	deps/encurses/include/encurses.hrl	/^-define(KEY_DEL, 330).$/;"	d
+KEY_DOWN	deps/encurses/include/encurses.hrl	/^-define(KEY_DOWN, 258).$/;"	d
+KEY_END	deps/encurses/include/encurses.hrl	/^-define(KEY_END, 360).$/;"	d
+KEY_ESC	deps/encurses/include/encurses.hrl	/^-define(KEY_ESC, 27).$/;"	d
+KEY_F	deps/encurses/include/encurses.hrl	/^-define(KEY_F(N), 264+N).$/;"	d
+KEY_HOME	deps/encurses/include/encurses.hrl	/^-define(KEY_HOME, 262).$/;"	d
+KEY_INS	deps/encurses/include/encurses.hrl	/^-define(KEY_INS, 331).$/;"	d
+KEY_LEFT	deps/encurses/include/encurses.hrl	/^-define(KEY_LEFT, 260).$/;"	d
+KEY_PGDOWN	deps/encurses/include/encurses.hrl	/^-define(KEY_PGDOWN, 338).$/;"	d
+KEY_PGUP	deps/encurses/include/encurses.hrl	/^-define(KEY_PGUP, 339).$/;"	d
+KEY_RIGHT	deps/encurses/include/encurses.hrl	/^-define(KEY_RIGHT, 261).$/;"	d
+KEY_TAB	deps/encurses/include/encurses.hrl	/^-define(KEY_TAB, 9).$/;"	d
+KEY_UP	deps/encurses/include/encurses.hrl	/^-define(KEY_UP, 259).$/;"	d
+Landscape	lib/landscape.ex	/^defmodule Landscape do$/;"	m
+LandscapeTest	test/landscape_test.exs	/^defmodule LandscapeTest do$/;"	m
+LineEndings	deps/credo/lib/credo/check/consistency/line_endings.ex	/^defmodule Credo.Check.Consistency.LineEndings do$/;"	m
+List	deps/credo/lib/credo/cli/command/list.ex	/^defmodule Credo.CLI.Command.List do$/;"	m
+MOVE	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(MOVE, 9).$/;"	d
+MOVE	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(MOVE, 9).$/;"	d
+MOVE	deps/cecho/c_src/cecho_commands.h	27;"	d
+MOVE	deps/cecho/include/cecho_commands.hrl	/^-define(MOVE, 9).$/;"	d
+MVADDCH	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(MVADDCH, 22).$/;"	d
+MVADDCH	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(MVADDCH, 22).$/;"	d
+MVADDCH	deps/cecho/c_src/cecho_commands.h	40;"	d
+MVADDCH	deps/cecho/include/cecho_commands.hrl	/^-define(MVADDCH, 22).$/;"	d
+MVADDSTR	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(MVADDSTR, 23).$/;"	d
+MVADDSTR	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(MVADDSTR, 23).$/;"	d
+MVADDSTR	deps/cecho/c_src/cecho_commands.h	41;"	d
+MVADDSTR	deps/cecho/include/cecho_commands.hrl	/^-define(MVADDSTR, 23).$/;"	d
+MVWADDCH	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(MVWADDCH, 30).$/;"	d
+MVWADDCH	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(MVWADDCH, 30).$/;"	d
+MVWADDCH	deps/cecho/c_src/cecho_commands.h	48;"	d
+MVWADDCH	deps/cecho/include/cecho_commands.hrl	/^-define(MVWADDCH, 30).$/;"	d
+MVWADDSTR	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(MVWADDSTR, 29).$/;"	d
+MVWADDSTR	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(MVWADDSTR, 29).$/;"	d
+MVWADDSTR	deps/cecho/c_src/cecho_commands.h	47;"	d
+MVWADDSTR	deps/cecho/include/cecho_commands.hrl	/^-define(MVWADDSTR, 29).$/;"	d
+MaxLineLength	deps/credo/lib/credo/check/readability/max_line_length.ex	/^defmodule Credo.Check.Readability.MaxLineLength do$/;"	m
+Mixfile	deps/bunt/mix.exs	/^defmodule Bunt.Mixfile do$/;"	m
+Mixfile	deps/credo/mix.exs	/^defmodule Credo.Mixfile do$/;"	m
+Mixfile	mix.exs	/^defmodule Landscape.Mixfile do$/;"	m
+Module	deps/credo/lib/credo/code/module.ex	/^defmodule Credo.Code.Module do$/;"	m
+ModuleAttributeNames	deps/credo/lib/credo/check/readability/module_attribute_names.ex	/^defmodule Credo.Check.Readability.ModuleAttributeNames do$/;"	m
+ModuleNames	deps/credo/lib/credo/check/readability/module_names.ex	/^defmodule Credo.Check.Readability.ModuleNames do$/;"	m
+NEWWIN	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(NEWWIN, 24).$/;"	d
+NEWWIN	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(NEWWIN, 24).$/;"	d
+NEWWIN	deps/cecho/c_src/cecho_commands.h	42;"	d
+NEWWIN	deps/cecho/include/cecho_commands.hrl	/^-define(NEWWIN, 24).$/;"	d
+NL	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(NL, 19).$/;"	d
+NL	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(NL, 19).$/;"	d
+NL	deps/cecho/c_src/cecho_commands.h	37;"	d
+NL	deps/cecho/include/cecho_commands.hrl	/^-define(NL, 19).$/;"	d
+NOCBREAK	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(NOCBREAK, 4).$/;"	d
+NOCBREAK	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(NOCBREAK, 4).$/;"	d
+NOCBREAK	deps/cecho/c_src/cecho_commands.h	22;"	d
+NOCBREAK	deps/cecho/include/cecho_commands.hrl	/^-define(NOCBREAK, 4).$/;"	d
+NOECHO	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(NOECHO, 6).$/;"	d
+NOECHO	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(NOECHO, 6).$/;"	d
+NOECHO	deps/cecho/c_src/cecho_commands.h	24;"	d
+NOECHO	deps/cecho/include/cecho_commands.hrl	/^-define(NOECHO, 6).$/;"	d
+NONL	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(NONL, 20).$/;"	d
+NONL	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(NONL, 20).$/;"	d
+NONL	deps/cecho/c_src/cecho_commands.h	38;"	d
+NONL	deps/cecho/include/cecho_commands.hrl	/^-define(NONL, 20).$/;"	d
+Name	deps/credo/lib/credo/code/name.ex	/^defmodule Credo.Code.Name do$/;"	m
+NameRedeclarationByAssignment	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^defmodule Credo.Check.Warning.NameRedeclarationByAssignment do$/;"	m
+NameRedeclarationByCase	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^defmodule Credo.Check.Warning.NameRedeclarationByCase do$/;"	m
+NameRedeclarationByDef	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^defmodule Credo.Check.Warning.NameRedeclarationByDef do$/;"	m
+NameRedeclarationByFn	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^defmodule Credo.Check.Warning.NameRedeclarationByFn do$/;"	m
+NegatedConditionsInUnless	deps/credo/lib/credo/check/refactor/negated_conditions_in_unless.ex	/^defmodule Credo.Check.Refactor.NegatedConditionsInUnless do$/;"	m
+NegatedConditionsWithElse	deps/credo/lib/credo/check/refactor/negated_conditions_with_else.ex	/^defmodule Credo.Check.Refactor.NegatedConditionsWithElse do$/;"	m
+Nesting	deps/credo/lib/credo/check/refactor/nesting.ex	/^defmodule Credo.Check.Refactor.Nesting do$/;"	m
+OperationOnSameValues	deps/credo/lib/credo/check/warning/operation_on_same_values.ex	/^defmodule Credo.Check.Warning.OperationOnSameValues do$/;"	m
+Output	deps/credo/lib/credo/cli/output.ex	/^defmodule Credo.CLI.Output do$/;"	m
+Parameters	deps/credo/lib/credo/code/parameters.ex	/^defmodule Credo.Code.Parameters do$/;"	m
+Params	deps/credo/lib/credo/check/params.ex	/^defmodule Credo.Check.Params do$/;"	m
+ParserError	deps/credo/lib/credo/check/consistency/exception_names.ex	/^      defmodule ParserError do$/;"	m
+ParserError	deps/credo/lib/credo/code.ex	/^  defmodule ParserError do$/;"	m
+Position	lib/landscape/position.ex	/^defmodule Landscape.Position do$/;"	m
+PredicateFunctionNames	deps/credo/lib/credo/check/readability/predicate_function_names.ex	/^defmodule Credo.Check.Readability.PredicateFunctionNames do$/;"	m
+PrefixAndSuffixCollector	deps/credo/lib/credo/check/consistency/exception_names/prefix_and_suffix_collector.ex	/^defmodule Credo.Check.Consistency.ExceptionNames.PrefixAndSuffixCollector do$/;"	m
+Priority	deps/credo/lib/credo/priority.ex	/^defmodule Credo.Priority do$/;"	m
+PropertyValue	deps/credo/lib/credo/check/property_value.ex	/^defmodule Credo.Check.PropertyValue do$/;"	m
+R	.iex.exs	/^defmodule R do$/;"	m
+REFRESH	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(REFRESH, 2).$/;"	d
+REFRESH	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(REFRESH, 2).$/;"	d
+REFRESH	deps/cecho/c_src/cecho_commands.h	20;"	d
+REFRESH	deps/cecho/include/cecho_commands.hrl	/^-define(REFRESH, 2).$/;"	d
+Runner	deps/credo/lib/credo/check/runner.ex	/^defmodule Credo.Check.Runner do$/;"	m
+SCROLLOK	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(SCROLLOK, 21).$/;"	d
+SCROLLOK	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(SCROLLOK, 21).$/;"	d
+SCROLLOK	deps/cecho/c_src/cecho_commands.h	39;"	d
+SCROLLOK	deps/cecho/include/cecho_commands.hrl	/^-define(SCROLLOK, 21).$/;"	d
+START_COLOR	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(START_COLOR, 15).$/;"	d
+START_COLOR	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(START_COLOR, 15).$/;"	d
+START_COLOR	deps/cecho/c_src/cecho_commands.h	33;"	d
+START_COLOR	deps/cecho/include/cecho_commands.hrl	/^-define(START_COLOR, 15).$/;"	d
+STDSCR	deps/encurses/include/encurses.hrl	/^-define(STDSCR, 0).$/;"	d
+Scope	deps/credo/lib/credo/code/scope.ex	/^defmodule Credo.Code.Scope do$/;"	m
+Search	deps/credo/lib/credo/check/design/alias_usage.ex	/^      defmodule MyApp.Web.Search do$/;"	m
+Sequence	deps/bunt/lib/bunt_ansi.ex	/^defmodule Bunt.ANSI.Sequence do$/;"	m
+Severity	deps/credo/lib/credo/severity.ex	/^defmodule Credo.Severity do$/;"	m
+Sigils	deps/credo/lib/credo/code/sigils.ex	/^defmodule Credo.Code.Sigils do$/;"	m
+Sim	lib/sim.ex	/^defmodule Sim do$/;"	m
+Sorter	deps/credo/lib/credo/cli/sorter.ex	/^defmodule Credo.CLI.Sorter do$/;"	m
+SourceFile	deps/credo/lib/credo/source_file.ex	/^defmodule Credo.SourceFile do$/;"	m
+SourceFileCodeOnly	deps/credo/lib/credo/service/source_file_code_only.ex	/^defmodule Credo.Service.SourceFileCodeOnly do$/;"	m
+SourceFileScopes	deps/credo/lib/credo/service/source_file_scopes.ex	/^defmodule Credo.Service.SourceFileScopes do$/;"	m
+SourceFileWithoutStringAndSigils	deps/credo/lib/credo/service/source_file_without_strings_and_sigils.ex	/^defmodule Credo.Service.SourceFileWithoutStringAndSigils do$/;"	m
+Sources	deps/credo/lib/credo/sources.ex	/^defmodule Credo.Sources do$/;"	m
+Spaces	deps/credo/lib/credo/check/consistency/tabs_or_spaces/spaces.ex	/^defmodule Credo.Check.Consistency.TabsOrSpaces.Spaces do$/;"	m
+Strings	deps/credo/lib/credo/code/strings.ex	/^defmodule Credo.Code.Strings do$/;"	m
+Suggest	deps/credo/lib/credo/cli/command/suggest.ex	/^defmodule Credo.CLI.Command.Suggest do$/;"	m
+Summary	deps/credo/lib/credo/cli/output/summary.ex	/^defmodule Credo.CLI.Output.Summary do$/;"	m
+TRUE	deps/encurses/include/encurses.hrl	/^-define(TRUE, 1).$/;"	d
+Tabs	deps/credo/lib/credo/check/consistency/tabs_or_spaces/tabs.ex	/^defmodule Credo.Check.Consistency.TabsOrSpaces.Tabs do$/;"	m
+TabsOrSpaces	deps/credo/lib/credo/check/consistency/tabs_or_spaces.ex	/^defmodule Credo.Check.Consistency.TabsOrSpaces do$/;"	m
+TagFIXME	deps/credo/lib/credo/check/design/tag_fixme.ex	/^defmodule Credo.Check.Design.TagFIXME do$/;"	m
+TagHelper	deps/credo/lib/credo/check/design/tag_helper.ex	/^defmodule Credo.Check.Design.TagHelper do$/;"	m
+TagTODO	deps/credo/lib/credo/check/design/tag_todo.ex	/^defmodule Credo.Check.Design.TagTODO do$/;"	m
+TrailingBlankLine	deps/credo/lib/credo/check/readability/trailing_blank_line.ex	/^defmodule Credo.Check.Readability.TrailingBlankLine do$/;"	m
+TrailingWhiteSpace	deps/credo/lib/credo/check/readability/trailing_white_space.ex	/^defmodule Credo.Check.Readability.TrailingWhiteSpace do$/;"	m
+UI	deps/credo/lib/credo/cli/output/ui.ex	/^defmodule Credo.CLI.Output.UI do$/;"	m
+Unix	deps/credo/lib/credo/check/consistency/line_endings/unix.ex	/^defmodule Credo.Check.Consistency.LineEndings.Unix do$/;"	m
+UnlessWithElse	deps/credo/lib/credo/check/refactor/unless_with_else.ex	/^defmodule Credo.Check.Refactor.UnlessWithElse do$/;"	m
+UnusedFunctionReturnHelper	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^defmodule Credo.Check.Warning.UnusedFunctionReturnHelper do$/;"	m
+UnusedStringOperation	deps/credo/lib/credo/check/warning/unused_string_operation.ex	/^defmodule Credo.Check.Warning.UnusedStringOperation do$/;"	m
+VariableNames	deps/credo/lib/credo/check/readability/variable_names.ex	/^defmodule Credo.Check.Readability.VariableNames do$/;"	m
+Version	deps/credo/lib/credo/cli/command/version.ex	/^defmodule Credo.CLI.Command.Version do$/;"	m
+WADDCH	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(WADDCH, 28).$/;"	d
+WADDCH	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(WADDCH, 28).$/;"	d
+WADDCH	deps/cecho/c_src/cecho_commands.h	46;"	d
+WADDCH	deps/cecho/include/cecho_commands.hrl	/^-define(WADDCH, 28).$/;"	d
+WADDSTR	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(WADDSTR, 27).$/;"	d
+WADDSTR	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(WADDSTR, 27).$/;"	d
+WADDSTR	deps/cecho/c_src/cecho_commands.h	45;"	d
+WADDSTR	deps/cecho/include/cecho_commands.hrl	/^-define(WADDSTR, 27).$/;"	d
+WATTROFF	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(WATTROFF, 18).$/;"	d
+WATTROFF	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(WATTROFF, 18).$/;"	d
+WATTROFF	deps/cecho/c_src/cecho_commands.h	36;"	d
+WATTROFF	deps/cecho/include/cecho_commands.hrl	/^-define(WATTROFF, 18).$/;"	d
+WATTRON	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(WATTRON, 17).$/;"	d
+WATTRON	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(WATTRON, 17).$/;"	d
+WATTRON	deps/cecho/c_src/cecho_commands.h	35;"	d
+WATTRON	deps/cecho/include/cecho_commands.hrl	/^-define(WATTRON, 17).$/;"	d
+WBORDER	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(WBORDER, 34).$/;"	d
+WBORDER	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(WBORDER, 34).$/;"	d
+WBORDER	deps/cecho/c_src/cecho_commands.h	52;"	d
+WBORDER	deps/cecho/include/cecho_commands.hrl	/^-define(WBORDER, 34).$/;"	d
+WERASE	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(WERASE, 13).$/;"	d
+WERASE	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(WERASE, 13).$/;"	d
+WERASE	deps/cecho/c_src/cecho_commands.h	31;"	d
+WERASE	deps/cecho/include/cecho_commands.hrl	/^-define(WERASE, 13).$/;"	d
+WHLINE	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(WHLINE, 32).$/;"	d
+WHLINE	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(WHLINE, 32).$/;"	d
+WHLINE	deps/cecho/c_src/cecho_commands.h	50;"	d
+WHLINE	deps/cecho/include/cecho_commands.hrl	/^-define(WHLINE, 32).$/;"	d
+WMOVE	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(WMOVE, 26).$/;"	d
+WMOVE	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(WMOVE, 26).$/;"	d
+WMOVE	deps/cecho/c_src/cecho_commands.h	44;"	d
+WMOVE	deps/cecho/include/cecho_commands.hrl	/^-define(WMOVE, 26).$/;"	d
+WREFRESH	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(WREFRESH, 31).$/;"	d
+WREFRESH	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(WREFRESH, 31).$/;"	d
+WREFRESH	deps/cecho/c_src/cecho_commands.h	49;"	d
+WREFRESH	deps/cecho/include/cecho_commands.hrl	/^-define(WREFRESH, 31).$/;"	d
+WVLINE	_build/dev/lib/cecho/include/cecho_commands.hrl	/^-define(WVLINE, 33).$/;"	d
+WVLINE	_build/test/lib/cecho/include/cecho_commands.hrl	/^-define(WVLINE, 33).$/;"	d
+WVLINE	deps/cecho/c_src/cecho_commands.h	51;"	d
+WVLINE	deps/cecho/include/cecho_commands.hrl	/^-define(WVLINE, 33).$/;"	d
+Water	lib/landscape/water.ex	/^defmodule Landscape.Water do$/;"	m
+Weather	lib/weather.ex	/^defmodule Weather do$/;"	m
+WeatherTest	test/weather_test.exs	/^defmodule WeatherTest do$/;"	m
+WebSearchController	deps/credo/lib/credo/check/readability/module_names.ex	/^      defmodule MyApp.WebSearchController do$/;"	m
+Web_searchController	deps/credo/lib/credo/check/readability/module_names.ex	/^      defmodule MyApp.Web_searchController do$/;"	m
+Windows	deps/credo/lib/credo/check/consistency/line_endings/windows.ex	/^defmodule Credo.Check.Consistency.LineEndings.Windows do$/;"	m
+_INT	deps/cecho/c_src/cecho.h	18;"	d
+_MAXWINDOWS	deps/cecho/c_src/cecho.h	20;"	d
+_MAXWINDOWS	deps/encurses/c_src/encurses.h	35;"	d
+__using__	deps/credo/lib/credo/check.ex	/^  defmacro __using__(opts) do$/;"	a
+__using__	deps/credo/lib/credo/check/code_pattern.ex	/^  defmacro __using__(_) do$/;"	a
+__using__	deps/credo/lib/credo/cli/command.ex	/^  defmacro __using__(_opts) do$/;"	a
+_key	hic.sh	/^_key()$/;"	f
+_qitem_t	deps/encurses/c_src/encurses.c	/^typedef struct _qitem_t$/;"	s	file:
+abc_size_for	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  def abc_size_for(ast, arguments) do$/;"	f
+abc_size_for	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  def abc_size_for(nil, _arguments), do: 0$/;"	f
+abc_size_for	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  def abc_size_for({_def_op, _meta, arguments}) when is_list(arguments) do$/;"	f
+add_calendar	lib/interface.ex	/^  def add_calendar(map), do: {map, {1, :spring, 1, 8, 0, :pause}}$/;"	f
+add_calendar	lib/sim.ex	/^  def add_calendar(map), do: {map, {1, :spring, 1, :pause}}$/;"	f
+add_directory_to_file	deps/credo/lib/credo/config.ex	/^  defp add_directory_to_file(file_or_glob, dir) do$/;"	f
+add_given_directory_to_files	deps/credo/lib/credo/config.ex	/^  defp add_given_directory_to_files(%__MODULE__{files: files} = config, dir) do$/;"	f
+add_issues_if_necessary	deps/credo/lib/credo/check/consistency/helper.ex	/^  defp add_issues_if_necessary({_prop_list, source_file}, nil, _, _) do$/;"	f
+add_issues_if_necessary	deps/credo/lib/credo/check/consistency/helper.ex	/^  defp add_issues_if_necessary({prop_list, source_file}, most_picked, new_issue_fun, params) do$/;"	f
+add_issues_to_source_files	deps/credo/lib/credo/check/consistency/helper.ex	/^  def add_issues_to_source_files({property_tuples, most_picked}, new_issue_fun, params) do$/;"	f
+add_issues_to_source_files	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp add_issues_to_source_files(hashes, source_files, nodes_threshold, params) when is_map(hashes) do$/;"	f
+add_mass_to_subnode	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp add_mass_to_subnode({hash, node_items}) do$/;"	f
+add_masses	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  def add_masses(hashes) do$/;"	f
+add_water	lib/landscape.ex	/^  def add_water({w, h, m}), do: add_water({w, h, m}, :random.uniform(w * h))$/;"	f
+add_water	lib/landscape.ex	/^  def add_water({w, h, m}, ele) do$/;"	f
+addch	deps/cecho/src/cecho.erl	/^addch(Char) when is_integer(Char) ->$/;"	f	module:cecho
+addch	deps/encurses/src/encurses.erl	/^addch(Char) when is_integer(Char) ->$/;"	f	module:encurses
+addstr	deps/cecho/src/cecho.erl	/^addstr(String) when is_list(String) ->$/;"	f	module:cecho
+addstr	deps/encurses/src/encurses.erl	/^addstr(String) when is_list(String) ->$/;"	f	module:encurses
+advance	lib/calendar.ex	/^  def advance(state, 0), do: state$/;"	f
+advance	lib/calendar.ex	/^  def advance(state, times), do: state |> next_minute |> advance(times - 1)$/;"	f
+advance	lib/calendar.ex	/^  def advance({y, season, d, h, m, speed}) do$/;"	f
+advance	lib/interface.ex	/^  def advance, do: Landscape.Display.print_map$/;"	f
+after_block?	deps/credo/lib/credo/code/block.ex	/^  def after_block?(ast) do$/;"	f
+after_block_for	deps/credo/lib/credo/code/block.ex	/^  def after_block_for([do: _do_block, after: after_block]) do$/;"	f
+after_block_for	deps/credo/lib/credo/code/block.ex	/^  def after_block_for(_) do$/;"	f
+after_block_for	deps/credo/lib/credo/code/block.ex	/^  def after_block_for(arguments) when is_list(arguments) do$/;"	f
+after_block_for	deps/credo/lib/credo/code/block.ex	/^  def after_block_for({_atom, _meta, arguments}) when is_list(arguments) do$/;"	f
+after_block_for!	deps/credo/lib/credo/code/block.ex	/^  def after_block_for!(ast) do$/;"	f
+all_blocks_for!	deps/credo/lib/credo/check/code_helper.ex	/^  defdelegate all_blocks_for!(ast), to: Block, as: :all_blocks_for!$/;"	d
+all_blocks_for!	deps/credo/lib/credo/code/block.ex	/^  def all_blocks_for!(ast) do$/;"	f
+application	deps/bunt/mix.exs	/^  def application do$/;"	f
+application	deps/credo/mix.exs	/^  def application do$/;"	f
+application	mix.exs	/^  def application do$/;"	f
+args	deps/cecho/c_src/cecho.c	/^  char *args;$/;"	m	struct:__anon4	file:
+argslen	deps/cecho/c_src/cecho.c	/^  int argslen;$/;"	m	struct:__anon4	file:
+ast	deps/credo/lib/credo/code.ex	/^  def ast(%SourceFile{source: source, filename: filename}) do$/;"	f
+ast	deps/credo/lib/credo/code.ex	/^  def ast(source, filename \\\\ "nofilename") do$/;"	f
+atom	deps/cecho/c_src/cecho.c	/^void atom(ei_x_buff *eixb, const char *str, int size) {$/;"	f
+atom_ok	deps/encurses/c_src/encurses.c	/^    ERL_NIF_TERM atom_ok;$/;"	m	struct:__anon3	file:
+attribute	deps/credo/lib/credo/code/module.ex	/^  def attribute(ast, attr_name) do$/;"	f
+attroff	deps/cecho/src/cecho.erl	/^attroff(Mask) ->$/;"	f	module:cecho
+attroff	deps/cecho/src/cecho.erl	/^attroff(Window, Mask) when is_integer(Mask) andalso is_integer(Window) ->$/;"	f	module:cecho
+attroff	deps/encurses/src/encurses.erl	/^attroff(Mask) when is_integer(Mask) ->$/;"	f	module:encurses
+attroff	deps/encurses/src/encurses.erl	/^attroff(Win, Mask) when is_integer(Win) andalso is_integer(Mask) ->$/;"	f	module:encurses
+attron	deps/cecho/src/cecho.erl	/^attron(Mask) ->$/;"	f	module:cecho
+attron	deps/cecho/src/cecho.erl	/^attron(Window, Mask) when is_integer(Mask) andalso is_integer(Window) ->$/;"	f	module:cecho
+attron	deps/encurses/src/encurses.erl	/^attron(Mask) when is_integer(Mask) ->$/;"	f	module:encurses
+attron	deps/encurses/src/encurses.erl	/^attron(Win, Mask) when is_integer(Win) andalso is_integer(Mask) ->$/;"	f	module:encurses
+banner	deps/credo/lib/credo/cli/command/help.ex	/^  def banner do$/;"	f
+base_priority	deps/credo/lib/credo/check.ex	/^      def base_priority, do: unquote(to_priority(opts[:base_priority]))$/;"	f
+base_weather	lib/weather.ex	/^  def base_weather(), do:  {70, 20, 5, :ne, 20}$/;"	f
+base_weather	test/weather_test.exs	/^  test "base_weather\/0" do$/;"	t
+bol	lib/landscape/display.ex	/^  def bol,             do: IO.ANSI.Cursor.cursor_to_column(1)$/;"	f
+bol	lib/landscape/position.ex	/^  defmacro bol(w, _, ele), do: quote do: rem(unquote(ele), unquote(w)) == 0$/;"	a
+boolean	deps/cecho/c_src/cecho.c	/^void boolean(state *st, int code) {$/;"	f
+boolean	deps/encurses/c_src/encurses.c	/^boolean(ErlNifEnv* env, int value) $/;"	f	file:
+border	deps/cecho/src/cecho.erl	/^border(Ls, Rs, Ts, Bs, TLs, TRs, BLs, BRs) ->$/;"	f	module:cecho
+border	deps/encurses/src/encurses.erl	/^border(Ls, Rs, Ts, Bs, TLs, TRs, BLs, BRs)$/;"	f	module:encurses
+border	deps/encurses/src/encurses.erl	/^border(Win, Ls, Rs, Ts, Bs, TLs, TRs, BLs, BRs)$/;"	f	module:encurses
+bot	lib/landscape/position.ex	/^  defmacro bot(w, h, ele), do: quote do: unquote(h) <= (div(unquote(ele), unquote(w)) + 1)$/;"	a
+bounce_text	deps/encurses/src/encurses_demo.erl	/^bounce_text(Str, StrLen, PrevX, PrevY, DirX, DirY) ->$/;"	f	module:encurses_demo
+bounce_timer	deps/encurses/src/encurses_demo.erl	/^bounce_timer(Timer, PrevX, PrevY, DirX, DirY) ->$/;"	f	module:encurses_demo
+box	deps/cecho/src/cecho.erl	/^box(Window, Vert, Horz) when is_integer(Window) andalso is_integer(Vert) andalso$/;"	f	module:cecho
+box	deps/encurses/src/encurses.erl	/^box(Win, Horz, Vert) when is_integer(Win) andalso is_integer(Horz) andalso$/;"	f	module:encurses
+build_map	lib/landscape.ex	/^  def build_map(w, h),                               do: build_map({w, h, []})$/;"	f
+build_map	lib/landscape.ex	/^  defp build_map({w, h, m}) when length(m) < w * h,  do: build_map({w, h, m ++ elevation()})$/;"	f
+build_map	lib/landscape.ex	/^  defp build_map({w, h, m}) when length(m) == w * h, do: {w, h, m}$/;"	f
+calc_mass	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp calc_mass(ast, acc) do$/;"	f
+calc_mass	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp calc_mass(ast, acc) when is_tuple(ast) do$/;"	f
+calc_new_pos	deps/cecho/src/cecho_example.erl	/^calc_new_pos(Py, Px, Dy, Dx) ->$/;"	f	module:cecho_example
+calc_new_pos	deps/encurses/src/encurses_demo.erl	/^calc_new_pos(Len, Px, Py, Dx, Dy) ->$/;"	f	module:encurses_demo
+call	deps/cecho/src/cecho.erl	/^call(Cmd) ->$/;"	f	module:cecho
+call	deps/cecho/src/cecho.erl	/^call(Cmd, Args) ->$/;"	f	module:cecho
+call	deps/cecho/src/cecho_srv.erl	/^call(Cmd, Args) ->$/;"	f	module:cecho_srv
+calls_in_do_block	deps/credo/lib/credo/check/code_helper.ex	/^  defdelegate calls_in_do_block(ast), to: Block, as: :calls_in_do_block$/;"	d
+calls_in_do_block	deps/credo/lib/credo/code/block.ex	/^  def calls_in_do_block(arg) do$/;"	f
+calls_in_do_block	deps/credo/lib/credo/code/block.ex	/^  def calls_in_do_block({_op, _meta, arguments}) do$/;"	f
+calls_to_mod_fun	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp calls_to_mod_fun(ast, required_mod_list, restrict_fun_names) do$/;"	f
+category	deps/credo/lib/credo/check.ex	/^      def category, do: unquote(category_body(opts[:category]))$/;"	f
+category_body	deps/credo/lib/credo/check.ex	/^  defp category_body(nil) do$/;"	f
+category_body	deps/credo/lib/credo/check.ex	/^  defp category_body(value), do: value$/;"	f
+category_count	deps/credo/lib/credo/cli/output/summary.ex	/^  defp category_count(issues, category) do$/;"	f
+cbreak	deps/cecho/src/cecho.erl	/^cbreak() ->$/;"	f	module:cecho
+cbreak	deps/encurses/src/encurses.erl	/^cbreak() ->$/;"	f	module:encurses
+ceACS_BLOCK	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_BLOCK, 4194352).$/;"	d
+ceACS_BLOCK	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_BLOCK, 4194352).$/;"	d
+ceACS_BLOCK	deps/cecho/include/cecho.hrl	/^-define(ceACS_BLOCK, 4194352).$/;"	d
+ceACS_BOARD	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_BOARD, 4194408).$/;"	d
+ceACS_BOARD	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_BOARD, 4194408).$/;"	d
+ceACS_BOARD	deps/cecho/include/cecho.hrl	/^-define(ceACS_BOARD, 4194408).$/;"	d
+ceACS_BTEE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_BTEE, 4194422).$/;"	d
+ceACS_BTEE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_BTEE, 4194422).$/;"	d
+ceACS_BTEE	deps/cecho/include/cecho.hrl	/^-define(ceACS_BTEE, 4194422).$/;"	d
+ceACS_BULLET	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_BULLET, 4194430).$/;"	d
+ceACS_BULLET	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_BULLET, 4194430).$/;"	d
+ceACS_BULLET	deps/cecho/include/cecho.hrl	/^-define(ceACS_BULLET, 4194430).$/;"	d
+ceACS_CKBOARD	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_CKBOARD, 4194401).$/;"	d
+ceACS_CKBOARD	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_CKBOARD, 4194401).$/;"	d
+ceACS_CKBOARD	deps/cecho/include/cecho.hrl	/^-define(ceACS_CKBOARD, 4194401).$/;"	d
+ceACS_DARROW	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_DARROW, 4194350).$/;"	d
+ceACS_DARROW	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_DARROW, 4194350).$/;"	d
+ceACS_DARROW	deps/cecho/include/cecho.hrl	/^-define(ceACS_DARROW, 4194350).$/;"	d
+ceACS_DEGREE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_DEGREE, 4194406).$/;"	d
+ceACS_DEGREE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_DEGREE, 4194406).$/;"	d
+ceACS_DEGREE	deps/cecho/include/cecho.hrl	/^-define(ceACS_DEGREE, 4194406).$/;"	d
+ceACS_DIAMOND	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_DIAMOND, 4194400).$/;"	d
+ceACS_DIAMOND	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_DIAMOND, 4194400).$/;"	d
+ceACS_DIAMOND	deps/cecho/include/cecho.hrl	/^-define(ceACS_DIAMOND, 4194400).$/;"	d
+ceACS_GEQUAL	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_GEQUAL, 4194426).$/;"	d
+ceACS_GEQUAL	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_GEQUAL, 4194426).$/;"	d
+ceACS_GEQUAL	deps/cecho/include/cecho.hrl	/^-define(ceACS_GEQUAL, 4194426).$/;"	d
+ceACS_HLINE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_HLINE, 4194417).$/;"	d
+ceACS_HLINE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_HLINE, 4194417).$/;"	d
+ceACS_HLINE	deps/cecho/include/cecho.hrl	/^-define(ceACS_HLINE, 4194417).$/;"	d
+ceACS_LANTERN	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_LANTERN, 4194409).$/;"	d
+ceACS_LANTERN	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_LANTERN, 4194409).$/;"	d
+ceACS_LANTERN	deps/cecho/include/cecho.hrl	/^-define(ceACS_LANTERN, 4194409).$/;"	d
+ceACS_LARROW	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_LARROW, 4194348).$/;"	d
+ceACS_LARROW	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_LARROW, 4194348).$/;"	d
+ceACS_LARROW	deps/cecho/include/cecho.hrl	/^-define(ceACS_LARROW, 4194348).$/;"	d
+ceACS_LEQUAL	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_LEQUAL, 4194425).$/;"	d
+ceACS_LEQUAL	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_LEQUAL, 4194425).$/;"	d
+ceACS_LEQUAL	deps/cecho/include/cecho.hrl	/^-define(ceACS_LEQUAL, 4194425).$/;"	d
+ceACS_LLCORNER	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_LLCORNER, 4194413).$/;"	d
+ceACS_LLCORNER	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_LLCORNER, 4194413).$/;"	d
+ceACS_LLCORNER	deps/cecho/include/cecho.hrl	/^-define(ceACS_LLCORNER, 4194413).$/;"	d
+ceACS_LRCORNER	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_LRCORNER, 4194410).$/;"	d
+ceACS_LRCORNER	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_LRCORNER, 4194410).$/;"	d
+ceACS_LRCORNER	deps/cecho/include/cecho.hrl	/^-define(ceACS_LRCORNER, 4194410).$/;"	d
+ceACS_LTEE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_LTEE, 4194420).$/;"	d
+ceACS_LTEE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_LTEE, 4194420).$/;"	d
+ceACS_LTEE	deps/cecho/include/cecho.hrl	/^-define(ceACS_LTEE, 4194420).$/;"	d
+ceACS_NEQUAL	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_NEQUAL, 4194428).$/;"	d
+ceACS_NEQUAL	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_NEQUAL, 4194428).$/;"	d
+ceACS_NEQUAL	deps/cecho/include/cecho.hrl	/^-define(ceACS_NEQUAL, 4194428).$/;"	d
+ceACS_PI	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_PI, 4194427).$/;"	d
+ceACS_PI	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_PI, 4194427).$/;"	d
+ceACS_PI	deps/cecho/include/cecho.hrl	/^-define(ceACS_PI, 4194427).$/;"	d
+ceACS_PLMINUS	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_PLMINUS, 4194407).$/;"	d
+ceACS_PLMINUS	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_PLMINUS, 4194407).$/;"	d
+ceACS_PLMINUS	deps/cecho/include/cecho.hrl	/^-define(ceACS_PLMINUS, 4194407).$/;"	d
+ceACS_PLUS	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_PLUS, 4194414).$/;"	d
+ceACS_PLUS	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_PLUS, 4194414).$/;"	d
+ceACS_PLUS	deps/cecho/include/cecho.hrl	/^-define(ceACS_PLUS, 4194414).$/;"	d
+ceACS_RARROW	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_RARROW, 4194347).$/;"	d
+ceACS_RARROW	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_RARROW, 4194347).$/;"	d
+ceACS_RARROW	deps/cecho/include/cecho.hrl	/^-define(ceACS_RARROW, 4194347).$/;"	d
+ceACS_RTEE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_RTEE, 4194421).$/;"	d
+ceACS_RTEE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_RTEE, 4194421).$/;"	d
+ceACS_RTEE	deps/cecho/include/cecho.hrl	/^-define(ceACS_RTEE, 4194421).$/;"	d
+ceACS_S1	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_S1, 4194415).$/;"	d
+ceACS_S1	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_S1, 4194415).$/;"	d
+ceACS_S1	deps/cecho/include/cecho.hrl	/^-define(ceACS_S1, 4194415).$/;"	d
+ceACS_S3	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_S3, 4194416).$/;"	d
+ceACS_S3	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_S3, 4194416).$/;"	d
+ceACS_S3	deps/cecho/include/cecho.hrl	/^-define(ceACS_S3, 4194416).$/;"	d
+ceACS_S7	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_S7, 4194418).$/;"	d
+ceACS_S7	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_S7, 4194418).$/;"	d
+ceACS_S7	deps/cecho/include/cecho.hrl	/^-define(ceACS_S7, 4194418).$/;"	d
+ceACS_S9	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_S9, 4194419).$/;"	d
+ceACS_S9	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_S9, 4194419).$/;"	d
+ceACS_S9	deps/cecho/include/cecho.hrl	/^-define(ceACS_S9, 4194419).$/;"	d
+ceACS_STERLING	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_STERLING, 4194429).$/;"	d
+ceACS_STERLING	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_STERLING, 4194429).$/;"	d
+ceACS_STERLING	deps/cecho/include/cecho.hrl	/^-define(ceACS_STERLING, 4194429).$/;"	d
+ceACS_TTEE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_TTEE, 4194423).$/;"	d
+ceACS_TTEE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_TTEE, 4194423).$/;"	d
+ceACS_TTEE	deps/cecho/include/cecho.hrl	/^-define(ceACS_TTEE, 4194423).$/;"	d
+ceACS_UARROW	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_UARROW, 4194349).$/;"	d
+ceACS_UARROW	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_UARROW, 4194349).$/;"	d
+ceACS_UARROW	deps/cecho/include/cecho.hrl	/^-define(ceACS_UARROW, 4194349).$/;"	d
+ceACS_ULCORNER	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_ULCORNER, 4194412).$/;"	d
+ceACS_ULCORNER	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_ULCORNER, 4194412).$/;"	d
+ceACS_ULCORNER	deps/cecho/include/cecho.hrl	/^-define(ceACS_ULCORNER, 4194412).$/;"	d
+ceACS_URCORNER	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_URCORNER, 4194411).$/;"	d
+ceACS_URCORNER	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_URCORNER, 4194411).$/;"	d
+ceACS_URCORNER	deps/cecho/include/cecho.hrl	/^-define(ceACS_URCORNER, 4194411).$/;"	d
+ceACS_VLINE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceACS_VLINE, 4194424).$/;"	d
+ceACS_VLINE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceACS_VLINE, 4194424).$/;"	d
+ceACS_VLINE	deps/cecho/include/cecho.hrl	/^-define(ceACS_VLINE, 4194424).$/;"	d
+ceA_BLINK	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceA_BLINK, (1 bsl (8 + 11))).$/;"	d
+ceA_BLINK	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceA_BLINK, (1 bsl (8 + 11))).$/;"	d
+ceA_BLINK	deps/cecho/include/cecho.hrl	/^-define(ceA_BLINK, (1 bsl (8 + 11))).$/;"	d
+ceA_BOLD	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceA_BOLD, (1 bsl (8 + 13))).$/;"	d
+ceA_BOLD	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceA_BOLD, (1 bsl (8 + 13))).$/;"	d
+ceA_BOLD	deps/cecho/include/cecho.hrl	/^-define(ceA_BOLD, (1 bsl (8 + 13))).$/;"	d
+ceA_NORMAL	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceA_NORMAL, 0).$/;"	d
+ceA_NORMAL	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceA_NORMAL, 0).$/;"	d
+ceA_NORMAL	deps/cecho/include/cecho.hrl	/^-define(ceA_NORMAL, 0).$/;"	d
+ceA_REVERSE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceA_REVERSE, (1 bsl (8 + 10))).$/;"	d
+ceA_REVERSE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceA_REVERSE, (1 bsl (8 + 10))).$/;"	d
+ceA_REVERSE	deps/cecho/include/cecho.hrl	/^-define(ceA_REVERSE, (1 bsl (8 + 10))).$/;"	d
+ceA_UNDERLINE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceA_UNDERLINE, (1 bsl (8 + 9))).$/;"	d
+ceA_UNDERLINE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceA_UNDERLINE, (1 bsl (8 + 9))).$/;"	d
+ceA_UNDERLINE	deps/cecho/include/cecho.hrl	/^-define(ceA_UNDERLINE, (1 bsl (8 + 9))).$/;"	d
+ceCOLOR_BLACK	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_BLACK, 0).$/;"	d
+ceCOLOR_BLACK	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_BLACK, 0).$/;"	d
+ceCOLOR_BLACK	deps/cecho/include/cecho.hrl	/^-define(ceCOLOR_BLACK, 0).$/;"	d
+ceCOLOR_BLUE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_BLUE, 4).$/;"	d
+ceCOLOR_BLUE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_BLUE, 4).$/;"	d
+ceCOLOR_BLUE	deps/cecho/include/cecho.hrl	/^-define(ceCOLOR_BLUE, 4).$/;"	d
+ceCOLOR_CYAN	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_CYAN, 6).$/;"	d
+ceCOLOR_CYAN	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_CYAN, 6).$/;"	d
+ceCOLOR_CYAN	deps/cecho/include/cecho.hrl	/^-define(ceCOLOR_CYAN, 6).$/;"	d
+ceCOLOR_GREEN	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_GREEN, 2).$/;"	d
+ceCOLOR_GREEN	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_GREEN, 2).$/;"	d
+ceCOLOR_GREEN	deps/cecho/include/cecho.hrl	/^-define(ceCOLOR_GREEN, 2).$/;"	d
+ceCOLOR_MAGENTA	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_MAGENTA, 5).$/;"	d
+ceCOLOR_MAGENTA	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_MAGENTA, 5).$/;"	d
+ceCOLOR_MAGENTA	deps/cecho/include/cecho.hrl	/^-define(ceCOLOR_MAGENTA, 5).$/;"	d
+ceCOLOR_PAIR	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_PAIR(C), (C bsl 8)).$/;"	d
+ceCOLOR_PAIR	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_PAIR(C), (C bsl 8)).$/;"	d
+ceCOLOR_PAIR	deps/cecho/include/cecho.hrl	/^-define(ceCOLOR_PAIR(C), (C bsl 8)).$/;"	d
+ceCOLOR_RED	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_RED, 1).$/;"	d
+ceCOLOR_RED	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_RED, 1).$/;"	d
+ceCOLOR_RED	deps/cecho/include/cecho.hrl	/^-define(ceCOLOR_RED, 1).$/;"	d
+ceCOLOR_WHITE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_WHITE, 7).$/;"	d
+ceCOLOR_WHITE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_WHITE, 7).$/;"	d
+ceCOLOR_WHITE	deps/cecho/include/cecho.hrl	/^-define(ceCOLOR_WHITE, 7).$/;"	d
+ceCOLOR_YELLOW	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_YELLOW, 3).$/;"	d
+ceCOLOR_YELLOW	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceCOLOR_YELLOW, 3).$/;"	d
+ceCOLOR_YELLOW	deps/cecho/include/cecho.hrl	/^-define(ceCOLOR_YELLOW, 3).$/;"	d
+ceCURS_INVISIBLE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceCURS_INVISIBLE, 0).$/;"	d
+ceCURS_INVISIBLE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceCURS_INVISIBLE, 0).$/;"	d
+ceCURS_INVISIBLE	deps/cecho/include/cecho.hrl	/^-define(ceCURS_INVISIBLE, 0).$/;"	d
+ceCURS_NORMAL	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceCURS_NORMAL, 1).$/;"	d
+ceCURS_NORMAL	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceCURS_NORMAL, 1).$/;"	d
+ceCURS_NORMAL	deps/cecho/include/cecho.hrl	/^-define(ceCURS_NORMAL, 1).$/;"	d
+ceCURS_VERY_VISIBLE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceCURS_VERY_VISIBLE, 2).$/;"	d
+ceCURS_VERY_VISIBLE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceCURS_VERY_VISIBLE, 2).$/;"	d
+ceCURS_VERY_VISIBLE	deps/cecho/include/cecho.hrl	/^-define(ceCURS_VERY_VISIBLE, 2).$/;"	d
+ceFALSE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceFALSE, 0).$/;"	d
+ceFALSE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceFALSE, 0).$/;"	d
+ceFALSE	deps/cecho/include/cecho.hrl	/^-define(ceFALSE, 0).$/;"	d
+ceKEY_DEL	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceKEY_DEL, 330).$/;"	d
+ceKEY_DEL	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceKEY_DEL, 330).$/;"	d
+ceKEY_DEL	deps/cecho/include/cecho.hrl	/^-define(ceKEY_DEL, 330).$/;"	d
+ceKEY_DOWN	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceKEY_DOWN, 258).$/;"	d
+ceKEY_DOWN	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceKEY_DOWN, 258).$/;"	d
+ceKEY_DOWN	deps/cecho/include/cecho.hrl	/^-define(ceKEY_DOWN, 258).$/;"	d
+ceKEY_END	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceKEY_END, 360).$/;"	d
+ceKEY_END	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceKEY_END, 360).$/;"	d
+ceKEY_END	deps/cecho/include/cecho.hrl	/^-define(ceKEY_END, 360).$/;"	d
+ceKEY_ESC	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceKEY_ESC, 27).$/;"	d
+ceKEY_ESC	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceKEY_ESC, 27).$/;"	d
+ceKEY_ESC	deps/cecho/include/cecho.hrl	/^-define(ceKEY_ESC, 27).$/;"	d
+ceKEY_F	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceKEY_F(N), 264+N).$/;"	d
+ceKEY_F	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceKEY_F(N), 264+N).$/;"	d
+ceKEY_F	deps/cecho/include/cecho.hrl	/^-define(ceKEY_F(N), 264+N).$/;"	d
+ceKEY_HOME	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceKEY_HOME, 262).$/;"	d
+ceKEY_HOME	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceKEY_HOME, 262).$/;"	d
+ceKEY_HOME	deps/cecho/include/cecho.hrl	/^-define(ceKEY_HOME, 262).$/;"	d
+ceKEY_INS	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceKEY_INS, 331).$/;"	d
+ceKEY_INS	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceKEY_INS, 331).$/;"	d
+ceKEY_INS	deps/cecho/include/cecho.hrl	/^-define(ceKEY_INS, 331).$/;"	d
+ceKEY_LEFT	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceKEY_LEFT, 260).$/;"	d
+ceKEY_LEFT	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceKEY_LEFT, 260).$/;"	d
+ceKEY_LEFT	deps/cecho/include/cecho.hrl	/^-define(ceKEY_LEFT, 260).$/;"	d
+ceKEY_PGDOWN	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceKEY_PGDOWN, 338).$/;"	d
+ceKEY_PGDOWN	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceKEY_PGDOWN, 338).$/;"	d
+ceKEY_PGDOWN	deps/cecho/include/cecho.hrl	/^-define(ceKEY_PGDOWN, 338).$/;"	d
+ceKEY_PGUP	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceKEY_PGUP, 339).$/;"	d
+ceKEY_PGUP	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceKEY_PGUP, 339).$/;"	d
+ceKEY_PGUP	deps/cecho/include/cecho.hrl	/^-define(ceKEY_PGUP, 339).$/;"	d
+ceKEY_RIGHT	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceKEY_RIGHT, 261).$/;"	d
+ceKEY_RIGHT	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceKEY_RIGHT, 261).$/;"	d
+ceKEY_RIGHT	deps/cecho/include/cecho.hrl	/^-define(ceKEY_RIGHT, 261).$/;"	d
+ceKEY_TAB	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceKEY_TAB, 9).$/;"	d
+ceKEY_TAB	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceKEY_TAB, 9).$/;"	d
+ceKEY_TAB	deps/cecho/include/cecho.hrl	/^-define(ceKEY_TAB, 9).$/;"	d
+ceKEY_UP	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceKEY_UP, 259).$/;"	d
+ceKEY_UP	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceKEY_UP, 259).$/;"	d
+ceKEY_UP	deps/cecho/include/cecho.hrl	/^-define(ceKEY_UP, 259).$/;"	d
+ceSTDSCR	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceSTDSCR, 0).$/;"	d
+ceSTDSCR	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceSTDSCR, 0).$/;"	d
+ceSTDSCR	deps/cecho/include/cecho.hrl	/^-define(ceSTDSCR, 0).$/;"	d
+ceTRUE	_build/dev/lib/cecho/include/cecho.hrl	/^-define(ceTRUE, 1).$/;"	d
+ceTRUE	_build/test/lib/cecho/include/cecho.hrl	/^-define(ceTRUE, 1).$/;"	d
+ceTRUE	deps/cecho/include/cecho.hrl	/^-define(ceTRUE, 1).$/;"	d
+cecho	deps/cecho/src/cecho.erl	/^-module(cecho).$/;"	m
+cecho_example	deps/cecho/src/cecho_example.erl	/^-module(cecho_example).$/;"	m
+cecho_srv	deps/cecho/src/cecho_srv.erl	/^-module(cecho_srv).$/;"	m
+ch_colors	deps/cecho/src/cecho_example.erl	/^ch_colors(MR, MC, N) ->$/;"	f	module:cecho_example
+ch_colors	deps/cecho/src/cecho_example.erl	/^ch_colors(_,_,0) -> ok;$/;"	f	module:cecho_example
+check_color	deps/credo/lib/credo/cli/output.ex	/^  def check_color(category) when is_atom(category) do$/;"	f
+check_color	deps/credo/lib/credo/cli/output.ex	/^  def check_color(category) when is_binary(category) do$/;"	f
+check_color	deps/credo/lib/credo/cli/output.ex	/^  def check_color(check_mod) do$/;"	f
+check_for_issues	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  defp check_for_issues(_issue_meta, [], _expected_prop, _picked_count, _total_count), do: nil$/;"	f
+check_for_issues	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  defp check_for_issues(_issue_meta, _actual_props, nil, _picked_count, _total_count), do: nil$/;"	f
+check_for_issues	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  defp check_for_issues(issue_meta, _actual_prop, expected_prop, _picked_count, _total_count) do$/;"	f
+check_tag	deps/credo/lib/credo/cli/output.ex	/^  def check_tag(category) when is_atom(category) do$/;"	f
+check_tag	deps/credo/lib/credo/cli/output.ex	/^  def check_tag(category) when is_binary(category) do$/;"	f
+check_tag	deps/credo/lib/credo/cli/output.ex	/^  def check_tag(check_mod) do$/;"	f
+check_tag_style	deps/credo/lib/credo/cli/output/issues_short_list.ex	/^  defp check_tag_style(_a, _b), do: :bright$/;"	f
+check_tag_style	deps/credo/lib/credo/cli/output/issues_short_list.ex	/^  defp check_tag_style(a, a), do: :faint$/;"	f
+checking_suffix	deps/credo/lib/credo/cli/output/issues_grouped_by_category.ex	/^  defp checking_suffix(count) do$/;"	f
+checks	deps/credo/lib/credo/config.ex	/^  def checks(%__MODULE__{checks: checks, match_checks: match_checks, ignore_checks: ignore_checks}) do$/;"	f
+checks_from_data	deps/credo/lib/credo/config.ex	/^  defp checks_from_data(data) do$/;"	f
+clean_node	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp clean_node([do: tuple, else: tuple2]) when is_tuple(tuple) do$/;"	f
+clean_node	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp clean_node([do: tuple]) when is_tuple(tuple) do$/;"	f
+clean_node	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp clean_node(tuple) when is_tuple(tuple) do$/;"	f
+clean_node	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp clean_node(v) when is_atom(v)$/;"	f
+clean_node	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp clean_node(v) when is_list(v), do: Enum.map(v, &clean_node\/1)$/;"	f
+clean_node	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp clean_node({:do, tuple}) when is_tuple(tuple) do$/;"	f
+clean_node	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp clean_node({:else, tuple}) when is_tuple(tuple) do$/;"	f
+clean_node	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp clean_node({atom, _meta, arguments}) do$/;"	f
+clean_node	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp clean_node({atom, _meta, list}) when is_list(list) do$/;"	f
+clean_strings_and_sigils	deps/credo/lib/credo/check/code_helper.ex	/^  def clean_strings_and_sigils(%SourceFile{filename: filename, source: source}) do$/;"	f
+clean_strings_and_sigils	deps/credo/lib/credo/check/code_helper.ex	/^  def clean_strings_and_sigils(source) do$/;"	f
+clean_strings_sigils_and_comments	deps/credo/lib/credo/check/code_helper.ex	/^  def clean_strings_sigils_and_comments(%SourceFile{filename: filename, source: source}) do$/;"	f
+clean_strings_sigils_and_comments	deps/credo/lib/credo/check/code_helper.ex	/^  def clean_strings_sigils_and_comments(source) do$/;"	f
+code_change	deps/cecho/src/cecho_srv.erl	/^code_change(_, State, _) ->$/;"	f	module:cecho_srv
+collect_hashes	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp collect_hashes(ast, acc, filename, mass_threshold) do$/;"	f
+collect_property_values	deps/credo/lib/credo/check/consistency/helper.ex	/^  defp collect_property_values(pattern_mods, source_file, params) do$/;"	f
+collect_subhashes	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp collect_subhashes({_hash, node_items}) do$/;"	f
+color_aliases	deps/bunt/lib/bunt_ansi.ex	/^  def color_aliases, do: @color_aliases$/;"	f
+color_for	deps/credo/lib/credo/cli/command/help.ex	/^  def color_for("#"), do: [:faint]$/;"	f
+color_for	deps/credo/lib/credo/cli/command/help.ex	/^  def color_for("L"), do: :olive$/;"	f
+color_for	deps/credo/lib/credo/cli/command/help.ex	/^  def color_for("\/"), do: :olive$/;"	f
+color_for	deps/credo/lib/credo/cli/command/help.ex	/^  def color_for("\\\\"), do: :olive$/;"	f
+color_for	deps/credo/lib/credo/cli/command/help.ex	/^  def color_for(_), do: [:reset, :white]$/;"	f
+color_tuples	deps/bunt/lib/bunt_ansi.ex	/^  def color_tuples, do: @color_tuples$/;"	f
+colors	deps/cecho/src/cecho_example.erl	/^colors() ->$/;"	f	module:cecho_example
+column	deps/credo/lib/credo/source_file.ex	/^  def column(source_file, line_no, trigger) do$/;"	f
+command_for	deps/credo/lib/credo/cli.ex	/^  def command_for(command) when is_atom(command) do$/;"	f
+command_for	deps/credo/lib/credo/cli.ex	/^  def command_for(command) when is_binary(command) do$/;"	f
+command_for	deps/credo/lib/credo/cli.ex	/^  def command_for(nil), do: nil$/;"	f
+command_name_dir_config	deps/credo/lib/credo/cli.ex	/^  defp command_name_dir_config(command_name, dir, config) do$/;"	f
+command_name_dir_config	deps/credo/lib/credo/cli.ex	/^  defp command_name_dir_config(nil, dir, %Config{help: true} = config) do$/;"	f
+command_name_dir_config	deps/credo/lib/credo/cli.ex	/^  defp command_name_dir_config(nil, dir, %Config{version: true} = config) do$/;"	f
+command_name_dir_config	deps/credo/lib/credo/cli.ex	/^  defp command_name_dir_config(nil, dir, config) do$/;"	f
+commands	deps/credo/lib/credo/cli.ex	/^  def commands, do: Map.keys(@command_map)$/;"	f
+complain_about_invalid_source_files	deps/credo/lib/credo/cli/output.ex	/^  def complain_about_invalid_source_files([]), do: nil$/;"	f
+complain_about_invalid_source_files	deps/credo/lib/credo/cli/output.ex	/^  def complain_about_invalid_source_files(invalid_source_files) do$/;"	f
+complexity_for	deps/credo/lib/credo/check/refactor/cyclomatic_complexity.ex	/^  def complexity_for({_def_op, _meta, _arguments} = ast) do$/;"	f
+compute	deps/credo/lib/credo/severity.ex	/^  def compute(_, 0), do: 65536$/;"	f
+compute	deps/credo/lib/credo/severity.ex	/^  def compute(value, max_value), do: value \/ max_value$/;"	f
+cond	deps/encurses/c_src/encurses.c	/^    ErlNifCond* cond;$/;"	m	struct:__anon2	file:
+contains_child?	deps/credo/lib/credo/check/code_helper.ex	/^  def contains_child?(parent, child) do$/;"	f
+contains_line_no?	deps/credo/lib/credo/cli/filename.ex	/^  def contains_line_no?(filename) do$/;"	f
+control	deps/cecho/c_src/cecho.c	/^static ErlDrvSSizeT control(ErlDrvData drvstate, unsigned int command,$/;"	f	file:
+count	deps/credo/lib/credo/code/parameters.ex	/^    def count({unquote(op), _, arguments}) when is_list(arguments) do$/;"	f
+count	deps/credo/lib/credo/code/parameters.ex	/^  def count(nil), do: 0$/;"	f
+count_it_down	deps/cecho/src/cecho_example.erl	/^count_it_down(S) ->$/;"	f	module:cecho_example
+count_it_down	deps/cecho/src/cecho_example.erl	/^count_it_down(S) when S =< 0 ->$/;"	f	module:cecho_example
+countdown	deps/cecho/src/cecho_example.erl	/^countdown() ->$/;"	f	module:cecho_example
+create_issue	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  defp create_issue(line_no, trigger, what, issue_meta) do$/;"	f
+create_issue	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  defp create_issue(line_no, trigger, what, issue_meta) do$/;"	f
+create_issue	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  defp create_issue(line_no, trigger, what, issue_meta) do$/;"	f
+create_issue	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  defp create_issue(line_no, trigger, what, issue_meta) do$/;"	f
+create_property_tuples	deps/credo/lib/credo/check/consistency/helper.ex	/^  defp create_property_tuples(source_file, pattern_mods, params) do$/;"	f
+ctrl	deps/cecho/src/cecho_example.erl	/^ctrl(Mover) ->$/;"	f	module:cecho_example
+curs_set	deps/cecho/src/cecho.erl	/^curs_set(Flag) when is_integer(Flag) ->$/;"	f	module:cecho
+curs_set	deps/encurses/src/encurses.erl	/^curs_set(Flag) when is_integer(Flag) ->$/;"	f	module:encurses
+cursmove	deps/cecho/src/cecho_example.erl	/^cursmove() ->$/;"	f	module:cecho_example
+cursor_back	lib/io/cursor.ex	/^  def cursor_back(columns \\\\ 1) when columns >= 0, do: "\\e[#{columns}D"$/;"	f
+cursor_down	lib/io/cursor.ex	/^  def cursor_down(lines \\\\ 1) when lines >= 0, do: "\\e[#{lines}B"$/;"	f
+cursor_forward	lib/io/cursor.ex	/^  def cursor_forward(columns \\\\ 1) when columns >= 0, do: "\\e[#{columns}C"$/;"	f
+cursor_next_line	lib/io/cursor.ex	/^  def cursor_next_line(lines \\\\ 1) when lines >= 0, do: "\\e[#{lines}E"$/;"	f
+cursor_previous_line	lib/io/cursor.ex	/^  def cursor_previous_line(lines \\\\ 1) when lines >= 0, do: "\\e[#{lines}F"$/;"	f
+cursor_to	lib/io/cursor.ex	/^  def cursor_to(column, line) when column >= 1 and line >= 1 do$/;"	f
+cursor_to_column	lib/io/cursor.ex	/^  def cursor_to_column(column) when column >= 1, do: "\\e[#{column}G"$/;"	f
+cursor_to_line	lib/io/cursor.ex	/^  def cursor_to_line(line) when line >= 1, do: "\\e[#{line}H"$/;"	f
+cursor_up	lib/io/cursor.ex	/^  def cursor_up(lines \\\\ 1) when lines >= 0, do: "\\e[#{lines}A"$/;"	f
+date_format	lib/calendar.ex	/^  def date_format({y, season, d, h, m, _}) do$/;"	f
+day_icon	lib/calendar.ex	/^  def day_icon(_),                   do: '☾'$/;"	f
+day_icon	lib/calendar.ex	/^  def day_icon(hour) when hour < 15, do: '☀' #  '\\u2600' #$/;"	f
+def_count	deps/credo/lib/credo/code/module.ex	/^  def def_count(nil), do: 0$/;"	f
+def_count	deps/credo/lib/credo/code/module.ex	/^  def def_count({:defmodule, _, _arguments} = ast) do$/;"	f
+def_name	deps/credo/lib/credo/check/code_helper.ex	/^  defdelegate def_name(ast), to: Module$/;"	d
+def_name	deps/credo/lib/credo/code/module.ex	/^    def def_name({unquote(op), _meta, arguments}) when is_list(arguments) do$/;"	f
+def_name	deps/credo/lib/credo/code/module.ex	/^  def def_name(_), do: nil$/;"	f
+def_name	deps/credo/lib/credo/code/module.ex	/^  def def_name({fun_name, _meta, _arguments}) when is_atom(fun_name) do$/;"	f
+def_name_with_op	deps/credo/lib/credo/code/module.ex	/^    def def_name_with_op({unquote(op) = op, _meta, arguments}) when is_list(arguments) do$/;"	f
+def_names	deps/credo/lib/credo/code/module.ex	/^  def def_names(nil), do: []$/;"	f
+def_names	deps/credo/lib/credo/code/module.ex	/^  def def_names({:defmodule, _, _arguments} = ast) do$/;"	f
+def_names_with_op	deps/credo/lib/credo/code/module.ex	/^  def def_names_with_op(nil), do: []$/;"	f
+def_names_with_op	deps/credo/lib/credo/code/module.ex	/^  def def_names_with_op({:defmodule, _, _arguments} = ast) do$/;"	f
+defalias	deps/bunt/lib/bunt_ansi.ex	/^  defmacro defalias(alias_name, original_name) do$/;"	a
+default_value	deps/credo/lib/credo/severity.ex	/^  def default_value, do: 1$/;"	f
+defexception?	deps/credo/lib/credo/code/module.ex	/^  defp defexception?(_), do: false$/;"	f
+defexception?	deps/credo/lib/credo/code/module.ex	/^  defp defexception?({:defexception, _, _}), do: true$/;"	f
+defsequence	deps/bunt/lib/bunt_ansi.ex	/^  defmacro defsequence(name, code, prefix \\\\ "", terminator \\\\ "m") do$/;"	a
+delete_keys	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp delete_keys([], acc), do: acc$/;"	f
+delete_keys	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp delete_keys([head | tail], acc) do$/;"	f
+delwin	deps/cecho/src/cecho.erl	/^delwin(Window) when is_integer(Window) ->$/;"	f	module:cecho
+delwin	deps/encurses/src/encurses.erl	/^delwin(Win) when is_integer(Win) ->$/;"	f	module:encurses
+deps	deps/bunt/mix.exs	/^  defp deps do$/;"	f
+deps	deps/credo/mix.exs	/^  defp deps do$/;"	f
+deps	mix.exs	/^  defp deps do$/;"	f
+dirt	lib/landscape/display.ex	/^  def dirt(:winter),   do: "#{IO.ANSI.white_background}#{IO.ANSI.black}"$/;"	f
+dirt	lib/landscape/display.ex	/^  def dirt(_),         do: "#{IO.ANSI.color_background(1, 1, 0)}"$/;"	f
+do_addch	deps/cecho/c_src/cecho.c	/^void do_addch(state *st) {$/;"	f
+do_addstr	deps/cecho/c_src/cecho.c	/^void do_addstr(state *st) {$/;"	f
+do_block?	deps/credo/lib/credo/check/code_helper.ex	/^  defdelegate do_block?(ast), to: Block, as: :do_block?$/;"	d
+do_block?	deps/credo/lib/credo/code/block.ex	/^  def do_block?(ast) do$/;"	f
+do_block_complexity	deps/credo/lib/credo/check/refactor/cyclomatic_complexity.ex	/^  defp do_block_complexity(block) do$/;"	f
+do_block_complexity	deps/credo/lib/credo/check/refactor/cyclomatic_complexity.ex	/^  defp do_block_complexity(nil), do: 0$/;"	f
+do_block_for	deps/credo/lib/credo/check/code_helper.ex	/^  defdelegate do_block_for(ast), to: Block, as: :do_block_for$/;"	d
+do_block_for	deps/credo/lib/credo/code/block.ex	/^  def do_block_for([do: block]) do$/;"	f
+do_block_for	deps/credo/lib/credo/code/block.ex	/^  def do_block_for(_) do$/;"	f
+do_block_for	deps/credo/lib/credo/code/block.ex	/^  def do_block_for(arguments) when is_list(arguments) do$/;"	f
+do_block_for	deps/credo/lib/credo/code/block.ex	/^  def do_block_for({_atom, _meta, arguments}) when is_list(arguments) do$/;"	f
+do_block_for!	deps/credo/lib/credo/check/code_helper.ex	/^  defdelegate do_block_for!(ast), to: Block, as: :do_block_for!$/;"	d
+do_block_for!	deps/credo/lib/credo/code/block.ex	/^  def do_block_for!(ast) do$/;"	f
+do_box	deps/cecho/c_src/cecho.c	/^void do_box(state *st) {$/;"	f
+do_call	deps/cecho/src/cecho_srv.erl	/^do_call(Port, Cmd) ->$/;"	f	module:cecho_srv
+do_call	deps/cecho/src/cecho_srv.erl	/^do_call(Port, Cmd, Args) ->$/;"	f	module:cecho_srv
+do_cbreak	deps/cecho/c_src/cecho.c	/^void do_cbreak(state *st) {$/;"	f
+do_colors	deps/cecho/src/cecho_example.erl	/^do_colors(MR,MC,N) ->$/;"	f	module:cecho_example
+do_colors	deps/cecho/src/cecho_example.erl	/^do_colors(_,_,0) -> ok;$/;"	f	module:cecho_example
+do_curs_set	deps/cecho/c_src/cecho.c	/^void do_curs_set(state *st) {$/;"	f
+do_delwin	deps/cecho/c_src/cecho.c	/^void do_delwin(state *st) {$/;"	f
+do_echo	deps/cecho/c_src/cecho.c	/^void do_echo(state *st) {$/;"	f
+do_endwin	deps/cecho/c_src/cecho.c	/^void do_endwin(state *st) {$/;"	f
+do_format	deps/bunt/lib/bunt_ansi.ex	/^  defp do_format([], [], acc, _emit, _append_reset) do$/;"	f
+do_format	deps/bunt/lib/bunt_ansi.ex	/^  defp do_format([], [], acc, true, true) do$/;"	f
+do_format	deps/bunt/lib/bunt_ansi.ex	/^  defp do_format([], [next | rest], acc, emit, append_reset) do$/;"	f
+do_format	deps/bunt/lib/bunt_ansi.ex	/^  defp do_format([term | rest], rem, acc, emit, append_reset) do$/;"	f
+do_format	deps/bunt/lib/bunt_ansi.ex	/^  defp do_format(term, rem, acc, emit, append_reset) when not is_list(term) do$/;"	f
+do_format	deps/bunt/lib/bunt_ansi.ex	/^  defp do_format(term, rem, acc, false, append_reset) when is_atom(term) do$/;"	f
+do_format	deps/bunt/lib/bunt_ansi.ex	/^  defp do_format(term, rem, acc, true, append_reset) when is_atom(term) do$/;"	f
+do_getch	deps/cecho/c_src/cecho.c	/^static void do_getch(ErlDrvData drvstate, ErlDrvEvent event) {$/;"	f	file:
+do_getmaxyx	deps/cecho/c_src/cecho.c	/^void do_getmaxyx(state *st) {$/;"	f
+do_getyx	deps/cecho/c_src/cecho.c	/^void do_getyx(state *st) {$/;"	f
+do_has_colors	deps/cecho/c_src/cecho.c	/^void do_has_colors(state *st) {$/;"	f
+do_init_pair	deps/cecho/c_src/cecho.c	/^void do_init_pair(state *st) {$/;"	f
+do_initscr	deps/cecho/c_src/cecho.c	/^void do_initscr(state *st) {$/;"	f
+do_keypad	deps/cecho/c_src/cecho.c	/^void do_keypad(state *st) {$/;"	f
+do_move	deps/cecho/c_src/cecho.c	/^void do_move(state *st) {$/;"	f
+do_mvaddch	deps/cecho/c_src/cecho.c	/^void do_mvaddch(state *st) {$/;"	f
+do_mvaddstr	deps/cecho/c_src/cecho.c	/^void do_mvaddstr(state *st) {$/;"	f
+do_mvwaddch	deps/cecho/c_src/cecho.c	/^void do_mvwaddch(state *st) {$/;"	f
+do_mvwaddstr	deps/cecho/c_src/cecho.c	/^void do_mvwaddstr(state *st) {$/;"	f
+do_newwin	deps/cecho/c_src/cecho.c	/^void do_newwin(state *st) {$/;"	f
+do_nl	deps/cecho/c_src/cecho.c	/^void do_nl(state *st) {$/;"	f
+do_nocbreak	deps/cecho/c_src/cecho.c	/^void do_nocbreak(state *st) {$/;"	f
+do_noecho	deps/cecho/c_src/cecho.c	/^void do_noecho(state *st) {$/;"	f
+do_nonl	deps/cecho/c_src/cecho.c	/^void do_nonl(state *st) {$/;"	f
+do_refresh	deps/cecho/c_src/cecho.c	/^void do_refresh(state *st) {$/;"	f
+do_scrollok	deps/cecho/c_src/cecho.c	/^void do_scrollok(state *st) {$/;"	f
+do_start_color	deps/cecho/c_src/cecho.c	/^void do_start_color(state *st) {$/;"	f
+do_waddch	deps/cecho/c_src/cecho.c	/^void do_waddch(state *st) {$/;"	f
+do_waddstr	deps/cecho/c_src/cecho.c	/^void do_waddstr(state *st) {$/;"	f
+do_wattroff	deps/cecho/c_src/cecho.c	/^void do_wattroff(state *st) {$/;"	f
+do_wattron	deps/cecho/c_src/cecho.c	/^void do_wattron(state *st) {$/;"	f
+do_wborder	deps/cecho/c_src/cecho.c	/^void do_wborder(state *st) {$/;"	f
+do_werase	deps/cecho/c_src/cecho.c	/^void do_werase(state *st) {$/;"	f
+do_whline	deps/cecho/c_src/cecho.c	/^void do_whline(state *st) {$/;"	f
+do_wmove	deps/cecho/c_src/cecho.c	/^void do_wmove(state *st) {$/;"	f
+do_wrefresh	deps/cecho/c_src/cecho.c	/^void do_wrefresh(state *st) {$/;"	f
+do_wvline	deps/cecho/c_src/cecho.c	/^void do_wvline(state *st) {$/;"	f
+done	deps/encurses/c_src/encurses.c	/^done(ErlNifEnv* env, int code)$/;"	f	file:
+driver_entry	deps/cecho/c_src/cecho.c	/^ErlDrvEntry driver_entry = {$/;"	v
+drv_port	deps/cecho/c_src/cecho.c	/^  ErlDrvPort drv_port;$/;"	m	struct:__anon4	file:
+duplicate_nodes	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp duplicate_nodes(source_files, mass_threshold) do$/;"	f
+e_addch	deps/encurses/c_src/encurses.c	/^e_addch(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_addch	deps/encurses/src/encurses.erl	/^e_addch(_Char) ->$/;"	f	module:encurses
+e_addstr	deps/encurses/c_src/encurses.c	/^e_addstr(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_addstr	deps/encurses/src/encurses.erl	/^e_addstr(_StrLen, _String) ->$/;"	f	module:encurses
+e_attroff	deps/encurses/c_src/encurses.c	/^e_attroff(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_attroff	deps/encurses/src/encurses.erl	/^e_attroff(_Mask) ->$/;"	f	module:encurses
+e_attron	deps/encurses/c_src/encurses.c	/^e_attron(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_attron	deps/encurses/src/encurses.erl	/^e_attron(_Mask) ->$/;"	f	module:encurses
+e_border	deps/encurses/c_src/encurses.c	/^e_border(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_border	deps/encurses/src/encurses.erl	/^e_border(_Ls, _Rs, _Ts, _Bs, _TLs, _TRs, _BLs, _BRs) ->$/;"	f	module:encurses
+e_box	deps/encurses/c_src/encurses.c	/^e_box(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_box	deps/encurses/src/encurses.erl	/^e_box(_Win, _Horz, _Vert) ->$/;"	f	module:encurses
+e_cbreak	deps/encurses/c_src/encurses.c	/^e_cbreak(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_cbreak	deps/encurses/src/encurses.erl	/^e_cbreak() ->$/;"	f	module:encurses
+e_curs_set	deps/encurses/c_src/encurses.c	/^e_curs_set(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_curs_set	deps/encurses/src/encurses.erl	/^e_curs_set(_Flag) ->$/;"	f	module:encurses
+e_delwin	deps/encurses/c_src/encurses.c	/^e_delwin(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_delwin	deps/encurses/src/encurses.erl	/^e_delwin(_Win) ->$/;"	f	module:encurses
+e_echo	deps/encurses/c_src/encurses.c	/^e_echo(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_echo	deps/encurses/src/encurses.erl	/^e_echo() ->$/;"	f	module:encurses
+e_endwin	deps/encurses/c_src/encurses.c	/^e_endwin(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_endwin	deps/encurses/src/encurses.erl	/^e_endwin() ->$/;"	f	module:encurses
+e_erase	deps/encurses/c_src/encurses.c	/^e_erase(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_erase	deps/encurses/src/encurses.erl	/^e_erase() ->$/;"	f	module:encurses
+e_getmaxxy	deps/encurses/c_src/encurses.c	/^e_getmaxxy(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_getmaxxy	deps/encurses/src/encurses.erl	/^e_getmaxxy() ->$/;"	f	module:encurses
+e_getxy	deps/encurses/c_src/encurses.c	/^e_getxy(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_getxy	deps/encurses/src/encurses.erl	/^e_getxy() ->$/;"	f	module:encurses
+e_has_colors	deps/encurses/c_src/encurses.c	/^e_has_colors(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_has_colors	deps/encurses/src/encurses.erl	/^e_has_colors() ->$/;"	f	module:encurses
+e_hline	deps/encurses/c_src/encurses.c	/^e_hline(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_hline	deps/encurses/src/encurses.erl	/^e_hline(_Char, _MaxN) ->$/;"	f	module:encurses
+e_init_pair	deps/encurses/c_src/encurses.c	/^e_init_pair(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_init_pair	deps/encurses/src/encurses.erl	/^e_init_pair(_N, _FColor, _BColor) ->$/;"	f	module:encurses
+e_initscr	deps/encurses/c_src/encurses.c	/^e_initscr(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_initscr	deps/encurses/src/encurses.erl	/^e_initscr() ->$/;"	f	module:encurses
+e_keypad	deps/encurses/c_src/encurses.c	/^e_keypad(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_keypad	deps/encurses/src/encurses.erl	/^e_keypad(_Win, _Flag) ->$/;"	f	module:encurses
+e_move	deps/encurses/c_src/encurses.c	/^e_move(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_move	deps/encurses/src/encurses.erl	/^e_move(_X, _Y) ->$/;"	f	module:encurses
+e_mvaddch	deps/encurses/c_src/encurses.c	/^e_mvaddch(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_mvaddch	deps/encurses/src/encurses.erl	/^e_mvaddch(_X, _Y, _Char) ->$/;"	f	module:encurses
+e_mvaddstr	deps/encurses/c_src/encurses.c	/^e_mvaddstr(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_mvaddstr	deps/encurses/src/encurses.erl	/^e_mvaddstr(_X, _Y, _StrLen, _String) ->$/;"	f	module:encurses
+e_mvwaddch	deps/encurses/c_src/encurses.c	/^e_mvwaddch(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_mvwaddch	deps/encurses/src/encurses.erl	/^e_mvwaddch(_Win, _X, _Y, _Char) ->$/;"	f	module:encurses
+e_mvwaddstr	deps/encurses/c_src/encurses.c	/^e_mvwaddstr(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_mvwaddstr	deps/encurses/src/encurses.erl	/^e_mvwaddstr(_Win, _X, _Y, _StrLen, _String) ->$/;"	f	module:encurses
+e_newwin	deps/encurses/c_src/encurses.c	/^e_newwin(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_newwin	deps/encurses/src/encurses.erl	/^e_newwin(_Width, _Height, _StartX, _StartY) ->$/;"	f	module:encurses
+e_nl	deps/encurses/c_src/encurses.c	/^e_nl(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_nl	deps/encurses/src/encurses.erl	/^e_nl() ->$/;"	f	module:encurses
+e_nocbreak	deps/encurses/c_src/encurses.c	/^e_nocbreak(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_nocbreak	deps/encurses/src/encurses.erl	/^e_nocbreak() ->$/;"	f	module:encurses
+e_noecho	deps/encurses/c_src/encurses.c	/^e_noecho(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_noecho	deps/encurses/src/encurses.erl	/^e_noecho() ->$/;"	f	module:encurses
+e_nonl	deps/encurses/c_src/encurses.c	/^e_nonl(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_nonl	deps/encurses/src/encurses.erl	/^e_nonl() ->$/;"	f	module:encurses
+e_refresh	deps/encurses/c_src/encurses.c	/^e_refresh(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_refresh	deps/encurses/src/encurses.erl	/^e_refresh() ->$/;"	f	module:encurses
+e_scrollok	deps/encurses/c_src/encurses.c	/^e_scrollok(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_scrollok	deps/encurses/src/encurses.erl	/^e_scrollok(_Win, _Flag) ->$/;"	f	module:encurses
+e_start_color	deps/encurses/c_src/encurses.c	/^e_start_color(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_start_color	deps/encurses/src/encurses.erl	/^e_start_color() ->$/;"	f	module:encurses
+e_vline	deps/encurses/c_src/encurses.c	/^e_vline(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_vline	deps/encurses/src/encurses.erl	/^e_vline(_Char, _MaxN) ->$/;"	f	module:encurses
+e_waddch	deps/encurses/c_src/encurses.c	/^e_waddch(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_waddch	deps/encurses/src/encurses.erl	/^e_waddch(_Win, _Char) ->$/;"	f	module:encurses
+e_waddstr	deps/encurses/c_src/encurses.c	/^e_waddstr(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_waddstr	deps/encurses/src/encurses.erl	/^e_waddstr(_Win, _StrLen, _String) ->$/;"	f	module:encurses
+e_wattroff	deps/encurses/c_src/encurses.c	/^e_wattroff(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_wattroff	deps/encurses/src/encurses.erl	/^e_wattroff(_Win, _Mask) ->$/;"	f	module:encurses
+e_wattron	deps/encurses/c_src/encurses.c	/^e_wattron(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_wattron	deps/encurses/src/encurses.erl	/^e_wattron(_Win, _Mask) ->$/;"	f	module:encurses
+e_wborder	deps/encurses/c_src/encurses.c	/^e_wborder(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_wborder	deps/encurses/src/encurses.erl	/^e_wborder(_Win, _Ls, _Rs, _Ts, _Bs, _TLs, _TRs, _BLs, _BRs) ->$/;"	f	module:encurses
+e_werase	deps/encurses/c_src/encurses.c	/^e_werase(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_werase	deps/encurses/src/encurses.erl	/^e_werase(_Win) ->$/;"	f	module:encurses
+e_wgetch	deps/encurses/c_src/encurses.c	/^e_wgetch(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_wgetch	deps/encurses/src/encurses.erl	/^e_wgetch(_Pid, _Win) ->$/;"	f	module:encurses
+e_wgetmaxxy	deps/encurses/c_src/encurses.c	/^e_wgetmaxxy(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_wgetmaxxy	deps/encurses/src/encurses.erl	/^e_wgetmaxxy(_Win) ->$/;"	f	module:encurses
+e_wgetxy	deps/encurses/c_src/encurses.c	/^e_wgetxy(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_wgetxy	deps/encurses/src/encurses.erl	/^e_wgetxy(_Win) ->$/;"	f	module:encurses
+e_whline	deps/encurses/c_src/encurses.c	/^e_whline(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_whline	deps/encurses/src/encurses.erl	/^e_whline(_Win, _Char, _MaxN) ->$/;"	f	module:encurses
+e_wmove	deps/encurses/c_src/encurses.c	/^e_wmove(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_wmove	deps/encurses/src/encurses.erl	/^e_wmove(_Win, _X, _Y) ->$/;"	f	module:encurses
+e_wrefresh	deps/encurses/c_src/encurses.c	/^e_wrefresh(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_wrefresh	deps/encurses/src/encurses.erl	/^e_wrefresh(_Win) ->$/;"	f	module:encurses
+e_wvline	deps/encurses/c_src/encurses.c	/^e_wvline(ErlNifEnv* env, int argc, const ERL_NIF_TERM argv[])$/;"	f	file:
+e_wvline	deps/encurses/src/encurses.erl	/^e_wvline(_Win, _Char, _MaxN) ->$/;"	f	module:encurses
+echo	deps/cecho/src/cecho.erl	/^echo() ->$/;"	f	module:cecho
+echo	deps/encurses/src/encurses.erl	/^echo() ->$/;"	f	module:encurses
+edge	deps/credo/lib/credo/cli/output/ui.ex	/^  def edge(color, indent \\\\ 2) when is_integer(indent) do$/;"	f
+eixb	deps/cecho/c_src/cecho.c	/^  ei_x_buff eixb;$/;"	m	struct:__anon4	file:
+elem_to_xy	lib/landscape/position.ex	/^  def elem_to_xy(w, ele),   do: {div(ele, w), rem(ele, w)}$/;"	f
+elevation	lib/landscape.ex	/^  defp elevation, do: [{:random.uniform(3) - 1, false, :random.uniform(3) - 1}]$/;"	f
+else_block?	deps/credo/lib/credo/check/code_helper.ex	/^  defdelegate else_block?(ast), to: Block, as: :else_block?$/;"	d
+else_block?	deps/credo/lib/credo/code/block.ex	/^  def else_block?(ast) do$/;"	f
+else_block_for	deps/credo/lib/credo/check/code_helper.ex	/^  defdelegate else_block_for(ast), to: Block, as: :else_block_for$/;"	d
+else_block_for	deps/credo/lib/credo/code/block.ex	/^  def else_block_for([do: _do_block, else: else_block]) do$/;"	f
+else_block_for	deps/credo/lib/credo/code/block.ex	/^  def else_block_for(_) do$/;"	f
+else_block_for	deps/credo/lib/credo/code/block.ex	/^  def else_block_for(arguments) when is_list(arguments) do$/;"	f
+else_block_for	deps/credo/lib/credo/code/block.ex	/^  def else_block_for({_atom, _meta, arguments}) when is_list(arguments) do$/;"	f
+else_block_for!	deps/credo/lib/credo/check/code_helper.ex	/^  defdelegate else_block_for!(ast), to: Block, as: :else_block_for!$/;"	d
+else_block_for!	deps/credo/lib/credo/code/block.ex	/^  def else_block_for!(ast) do$/;"	f
+enabled?	deps/bunt/lib/bunt_ansi.ex	/^  def enabled? do$/;"	f
+encode_ok_reply	deps/cecho/c_src/cecho.c	/^void encode_ok_reply(state *st, int code) {$/;"	f
+encurses	deps/encurses/src/encurses.erl	/^-module(encurses).$/;"	m
+encurses_demo	deps/encurses/src/encurses_demo.erl	/^-module(encurses_demo).$/;"	m
+endwin	deps/encurses/src/encurses.erl	/^endwin() ->$/;"	f	module:encurses
+ensure	deps/credo/lib/credo/cli/sorter.ex	/^  def ensure(list, list_start, list_end \\\\ []) do$/;"	f
+eol	lib/landscape/position.ex	/^  defmacro eol(w, _, ele), do: quote do: rem(unquote(ele) + 1, unquote(w)) == 0$/;"	a
+erase	deps/cecho/src/cecho.erl	/^erase() ->$/;"	f	module:cecho
+erase	deps/encurses/src/encurses.erl	/^erase() ->$/;"	f	module:encurses
+erase	deps/encurses/src/encurses.erl	/^erase(Win) when is_integer(Win) ->$/;"	f	module:encurses
+error_tuple	deps/cecho/c_src/cecho.c	/^void error_tuple(state *st, int code) {$/;"	f
+exception?	deps/credo/lib/credo/code/module.ex	/^  def exception?(_), do: nil$/;"	f
+exception?	deps/credo/lib/credo/code/module.ex	/^  def exception?({:defmodule, _, [{:__aliases__, _, _name_list}, arguments]}) do$/;"	f
+exclude	deps/credo/lib/credo/sources.ex	/^  def exclude(files, patterns \\\\ []) do$/;"	f
+explanation	deps/credo/lib/credo/check.ex	/^      def explanation, do: explanation_for(@explanation, :check)$/;"	f
+explanation_for	deps/credo/lib/credo/check.ex	/^      defp explanation_for(kw, key), do: kw[key]$/;"	f
+explanation_for	deps/credo/lib/credo/check.ex	/^      defp explanation_for(nil, _), do: nil$/;"	f
+files_from_data	deps/credo/lib/credo/config.ex	/^  defp files_from_data(data, dir) do$/;"	f
+find	deps/credo/lib/credo/sources.ex	/^  def find(%Credo.Config{files: files}) do$/;"	f
+find	deps/credo/lib/credo/sources.ex	/^  def find(path) do$/;"	f
+find_attribute	deps/credo/lib/credo/code/module.ex	/^  defp find_attribute(ast, tuple, _name) do$/;"	f
+find_attribute	deps/credo/lib/credo/code/module.ex	/^  defp find_attribute({:@, _meta, arguments} = ast, tuple, name) do$/;"	f
+find_calls_to_mod_fun	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp find_calls_to_mod_fun(ast, accumulated, _, _) do$/;"	f
+find_calls_to_mod_fun	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp find_calls_to_mod_fun({{:., _, [{:__aliases__, _, mod_list}, fun_atom]}, _, params} = ast, accumulated, required_mod_list, restrict_fun_names) when is_atom(fun_atom) and is_list(params) do$/;"	f
+find_child	deps/credo/lib/credo/check/code_helper.ex	/^  defp find_child(parent, acc, child), do: {parent, acc || parent == child}$/;"	f
+find_definitions	deps/credo/lib/credo/check/readability/max_line_length.ex	/^    defp find_definitions({unquote(op), meta, arguments} = ast, defintions) when is_list(arguments) do$/;"	f
+find_definitions	deps/credo/lib/credo/check/readability/max_line_length.ex	/^  defp find_definitions(ast, defintions) do$/;"	f
+find_depth	deps/credo/lib/credo/check/refactor/nesting.ex	/^    defp find_depth({unquote(op) = op, meta, arguments}, nest_list, _line_no, _trigger) when is_list(arguments) do$/;"	f
+find_depth	deps/credo/lib/credo/check/refactor/nesting.ex	/^  defp find_depth(_, nest_list, line_no, trigger) do$/;"	f
+find_depth	deps/credo/lib/credo/check/refactor/nesting.ex	/^  defp find_depth(arguments, nest_list, line_no, trigger) when is_list(arguments) do$/;"	f
+find_depth	deps/credo/lib/credo/check/refactor/nesting.ex	/^  defp find_depth({atom, _meta, arguments}, nest_list, line_no, trigger) when (is_atom(atom) or is_tuple(atom)) and is_list(arguments) do$/;"	f
+find_exception_modules	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  defp find_exception_modules(ast, exception_names) do$/;"	f
+find_exception_modules	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  defp find_exception_modules({:defmodule, _meta, [{:__aliases__, _, _name_arr}, _arguments]} = ast, exception_names) do$/;"	f
+find_exception_modules_without_prefix	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  defp find_exception_modules_without_prefix(%SourceFile{ast: ast}, prefix) do$/;"	f
+find_exception_modules_without_suffix	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  defp find_exception_modules_without_suffix(%SourceFile{ast: ast}, suffix) do$/;"	f
+find_free_window_slot	deps/encurses/c_src/encurses.c	/^find_free_window_slot()$/;"	f	file:
+find_keyword	deps/credo/lib/credo/code/block.ex	/^  defp find_keyword(_, _), do: nil$/;"	f
+find_keyword	deps/credo/lib/credo/code/block.ex	/^  defp find_keyword(list, keyword) when is_list(list) do$/;"	f
+find_scope	deps/credo/lib/credo/code/scope.ex	/^    defp find_scope({unquote(op) = op, meta, arguments} = ast, line, name_list, _last_op) when is_list(arguments) do$/;"	f
+find_scope	deps/credo/lib/credo/code/scope.ex	/^  defp find_scope(_, _line, _name_list, _last_op), do: nil$/;"	f
+find_scope	deps/credo/lib/credo/code/scope.ex	/^  defp find_scope({:__block__, _meta, arguments}, line, name_list, last_op) do$/;"	f
+find_scope	deps/credo/lib/credo/code/scope.ex	/^  defp find_scope({:defmodule, meta, [{:__aliases__, _, module_name}, arguments]}, line, name_list, _last_op) do$/;"	f
+find_scope	deps/credo/lib/credo/code/scope.ex	/^  defp find_scope({_atom, meta, _arguments}, line, name_list, last_op) do$/;"	f
+find_tag	deps/credo/lib/credo/check/design/tag_helper.ex	/^  defp find_tag({line, index}, regex) do$/;"	f
+find_unused_calls	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  def find_unused_calls(%SourceFile{ast: ast} = source_file, _params, required_mod_list, restrict_fun_names) do$/;"	f
+findfreewindowslot	deps/cecho/c_src/cecho.c	/^int findfreewindowslot(state *st) {$/;"	f
+flow	lib/landscape/water.ex	/^  def flow({{w, h, m}, date}) do$/;"	f
+flow	lib/landscape/water.ex	/^  def flow({{w, h, m}, {d, :winter, y}}), do: {{w, h, m}, {d, :winter, y}}$/;"	f
+flower	lib/landscape/display.ex	/^  def flower(:winter), do: "#{IO.ANSI.white_background}#{IO.ANSI.black}#{IO.ANSI.faint}"$/;"	f
+flower	lib/landscape/display.ex	/^  def flower(_),       do: "#{IO.ANSI.green_background}#{IO.ANSI.yellow}"$/;"	f
+fn_in_arguments	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  def fn_in_arguments({_atom, _meta, arguments}) do$/;"	f
+fn_in_arguments?	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  def fn_in_arguments?(ast) do$/;"	f
+fn_parameters	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  def fn_parameters([[{:when, _, params}], _]) when is_list(params) do$/;"	f
+fn_parameters	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  def fn_parameters([params, tuple]) when is_list(params) and is_tuple(tuple) do$/;"	f
+fn_parameters	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  def fn_parameters(params) when is_list(params) do$/;"	f
+for	deps/credo/lib/credo/check/property_value.ex	/^  def for(value, meta), do: {__MODULE__, value, meta}$/;"	f
+for	deps/credo/lib/credo/issue_meta.ex	/^  def for(source_file, params), do: {__MODULE__, source_file, params}$/;"	f
+foreground_color	deps/credo/lib/credo/cli/output.ex	/^  def foreground_color(:cyan), do: :black$/;"	f
+foreground_color	deps/credo/lib/credo/cli/output.ex	/^  def foreground_color(:yellow), do: :black$/;"	f
+foreground_color	deps/credo/lib/credo/cli/output.ex	/^  def foreground_color(_), do: :white$/;"	f
+format	deps/bunt/lib/bunt_ansi.ex	/^  def format(chardata, emit \\\\ enabled?) when is_boolean(emit) do$/;"	f
+format_explanation	deps/credo/lib/credo/cli/output/explain.ex	/^  def format_explanation(line, outer_color) do$/;"	f
+format_explanation_text	deps/credo/lib/credo/cli/output/explain.ex	/^  def format_explanation_text("    " <> line) do$/;"	f
+format_explanation_text	deps/credo/lib/credo/cli/output/explain.ex	/^  def format_explanation_text(line) do$/;"	f
+format_fragment	deps/bunt/lib/bunt_ansi.ex	/^  def format_fragment(chardata, emit \\\\ enabled?) when is_boolean(emit) do$/;"	f
+format_in_seconds	deps/credo/lib/credo/cli/output/summary.ex	/^  defp format_in_seconds(t) do$/;"	f
+format_issue	deps/credo/lib/credo/check.ex	/^      def format_issue(issue \\\\ %Issue{}) do$/;"	f
+format_issue	deps/credo/lib/credo/check.ex	/^      def format_issue(issue_meta, opts) do$/;"	f
+format_sequence	deps/bunt/lib/bunt_ansi.ex	/^      defp format_sequence(unquote(alias_name)) do$/;"	f
+format_sequence	deps/bunt/lib/bunt_ansi.ex	/^      defp format_sequence(unquote(name)) do$/;"	f
+format_sequence	deps/bunt/lib/bunt_ansi.ex	/^  defp format_sequence(other) do$/;"	f
+format_time_spent	deps/credo/lib/credo/cli/output/summary.ex	/^  defp format_time_spent(time_load, time_run) do$/;"	f
+from_data	deps/credo/lib/credo/config.ex	/^  defp from_data(data, dir, config_name) do$/;"	f
+from_exs	deps/credo/lib/credo/config.ex	/^  defp from_exs(dir, config_name, exs_string) do$/;"	f
+fun	deps/credo/lib/credo/check/design/tag_fixme.ex	/^      defp fun do$/;"	f
+fun	deps/credo/lib/credo/check/design/tag_todo.ex	/^      defp fun do$/;"	f
+function_count	deps/credo/lib/credo/check/code_helper.ex	/^  defdelegate function_count(ast), to: Module$/;"	d
+g_lock	deps/encurses/c_src/encurses.c	/^static ErlNifMutex* g_lock = NULL;$/;"	v	file:
+get	deps/credo/lib/credo/check/params.ex	/^  def get(params, field, default_params \\\\ []) when is_list(params) do$/;"	f
+get	deps/credo/lib/credo/check/property_value.ex	/^  def get(list) when is_list(list), do: list |> Enum.map(&get\/1)$/;"	f
+get	deps/credo/lib/credo/check/property_value.ex	/^  def get(value), do: value$/;"	f
+get	deps/credo/lib/credo/check/property_value.ex	/^  def get({__MODULE__, value, _}), do: value$/;"	f
+get	deps/credo/lib/credo/service/source_file_code_only.ex	/^  def get(filename) do$/;"	f
+get	deps/credo/lib/credo/service/source_file_scopes.ex	/^  def get(filename) do$/;"	f
+get	deps/credo/lib/credo/service/source_file_without_strings_and_sigils.ex	/^  def get(filename) do$/;"	f
+get_elevation	lib/landscape/water.ex	/^  defp get_elevation(m, ele), do: elem(elem(m, ele), 0)$/;"	f
+get_param_name	deps/credo/lib/credo/code/parameters.ex	/^  defp get_param_name(_) do$/;"	f
+get_param_name	deps/credo/lib/credo/code/parameters.ex	/^  defp get_param_name(list) when is_list(list) do$/;"	f
+get_param_name	deps/credo/lib/credo/code/parameters.ex	/^  defp get_param_name({:%, _, [{:__aliases__, _meta, _mod_list}, {:%{}, _meta2, arguments}]}) do$/;"	f
+get_param_name	deps/credo/lib/credo/code/parameters.ex	/^  defp get_param_name({:%{}, _, arguments}) do$/;"	f
+get_param_name	deps/credo/lib/credo/code/parameters.ex	/^  defp get_param_name({:::, _, [var, _type]}) do$/;"	f
+get_param_name	deps/credo/lib/credo/code/parameters.ex	/^  defp get_param_name({:<<>>, _, arguments}) do$/;"	f
+get_param_name	deps/credo/lib/credo/code/parameters.ex	/^  defp get_param_name({:=, _, arguments}) do$/;"	f
+get_param_name	deps/credo/lib/credo/code/parameters.ex	/^  defp get_param_name({:\\\\, _, arguments}) do$/;"	f
+get_param_name	deps/credo/lib/credo/code/parameters.ex	/^  defp get_param_name({name, _, nil}) when is_atom(name), do: name$/;"	f
+get_param_names	deps/credo/lib/credo/code/parameters.ex	/^  defp get_param_names(arguments) when is_tuple(arguments) do$/;"	f
+get_param_names	deps/credo/lib/credo/code/parameters.ex	/^  defp get_param_names({:when, _meta, arguments}) do$/;"	f
+get_parameters	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  def get_parameters(arguments) do$/;"	f
+getch	deps/cecho/src/cecho.erl	/^getch() ->$/;"	f	module:cecho
+getch	deps/cecho/src/cecho_srv.erl	/^getch() ->$/;"	f	module:cecho_srv
+getch	deps/encurses/src/encurses.erl	/^getch() ->$/;"	f	module:encurses
+getch	deps/encurses/src/encurses.erl	/^getch(Win) ->$/;"	f	module:encurses
+getmaxxy	deps/encurses/src/encurses.erl	/^getmaxxy() ->$/;"	f	module:encurses
+getmaxxy	deps/encurses/src/encurses.erl	/^getmaxxy(Win) when is_integer(Win) ->$/;"	f	module:encurses
+getmaxyx	deps/cecho/src/cecho.erl	/^getmaxyx() ->$/;"	f	module:cecho
+getmaxyx	deps/cecho/src/cecho.erl	/^getmaxyx(Window) when is_integer(Window) ->$/;"	f	module:cecho
+getxy	deps/encurses/src/encurses.erl	/^getxy() ->$/;"	f	module:encurses
+getxy	deps/encurses/src/encurses.erl	/^getxy(Win) when is_integer(Win) ->$/;"	f	module:encurses
+getyx	deps/cecho/src/cecho.erl	/^getyx() ->$/;"	f	module:cecho
+getyx	deps/cecho/src/cecho.erl	/^getyx(Window) when is_integer(Window) ->$/;"	f	module:cecho
+glance	lib/calendar.ex	/^  def glance, do: GenServer.call(:calendar, :glance)$/;"	f
+go	deps/encurses/src/encurses_demo.erl	/^go() ->$/;"	f	module:encurses_demo
+grass	lib/landscape/display.ex	/^  def grass(:fall),    do: "#{IO.ANSI.yellow_background}#{IO.ANSI.black}"$/;"	f
+grass	lib/landscape/display.ex	/^  def grass(:winter),  do: "#{IO.ANSI.white_background}#{IO.ANSI.black}"$/;"	f
+grass	lib/landscape/display.ex	/^  def grass(_),        do: "#{IO.ANSI.green_background}#{IO.ANSI.black}"$/;"	f
+handleIncomingMessage	deps/credo/lib/credo/check/readability/function_names.ex	/^      def handleIncomingMessage(message) do$/;"	f
+handle_call	deps/cecho/src/cecho_srv.erl	/^handle_call(getch, From, #state{ getch = undefined } = State) ->$/;"	f	module:cecho_srv
+handle_call	deps/cecho/src/cecho_srv.erl	/^handle_call(getch, _From, State) ->$/;"	f	module:cecho_srv
+handle_call	deps/cecho/src/cecho_srv.erl	/^handle_call({call, Cmd, Args}, _From, State) ->$/;"	f	module:cecho_srv
+handle_call	deps/credo/lib/credo/service/source_file_code_only.ex	/^  def handle_call({:get, filename}, _from, current_state) do$/;"	f
+handle_call	deps/credo/lib/credo/service/source_file_code_only.ex	/^  def handle_call({:put, filename, source}, _from, current_state) do$/;"	f
+handle_call	deps/credo/lib/credo/service/source_file_scopes.ex	/^  def handle_call({:get, filename}, _from, current_state) do$/;"	f
+handle_call	deps/credo/lib/credo/service/source_file_scopes.ex	/^  def handle_call({:put, filename, source}, _from, current_state) do$/;"	f
+handle_call	deps/credo/lib/credo/service/source_file_without_strings_and_sigils.ex	/^  def handle_call({:get, filename}, _from, current_state) do$/;"	f
+handle_call	deps/credo/lib/credo/service/source_file_without_strings_and_sigils.ex	/^  def handle_call({:put, filename, source}, _from, current_state) do$/;"	f
+handle_call	lib/calendar.ex	/^  def handle_call(:glance, _, state), do: {:reply, date_format(state), state}$/;"	f
+handle_cast	deps/cecho/src/cecho_srv.erl	/^handle_cast(_, State) ->$/;"	f	module:cecho_srv
+handle_depth	deps/credo/lib/credo/check/refactor/nesting.ex	/^  def handle_depth(nil, ast, _issue_meta, issues, _max_nesting) do$/;"	f
+handle_depth	deps/credo/lib/credo/check/refactor/nesting.ex	/^  def handle_depth({depth, line_no, trigger}, ast, issue_meta, issues, max_nesting) do$/;"	f
+handle_incoming_message	deps/credo/lib/credo/check/readability/function_names.ex	/^      def handle_incoming_message(message) do$/;"	f
+handle_info	deps/cecho/src/cecho_srv.erl	/^handle_info({_Port, {data, Binary}}, State) ->$/;"	f	module:cecho_srv
+handle_info	deps/cecho/src/cecho_srv.erl	/^handle_info({_Port, {data, _Binary}}, #state{ getch = undefined } = State) ->$/;"	f	module:cecho_srv
+handle_info	lib/calendar.ex	/^  def handle_info(:advance, state),     do: {:noreply, advance(state)}$/;"	f
+handle_key	lib/interface.ex	/^  def handle_key(?d) do$/;"	f
+handle_key	lib/interface.ex	/^  def handle_key(?q) do$/;"	f
+handle_something	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^        def handle_something do$/;"	f
+handle_something	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^      def handle_something(foo, bar) do$/;"	f
+handle_something	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^      def handle_something(date, time) do$/;"	f
+handle_something	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^      def handle_something(time_list) do$/;"	f
+has_attachment?	deps/credo/lib/credo/check/readability/predicate_function_names.ex	/^      defp has_attachment?(mail) do$/;"	f
+has_colors	deps/cecho/src/cecho.erl	/^has_colors() ->$/;"	f	module:cecho
+has_colors	deps/encurses/src/encurses.erl	/^has_colors() ->$/;"	f	module:encurses
+hashes	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  def hashes(ast, existing_hashes \\\\ %{}, filename \\\\ "foo.ex", mass_threshold \\\\ @default_params[:mass_threshold]) when is_map(existing_hashes) do$/;"	f
+head	deps/encurses/c_src/encurses.c	/^    qitem_t* head;$/;"	m	struct:__anon2	file:
+helloworld	deps/cecho/src/cecho_example.erl	/^helloworld() ->$/;"	f	module:cecho_example
+hline	deps/cecho/src/cecho.erl	/^hline(Char, MaxN) ->$/;"	f	module:cecho
+hline	deps/encurses/src/encurses.erl	/^hline(Char, MaxN) when is_integer(Char) andalso is_integer(MaxN) ->$/;"	f	module:encurses
+hline	deps/encurses/src/encurses.erl	/^hline(Win, Char, MaxN) when is_integer(Win) andalso is_integer(Char)$/;"	f	module:encurses
+hole	lib/landscape/display.ex	/^  def hole(_),         do: "#{IO.ANSI.black_background}#{IO.ANSI.white}"$/;"	f
+important	deps/credo/lib/credo/cli/filter.ex	/^  def important(list, config) when is_list(list) do$/;"	f
+important?	deps/credo/lib/credo/cli/filter.ex	/^  def important?(%Issue{} = issue, config) do$/;"	f
+important?	deps/credo/lib/credo/cli/filter.ex	/^  def important?(%SourceFile{} = source_file, config) do$/;"	f
+index	deps/cecho/c_src/cecho.c	/^  int index;$/;"	m	struct:__anon4	file:
+init	deps/cecho/src/cecho_srv.erl	/^init(no_args) ->$/;"	f	module:cecho_srv
+init	deps/credo/lib/credo/service/source_file_code_only.ex	/^  def init(_) do$/;"	f
+init	deps/credo/lib/credo/service/source_file_scopes.ex	/^  def init(_) do$/;"	f
+init	deps/credo/lib/credo/service/source_file_without_strings_and_sigils.ex	/^  def init(_) do$/;"	f
+init	lib/calendar.ex	/^  def init(_) do$/;"	f
+init_pair	deps/cecho/src/cecho.erl	/^init_pair(N, FColor, BColor) when is_integer(N) andalso is_integer(FColor)$/;"	f	module:cecho
+init_pair	deps/encurses/src/encurses.erl	/^init_pair(N, FColor, BColor) when is_integer(N) andalso is_integer(FColor)$/;"	f	module:encurses
+init_state	deps/cecho/c_src/cecho.c	/^void init_state(state *st, char *args, int argslen) {$/;"	f
+initscr	deps/encurses/src/encurses.erl	/^initscr() ->$/;"	f	module:encurses
+input	deps/cecho/src/cecho_example.erl	/^input() ->$/;"	f	module:cecho_example
+input_counter	deps/cecho/src/cecho_example.erl	/^input_counter(N) ->$/;"	f	module:cecho_example
+input_reader	deps/cecho/src/cecho_example.erl	/^input_reader() ->$/;"	f	module:cecho_example
+instructions_for	deps/credo/lib/credo/code/block.ex	/^  defp instructions_for(v) when is_atom(v)$/;"	f
+instructions_for	deps/credo/lib/credo/code/block.ex	/^  defp instructions_for(v) when is_list(v), do: [v]$/;"	f
+instructions_for	deps/credo/lib/credo/code/block.ex	/^  defp instructions_for({:__block__, _meta, calls}), do: calls$/;"	f
+int_erase	deps/encurses/c_src/encurses.c	/^int_erase(ErlNifEnv* env, WINDOW *win)$/;"	f	file:
+int_getmaxxy	deps/encurses/c_src/encurses.c	/^int_getmaxxy(ErlNifEnv* env, WINDOW *win)$/;"	f	file:
+int_getxy	deps/encurses/c_src/encurses.c	/^int_getxy(ErlNifEnv* env, WINDOW *win)$/;"	f	file:
+integer	deps/cecho/c_src/cecho.c	/^void integer(ei_x_buff *eixb, int integer) {$/;"	f
+invalid_calls	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp invalid_calls(call, last_call_in_def, calls_in_block_above, required_mod_list, restrict_fun_names) do$/;"	f
+is_user	deps/credo/lib/credo/check/readability/predicate_function_names.ex	/^      defp is_user(cookie) do$/;"	f
+is_user?	deps/credo/lib/credo/check/readability/predicate_function_names.ex	/^      defp is_user?(cookie) do$/;"	f
+issue_color	deps/credo/lib/credo/cli/output.ex	/^  def issue_color(issue) do$/;"	f
+issue_for	deps/credo/lib/credo/check/consistency/line_endings.ex	/^  defp issue_for(_issue_meta, [], _expected_prop, _picked_count, _total_count), do: nil$/;"	f
+issue_for	deps/credo/lib/credo/check/consistency/line_endings.ex	/^  defp issue_for(_issue_meta, _actual_props, nil, _picked_count, _total_count), do: nil$/;"	f
+issue_for	deps/credo/lib/credo/check/consistency/line_endings.ex	/^  defp issue_for(issue_meta, actual_prop, expected_prop, _picked_count, _total_count) do$/;"	f
+issue_for	deps/credo/lib/credo/check/consistency/tabs_or_spaces.ex	/^  defp issue_for(_issue_meta, [], _expected_prop, _picked_count, _total_count), do: nil$/;"	f
+issue_for	deps/credo/lib/credo/check/consistency/tabs_or_spaces.ex	/^  defp issue_for(_issue_meta, _actual_props, nil, _picked_count, _total_count), do: nil$/;"	f
+issue_for	deps/credo/lib/credo/check/consistency/tabs_or_spaces.ex	/^  defp issue_for(issue_meta, actual_prop, expected_prop, _picked_count, _total_count) do$/;"	f
+issue_for	deps/credo/lib/credo/check/design/alias_usage.ex	/^  defp issue_for(line_no, trigger, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  defp issue_for(this_node, other_nodes, issue_meta, nodes_threshold) do$/;"	f
+issue_for	deps/credo/lib/credo/check/design/tag_fixme.ex	/^  defp issue_for({line_no, _line, trigger}, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/design/tag_todo.ex	/^  defp issue_for({line_no, _line, trigger}, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/readability/function_names.ex	/^  defp issue_for(line_no, trigger, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/readability/max_line_length.ex	/^  defp issue_for(line_no, max_length, line, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/readability/module_attribute_names.ex	/^  defp issue_for(line_no, trigger, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/readability/module_names.ex	/^  defp issue_for(line_no, trigger, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/readability/predicate_function_names.ex	/^  defp issue_for(_, line_no, trigger, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/readability/trailing_blank_line.ex	/^  def issue_for(line_no, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/readability/trailing_white_space.ex	/^  def issue_for(line_no, column, line_length, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/readability/variable_names.ex	/^  defp issue_for(line_no, trigger, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  def issue_for(issue_meta, line_no, trigger, max_value, actual_value) do$/;"	f
+issue_for	deps/credo/lib/credo/check/refactor/cyclomatic_complexity.ex	/^  def issue_for(issue_meta, line_no, trigger, max_value, actual_value) do$/;"	f
+issue_for	deps/credo/lib/credo/check/refactor/negated_conditions_in_unless.ex	/^  defp issue_for(line_no, trigger, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/refactor/negated_conditions_with_else.ex	/^  defp issue_for(line_no, trigger, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/refactor/nesting.ex	/^  def issue_for(issue_meta, line_no, trigger, max_value, actual_value) do$/;"	f
+issue_for	deps/credo/lib/credo/check/refactor/unless_with_else.ex	/^  defp issue_for(line_no, trigger, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/iex_pry.ex	/^  defp issue_for(line_no, trigger, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/io_inspect.ex	/^  defp issue_for(line_no, trigger, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  def issue_for(_, _, _, _) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  def issue_for(list, issue_meta, def_names, excluded_names) when is_list(list) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  def issue_for(tuple, issue_meta, def_names, excluded_names) when is_tuple(tuple) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  def issue_for({:%, _meta, [{:__aliases__, _meta1, _mod}, map]}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  def issue_for({:%{}, _meta2, keywords}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  def issue_for({:->, _meta2, [lhs, _rhs]}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  def issue_for({:{}, _meta2, tuple_list}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  def issue_for({name, meta, _}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  def issue_for(_, _, _, _) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  def issue_for(list, issue_meta, def_names, excluded_names) when is_list(list) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  def issue_for(tuple, issue_meta, def_names, excluded_names) when is_tuple(tuple) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  def issue_for({:%, _meta, [{:__aliases__, _meta1, _mod}, map]}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  def issue_for({:%{}, _meta2, keywords}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  def issue_for({:->, _meta2, [lhs, _rhs]}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  def issue_for({:{}, _meta2, tuple_list}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  def issue_for({name, meta, _}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  def issue_for(_, _, _, _) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  def issue_for(list, issue_meta, def_names, excluded_names) when is_list(list) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  def issue_for(tuple, issue_meta, def_names, excluded_names) when is_tuple(tuple) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  def issue_for({:%, _meta, [{:__aliases__, _meta1, _mod}, map]}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  def issue_for({:%{}, _meta2, keywords}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  def issue_for({:->, _meta2, [lhs, _rhs]}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  def issue_for({:=, _meta2, arguments}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  def issue_for({:{}, _meta2, tuple_list}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  def issue_for({name, meta, _}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  def issue_for(_, _, _, _) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  def issue_for(list, issue_meta, def_names, excluded_names) when is_list(list) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  def issue_for(tuple, issue_meta, def_names, excluded_names) when is_tuple(tuple) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  def issue_for({:%, _meta, [{:__aliases__, _meta1, _mod}, map]}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  def issue_for({:%{}, _meta2, keywords}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  def issue_for({:->, _meta2, [lhs, _rhs]}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  def issue_for({:{}, _meta2, tuple_list}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  def issue_for({name, meta, _}, issue_meta, def_names, excluded_names) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/operation_on_same_values.ex	/^  defp issue_for(line_no, trigger, operation, constant_result, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/check/warning/unused_string_operation.ex	/^  defp issue_for(line_no, trigger, issue_meta) do$/;"	f
+issue_for	deps/credo/lib/credo/code.ex	/^  defp issue_for({line_no, error_message, _}, filename) do$/;"	f
+issue_for_else_block	deps/credo/lib/credo/check/refactor/unless_with_else.ex	/^  defp issue_for_else_block(_else_block, meta, issue_meta) do$/;"	f
+issue_for_else_block	deps/credo/lib/credo/check/refactor/unless_with_else.ex	/^  defp issue_for_else_block(nil, _meta, _issue_meta) do$/;"	f
+issue_for_first_condition	deps/credo/lib/credo/check/refactor/negated_conditions_in_unless.ex	/^  defp issue_for_first_condition(_, _, _), do: nil$/;"	f
+issue_for_first_condition	deps/credo/lib/credo/check/refactor/negated_conditions_in_unless.ex	/^  defp issue_for_first_condition({:!, meta, _arguments}, meta, issue_meta) do$/;"	f
+issue_for_name	deps/credo/lib/credo/check/readability/module_attribute_names.ex	/^  defp issue_for_name(name, meta, issue_meta) do$/;"	f
+issue_for_name	deps/credo/lib/credo/check/readability/variable_names.ex	/^    defp issue_for_name({unquote(name), _, nil}, _), do: nil$/;"	f
+issue_for_name	deps/credo/lib/credo/check/readability/variable_names.ex	/^  defp issue_for_name({name, meta, nil}, issue_meta) do$/;"	f
+issue_for_wrong	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  defp issue_for_wrong({:defmodule, meta, _} = ast, prefix_or_suffix, issue_meta, expected) do$/;"	f
+issues_for_call	deps/credo/lib/credo/check/warning/iex_pry.ex	/^  def issues_for_call(meta, issues, issue_meta) do$/;"	f
+issues_for_call	deps/credo/lib/credo/check/warning/io_inspect.ex	/^  def issues_for_call(meta, issues, issue_meta) do$/;"	f
+issues_for_def	deps/credo/lib/credo/check/readability/module_names.ex	/^  defp issues_for_def(body, issues, issue_meta) do$/;"	f
+issues_for_definition	deps/credo/lib/credo/check/readability/function_names.ex	/^  defp issues_for_definition(body, issues, issue_meta) do$/;"	f
+issues_for_definition	deps/credo/lib/credo/check/readability/predicate_function_names.ex	/^  defp issues_for_definition(op, body, issues, issue_meta) do$/;"	f
+issues_for_lhs	deps/credo/lib/credo/check/readability/variable_names.ex	/^    defp issues_for_lhs({unquote(op), _meta, parameters}, issues, issue_meta) do$/;"	f
+issues_for_lhs	deps/credo/lib/credo/check/readability/variable_names.ex	/^  defp issues_for_lhs(_, issues, _issue_meta) do$/;"	f
+issues_for_lhs	deps/credo/lib/credo/check/readability/variable_names.ex	/^  defp issues_for_lhs(list, issues, issue_meta) when is_list(list) do$/;"	f
+issues_for_lhs	deps/credo/lib/credo/check/readability/variable_names.ex	/^  defp issues_for_lhs(tuple, issues, issue_meta) when is_tuple(tuple) do$/;"	f
+issues_for_lhs	deps/credo/lib/credo/check/readability/variable_names.ex	/^  defp issues_for_lhs({_name, _meta, nil} = value, issues, issue_meta) do$/;"	f
+issues_for_name	deps/credo/lib/credo/check/readability/function_names.ex	/^  def issues_for_name(name, meta, issues, issue_meta) do$/;"	f
+issues_for_name	deps/credo/lib/credo/check/readability/module_names.ex	/^  def issues_for_name(name, meta, issues, issue_meta) do$/;"	f
+issues_for_name	deps/credo/lib/credo/check/readability/predicate_function_names.ex	/^  def issues_for_name(_op, name, meta, issues, issue_meta) do$/;"	f
+issues_for_wrong	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  defp issues_for_wrong(exception_list, prefix_or_suffix, issue_meta, suffix) do$/;"	f
+join_default_files_if_directory	deps/credo/lib/credo/config.ex	/^  defp join_default_files_if_directory(dir) do$/;"	f
+keyloop	deps/encurses/src/encurses_demo.erl	/^keyloop() ->$/;"	f	module:encurses_demo
+keyloop	lib/interface.ex	/^  def keyloop, do: handle_key :cecho.getch$/;"	f
+keypad	deps/cecho/src/cecho.erl	/^keypad(Window, BFlag) when is_integer(Window) andalso is_boolean(BFlag) ->$/;"	f	module:cecho
+keypad	deps/encurses/src/encurses.erl	/^keypad(Flag) when is_boolean(Flag) ->$/;"	f	module:encurses
+keypad	deps/encurses/src/encurses.erl	/^keypad(Win, Flag) when is_integer(Win) and is_boolean(Flag) ->$/;"	f	module:encurses
+last	deps/credo/lib/credo/code/name.ex	/^  def last(name) do$/;"	f
+lava	lib/landscape/display.ex	/^  def lava(_),         do: "#{IO.ANSI.red_background}#{IO.ANSI.black}"$/;"	f
+line_at	deps/credo/lib/credo/source_file.ex	/^  def line_at(source_file, line_no) do$/;"	f
+line_no_for	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  def line_no_for(block) do$/;"	f
+line_no_for	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  def line_no_for(nil), do: nil$/;"	f
+line_no_for	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  def line_no_for({atom, meta, _}) when is_atom(atom) do$/;"	f
+load	deps/encurses/c_src/encurses.c	/^load(ErlNifEnv* env, void** priv, ERL_NIF_TERM load_info)$/;"	f	file:
+load_and_validate_source_files	deps/credo/lib/credo/cli/command/explain.ex	/^  defp load_and_validate_source_files(config) do$/;"	f
+load_and_validate_source_files	deps/credo/lib/credo/cli/command/list.ex	/^  def load_and_validate_source_files(config) do$/;"	f
+load_and_validate_source_files	deps/credo/lib/credo/cli/command/suggest.ex	/^  def load_and_validate_source_files(config) do$/;"	f
+load_driver	deps/cecho/src/cecho_srv.erl	/^load_driver() ->$/;"	f	module:cecho_srv
+load_nif	deps/encurses/src/encurses.erl	/^load_nif() ->$/;"	f	module:encurses
+lock	deps/encurses/c_src/encurses.c	/^    ErlNifMutex* lock;$/;"	m	struct:__anon2	file:
+main	deps/credo/lib/credo/cli.ex	/^  def main(argv) do$/;"	f
+make	lib/landscape.ex	/^  def make() do$/;"	f
+mass	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  def mass(ast) do$/;"	f
+match_regex	deps/credo/lib/credo/config.ex	/^  defp match_regex(_tuple, [], default_for_empty), do: default_for_empty$/;"	f
+match_regex	deps/credo/lib/credo/config.ex	/^  defp match_regex(tuple, regexes, _default_for_empty) do$/;"	f
+matches?	deps/credo/lib/credo/sources.ex	/^  defp matches?(file, exclude_patterns) when is_list(exclude_patterns) do$/;"	f
+matches?	deps/credo/lib/credo/sources.ex	/^  defp matches?(file, regex) do$/;"	f
+matches?	deps/credo/lib/credo/sources.ex	/^  defp matches?(file, string) when is_binary(string) do$/;"	f
+merge	deps/credo/lib/credo/config.ex	/^  def merge([], config), do: config$/;"	f
+merge	deps/credo/lib/credo/config.ex	/^  def merge([other|tail], base) do$/;"	f
+merge	deps/credo/lib/credo/config.ex	/^  def merge(base, other) do$/;"	f
+merge	deps/credo/lib/credo/config.ex	/^  def merge(list) when is_list(list) do$/;"	f
+merge_checks	deps/credo/lib/credo/config.ex	/^  def merge_checks(%__MODULE__{checks: checks_base}, %__MODULE__{checks: checks_other}) do$/;"	f
+merge_files	deps/credo/lib/credo/config.ex	/^  def merge_files(%__MODULE__{files: files_base}, %__MODULE__{files: files_other}) do$/;"	f
+message_for	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  def message_for(:prefix, expected, trigger) do$/;"	f
+message_for	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  def message_for(:suffix, expected, trigger) do$/;"	f
+meta	deps/credo/lib/credo/check/property_value.ex	/^  def meta(list) when is_list(list), do: list |> Enum.map(&meta\/1)$/;"	f
+meta	deps/credo/lib/credo/check/property_value.ex	/^  def meta(tuple, key) do$/;"	f
+meta	deps/credo/lib/credo/check/property_value.ex	/^  def meta({__MODULE__, _, value}), do: value$/;"	f
+mod_name	deps/credo/lib/credo/code/scope.ex	/^  def mod_name(nil), do: nil$/;"	f
+mod_name	deps/credo/lib/credo/code/scope.ex	/^  def mod_name(scope_name) do$/;"	f
+mod_traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  defp mod_traverse(ast, issues, _issue_meta, _def_names, _excluded_names) do$/;"	f
+mod_traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  defp mod_traverse({:=, _meta, [lhs, _rhs]} = ast, issues, issue_meta, def_names, excluded_names) do$/;"	f
+mod_traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  defp mod_traverse(ast, issues, _issue_meta, _def_names, _excluded_names) do$/;"	f
+mod_traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  defp mod_traverse({:case, _meta, [_condition, _rhs]} = ast, issues, issue_meta, def_names, excluded_names) do$/;"	f
+mod_traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^    defp mod_traverse({unquote(op), _meta, [head | _tail]} = ast, issues, issue_meta, def_names, excluded_names) do$/;"	f
+mod_traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  defp mod_traverse(ast, issues, _issue_meta, _def_names, _excluded_names) do$/;"	f
+mod_traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  defp mod_traverse(ast, issues, _issue_meta, _def_names, _excluded_names) do$/;"	f
+mod_traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  defp mod_traverse({:fn, _meta, lhs} = ast, issues, issue_meta, def_names, excluded_names) do$/;"	f
+most_picked_prop	deps/credo/lib/credo/check/consistency/helper.ex	/^  def most_picked_prop(source_files, callback) when is_list(source_files) and is_function(callback) do$/;"	f
+most_picked_prop_value	deps/credo/lib/credo/check/consistency/helper.ex	/^  def most_picked_prop_value(list) when is_list(list) do$/;"	f
+move	deps/cecho/src/cecho.erl	/^move(Y, X) when is_integer(X) andalso is_integer(Y) ->$/;"	f	module:cecho
+move	deps/encurses/src/encurses.erl	/^move(Win, X, Y) when is_integer(Win) andalso is_integer(X) andalso$/;"	f	module:encurses
+move	deps/encurses/src/encurses.erl	/^move(X, Y) when is_integer(X) andalso is_integer(Y) ->$/;"	f	module:encurses
+moveloop	deps/cecho/src/cecho_example.erl	/^moveloop(?ceKEY_ESC) ->$/;"	f	module:cecho_example
+moveloop	deps/cecho/src/cecho_example.erl	/^moveloop(C) ->$/;"	f	module:cecho_example
+moveloop	deps/cecho/src/cecho_example.erl	/^moveloop(K) when K == ?ceKEY_F(1) ->$/;"	f	module:cecho_example
+mv	deps/cecho/src/cecho_example.erl	/^mv(OffsetY, OffsetX) ->$/;"	f	module:cecho_example
+mvaddch	deps/cecho/src/cecho.erl	/^mvaddch(Y, X, Char) when is_integer(Char) andalso is_integer(X)$/;"	f	module:cecho
+mvaddch	deps/encurses/src/encurses.erl	/^mvaddch(X, Y, Char) when is_integer(X) andalso is_integer(Y) andalso$/;"	f	module:encurses
+mvaddstr	deps/cecho/src/cecho.erl	/^mvaddstr(Y, X, String) when is_list(String) andalso is_integer(X) andalso$/;"	f	module:cecho
+mvaddstr	deps/encurses/src/encurses.erl	/^mvaddstr(X, Y, String) when is_integer(X) andalso is_integer(Y) andalso$/;"	f	module:encurses
+mvhello	deps/cecho/src/cecho_example.erl	/^mvhello() -> mvhello(0, 0, 1, 1).$/;"	f	module:cecho_example
+mvhello	deps/cecho/src/cecho_example.erl	/^mvhello(PrevY, PrevX, DirY, DirX) ->$/;"	f	module:cecho_example
+mvwaddch	deps/cecho/src/cecho.erl	/^mvwaddch(Window, Y, X, Char) when is_integer(Window) andalso is_integer(Y)$/;"	f	module:cecho
+mvwaddch	deps/encurses/src/encurses.erl	/^mvwaddch(Win, X, Y, Char) when is_integer(Win) andalso is_integer(X) andalso$/;"	f	module:encurses
+mvwaddstr	deps/cecho/src/cecho.erl	/^mvwaddstr(Window, Y, X, String) when is_integer(Window) andalso is_integer(Y)$/;"	f	module:cecho
+mvwaddstr	deps/encurses/src/encurses.erl	/^mvwaddstr(Win, X, Y, String) when is_integer(Win) andalso is_integer(X) andalso$/;"	f	module:encurses
+name	deps/credo/lib/credo/code/module.ex	/^  def name(_), do: nil$/;"	f
+name	deps/credo/lib/credo/code/module.ex	/^  def name({:defmodule, _, [{:__aliases__, _, name_list}, _]}) do$/;"	f
+name	deps/credo/lib/credo/code/scope.ex	/^  def name(_ast, [line: 0]), do: nil$/;"	f
+name	deps/credo/lib/credo/code/scope.ex	/^  def name(ast, [line: line]) do$/;"	f
+name_with_prefix?	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  defp name_with_prefix?(module_ast, prefix) do$/;"	f
+name_with_suffix?	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  defp name_with_suffix?(module_ast, suffix) do$/;"	f
+names	deps/credo/lib/credo/code/parameters.ex	/^    def names({unquote(op), _meta, arguments}) when is_list(arguments) do$/;"	f
+names	deps/credo/lib/credo/code/parameters.ex	/^  def names(nil), do: nil$/;"	f
+negated_condition?	deps/credo/lib/credo/check/refactor/negated_conditions_with_else.ex	/^  defp negated_condition?(_) do$/;"	f
+negated_condition?	deps/credo/lib/credo/check/refactor/negated_conditions_with_else.ex	/^  defp negated_condition?(arguments) when is_list(arguments) do$/;"	f
+negated_condition?	deps/credo/lib/credo/check/refactor/negated_conditions_with_else.ex	/^  defp negated_condition?({:!, _meta, _arguments}) do$/;"	f
+neighbor	lib/landscape/position.ex	/^  def neighbor(_, _, ele, _), do: ele$/;"	f
+neighbor	lib/landscape/position.ex	/^  def neighbor(w, _, ele, :n)  when not top(w, h, ele),                         do: ele - w$/;"	f
+neighbor	lib/landscape/position.ex	/^  def neighbor(w, h, ele, :e)  when not eol(w, h, ele),                         do: ele + 1$/;"	f
+neighbor	lib/landscape/position.ex	/^  def neighbor(w, h, ele, :ne) when not top(w, h, ele) and not eol(w, h, ele), do: (ele - w) + 1$/;"	f
+neighbor	lib/landscape/position.ex	/^  def neighbor(w, h, ele, :nw) when not top(w, h, ele) and not bol(w, h, ele), do: ele - 1 - w$/;"	f
+neighbor	lib/landscape/position.ex	/^  def neighbor(w, h, ele, :s)  when not bot(w, h, ele),                         do: ele + w$/;"	f
+neighbor	lib/landscape/position.ex	/^  def neighbor(w, h, ele, :se) when not bot(w, h, ele) and not eol(w, h, ele), do: ele + w + 1$/;"	f
+neighbor	lib/landscape/position.ex	/^  def neighbor(w, h, ele, :sw) when not bot(w, h, ele) and not bol(w, h, ele), do: (ele + w) - 1$/;"	f
+neighbor	lib/landscape/position.ex	/^  def neighbor(w, h, ele, :w)  when not bol(w, h, ele),                         do: ele - 1$/;"	f
+neighbors	lib/landscape/position.ex	/^  def neighbors(_, _, ele, [], elements),                 do: Enum.uniq(elements) -- [ele]$/;"	f
+neighbors	lib/landscape/position.ex	/^  def neighbors(w, h, ele),                               do: neighbors(w, h, ele, [:n, :ne, :e, :se, :s, :sw, :w, :nw], [])$/;"	f
+neighbors	lib/landscape/position.ex	/^  def neighbors(w, h, ele, [direction | tail], elements), do: neighbors(w, h, ele, tail, [neighbor(w, h, ele, direction)| elements])$/;"	f
+newwin	deps/cecho/src/cecho.erl	/^newwin(Height, Width, StartY, StartX) when is_integer(Height) andalso$/;"	f	module:cecho
+newwin	deps/encurses/src/encurses.erl	/^newwin(Width, Height, StartX, StartY) when is_integer(Width) andalso$/;"	f	module:encurses
+next	deps/encurses/c_src/encurses.c	/^    struct _qitem_t* next;$/;"	m	struct:_qitem_t	typeref:struct:_qitem_t::_qitem_t	file:
+next_day	lib/calendar.ex	/^  def next_day({y, season, d, h, m, speed}) when d >= @season_length, do: next_season({y, season, 1, h, m, speed})$/;"	f
+next_day	lib/calendar.ex	/^  def next_day({y, season, d, h, m, speed}),                          do: {y, season, d + 1, h, m, speed}$/;"	f
+next_hour	lib/calendar.ex	/^  def next_hour({y, season, d, h, m, speed}) when h >= 23, do: next_day({y, season, d, 0, m, speed})$/;"	f
+next_hour	lib/calendar.ex	/^  def next_hour({y, season, d, h, m, speed}),              do: {y, season, d, h + 1, m, speed}$/;"	f
+next_minute	lib/calendar.ex	/^  def next_minute({y, season, d, h, m, speed}) when m >= 59, do: next_hour({y, season, d, h, 0, speed})$/;"	f
+next_minute	lib/calendar.ex	/^  def next_minute({y, season, d, h, m, speed}),              do: {y, season, d, h, m + 1, speed}$/;"	f
+next_season	lib/calendar.ex	/^  def next_season({y, :winter, d, speed}), do: {y + 1, @season_progression[:winter], d, speed}$/;"	f
+next_season	lib/calendar.ex	/^  def next_season({y, season, d, speed}),  do: {y, @season_progression[season], d, speed}$/;"	f
+nif_funcs	deps/encurses/c_src/encurses.c	/^static ErlNifFunc nif_funcs[] =$/;"	v	file:
+nl	deps/cecho/src/cecho.erl	/^nl() ->$/;"	f	module:cecho
+nl	deps/encurses/src/encurses.erl	/^nl() ->$/;"	f	module:encurses
+nocbreak	deps/cecho/src/cecho.erl	/^nocbreak() ->$/;"	f	module:cecho
+nocbreak	deps/encurses/src/encurses.erl	/^nocbreak() ->$/;"	f	module:encurses
+noecho	deps/cecho/src/cecho.erl	/^noecho() ->$/;"	f	module:cecho
+noecho	deps/encurses/src/encurses.erl	/^noecho() ->$/;"	f	module:encurses
+nonl	deps/cecho/src/cecho.erl	/^nonl() ->$/;"	f	module:cecho
+nonl	deps/encurses/src/encurses.erl	/^nonl() ->$/;"	f	module:encurses
+notify_watchers	lib/calendar.ex	/^  def notify_watchers(state) do$/;"	f
+ok	deps/cecho/c_src/cecho.c	/^void ok(state *st) {$/;"	f
+opts	deps/encurses/c_src/encurses.c	/^    ErlNifThreadOpts* opts;$/;"	m	struct:__anon3	file:
+other_win	deps/encurses/src/encurses_demo.erl	/^other_win() ->$/;"	f	module:encurses_demo
+other_win	deps/encurses/src/encurses_demo.erl	/^other_win(Win) ->$/;"	f	module:encurses_demo
+output_mod	deps/credo/lib/credo/cli/command/categories.ex	/^  defp output_mod do$/;"	f
+output_mod	deps/credo/lib/credo/cli/command/explain.ex	/^  defp output_mod(_) do$/;"	f
+output_mod	deps/credo/lib/credo/cli/command/list.ex	/^  defp output_mod(%Config{one_line: false}) do$/;"	f
+output_mod	deps/credo/lib/credo/cli/command/list.ex	/^  defp output_mod(%Config{one_line: true}) do$/;"	f
+output_mod	deps/credo/lib/credo/cli/command/suggest.ex	/^  defp output_mod(%Config{one_line: false}) do$/;"	f
+output_mod	deps/credo/lib/credo/cli/command/suggest.ex	/^  defp output_mod(%Config{one_line: true}) do$/;"	f
+package	deps/credo/mix.exs	/^  defp package do$/;"	f
+parameter_count	deps/credo/lib/credo/check/code_helper.ex	/^  defdelegate parameter_count(ast), to: Parameters, as: :count$/;"	d
+parameter_names	deps/credo/lib/credo/check/code_helper.ex	/^  defdelegate parameter_names(ast), to: Parameters, as: :names$/;"	d
+params	deps/credo/lib/credo/issue_meta.ex	/^  def params(%SourceFile{}), do: []$/;"	f
+params	deps/credo/lib/credo/issue_meta.ex	/^  def params({__MODULE__, _source_file, params}), do: params$/;"	f
+parse	deps/credo/lib/credo/exs_loader.ex	/^  def parse(exs_string, false) do$/;"	f
+parse	deps/credo/lib/credo/exs_loader.ex	/^  def parse(exs_string, safe \\\\ false)$/;"	f
+parse	deps/credo/lib/credo/exs_loader.ex	/^  def parse(exs_string, true) do$/;"	f
+parse	deps/credo/lib/credo/source_file.ex	/^  def parse(source, filename) do$/;"	f
+parse_code	deps/credo/lib/credo/code/sigils.ex	/^    defp parse_code(<< unquote(sigil_start)::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_code	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_code("", acc, _replacement) do$/;"	f
+parse_code	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_code(<< "?\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_code	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_code(<< "\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_code	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_code(<< "\\"\\"\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_code	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_code(<< "\\\\\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_code	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_code(<< h::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_code	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_code(str, acc, replacement) when is_binary(str) do$/;"	f
+parse_code	deps/credo/lib/credo/code/strings.ex	/^    defp parse_code(<< unquote(sigil_start)::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_code	deps/credo/lib/credo/code/strings.ex	/^  defp parse_code("", acc, _replacement) do$/;"	f
+parse_code	deps/credo/lib/credo/code/strings.ex	/^  defp parse_code(<< "?\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_code	deps/credo/lib/credo/code/strings.ex	/^  defp parse_code(<< "\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_code	deps/credo/lib/credo/code/strings.ex	/^  defp parse_code(<< "\\"\\"\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_code	deps/credo/lib/credo/code/strings.ex	/^  defp parse_code(<< "\\\\\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_code	deps/credo/lib/credo/code/strings.ex	/^  defp parse_code(str, acc, replacement) when is_binary(str) do$/;"	f
+parse_direction	deps/encurses/src/encurses_demo.erl	/^parse_direction(Char) ->$/;"	f	module:encurses_demo
+parse_heredoc	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_heredoc("", acc, _replacement) do$/;"	f
+parse_heredoc	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_heredoc(<< "\\"\\"\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_heredoc	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_heredoc(<< "\\\\\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_heredoc	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_heredoc(<< "\\\\\\\\"::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_heredoc	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_heredoc(<< "\\n"::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_heredoc	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_heredoc(str, acc, replacement) when is_binary(str) do$/;"	f
+parse_heredoc	deps/credo/lib/credo/code/strings.ex	/^  defp parse_heredoc("", acc, _replacement) do$/;"	f
+parse_heredoc	deps/credo/lib/credo/code/strings.ex	/^  defp parse_heredoc(<< "\\"\\"\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_heredoc	deps/credo/lib/credo/code/strings.ex	/^  defp parse_heredoc(<< "\\\\\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_heredoc	deps/credo/lib/credo/code/strings.ex	/^  defp parse_heredoc(<< "\\\\\\\\"::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_heredoc	deps/credo/lib/credo/code/strings.ex	/^  defp parse_heredoc(<< "\\n"::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_heredoc	deps/credo/lib/credo/code/strings.ex	/^  defp parse_heredoc(<< _::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_options	deps/credo/lib/credo/cli.ex	/^  defp parse_options(argv) do$/;"	f
+parse_removable_sigil	deps/credo/lib/credo/code/sigils.ex	/^    defp parse_removable_sigil("", acc, unquote(sigil_end), _replacement) do$/;"	f
+parse_removable_sigil	deps/credo/lib/credo/code/sigils.ex	/^    defp parse_removable_sigil(<< "\\\\\\""::utf8, t::binary >>, acc, unquote(sigil_end), replacement) do$/;"	f
+parse_removable_sigil	deps/credo/lib/credo/code/sigils.ex	/^    defp parse_removable_sigil(<< "\\\\\\\\"::utf8, t::binary >>, acc, unquote(sigil_end), replacement) do$/;"	f
+parse_removable_sigil	deps/credo/lib/credo/code/sigils.ex	/^    defp parse_removable_sigil(<< "\\n"::utf8, t::binary >>, acc, unquote(sigil_end), replacement) do$/;"	f
+parse_removable_sigil	deps/credo/lib/credo/code/sigils.ex	/^    defp parse_removable_sigil(<< _::utf8, t::binary >>, acc, unquote(sigil_end), replacement) do$/;"	f
+parse_removable_sigil	deps/credo/lib/credo/code/sigils.ex	/^    defp parse_removable_sigil(<< unquote(sigil_end)::utf8, t::binary >>, acc, unquote(sigil_end), replacement) do$/;"	f
+parse_safe	deps/credo/lib/credo/exs_loader.ex	/^  def parse_safe(exs_string) do$/;"	f
+parse_string_literal	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_string_literal("", acc, _replacement) do$/;"	f
+parse_string_literal	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_string_literal(<< "\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_string_literal	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_string_literal(<< "\\\\\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_string_literal	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_string_literal(<< "\\\\\\\\"::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_string_literal	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_string_literal(<< "\\n"::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_string_literal	deps/credo/lib/credo/code/sigils.ex	/^  defp parse_string_literal(str, acc, replacement) when is_binary(str) do$/;"	f
+parse_string_literal	deps/credo/lib/credo/code/strings.ex	/^  defp parse_string_literal("", acc, _replacement) do$/;"	f
+parse_string_literal	deps/credo/lib/credo/code/strings.ex	/^  defp parse_string_literal(<< "\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_string_literal	deps/credo/lib/credo/code/strings.ex	/^  defp parse_string_literal(<< "\\\\\\""::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_string_literal	deps/credo/lib/credo/code/strings.ex	/^  defp parse_string_literal(<< "\\\\\\\\"::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_string_literal	deps/credo/lib/credo/code/strings.ex	/^  defp parse_string_literal(<< "\\n"::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_string_literal	deps/credo/lib/credo/code/strings.ex	/^  defp parse_string_literal(<< _::utf8, t::binary >>, acc, replacement) do$/;"	f
+parse_string_sigil	deps/credo/lib/credo/code/strings.ex	/^    defp parse_string_sigil("", acc, unquote(sigil_end), _replacement) do$/;"	f
+parse_string_sigil	deps/credo/lib/credo/code/strings.ex	/^    defp parse_string_sigil(<< "\\\\\\""::utf8, t::binary >>, acc, unquote(sigil_end), replacement) do$/;"	f
+parse_string_sigil	deps/credo/lib/credo/code/strings.ex	/^    defp parse_string_sigil(<< "\\\\\\\\"::utf8, t::binary >>, acc, unquote(sigil_end), replacement) do$/;"	f
+parse_string_sigil	deps/credo/lib/credo/code/strings.ex	/^    defp parse_string_sigil(<< "\\n"::utf8, t::binary >>, acc, unquote(sigil_end), replacement) do$/;"	f
+parse_string_sigil	deps/credo/lib/credo/code/strings.ex	/^    defp parse_string_sigil(<< _::utf8, t::binary >>, acc, unquote(sigil_end), replacement) do$/;"	f
+parse_string_sigil	deps/credo/lib/credo/code/strings.ex	/^    defp parse_string_sigil(<< unquote(sigil_end)::utf8, t::binary >>, acc, unquote(sigil_end), replacement) do$/;"	f
+pascal_case?	deps/credo/lib/credo/code/name.ex	/^  def pascal_case?(name) do$/;"	f
+payload	deps/encurses/c_src/encurses.c	/^    qitem_payload_t* payload;$/;"	m	struct:_qitem_t	file:
+per_category	deps/credo/lib/credo/cli/output/issues_grouped_by_category.ex	/^  def per_category(%Config{all: false}), do: @per_category$/;"	f
+per_category	deps/credo/lib/credo/cli/output/issues_grouped_by_category.ex	/^  def per_category(%Config{all: true}), do: 1_000_000$/;"	f
+pid	deps/encurses/c_src/encurses.c	/^    ErlNifPid* pid;$/;"	m	struct:__anon1	file:
+pos	deps/cecho/src/cecho_example.erl	/^pos(Y, X) ->$/;"	f	module:cecho_example
+pos_string	deps/credo/lib/credo/cli/output/explain.ex	/^  defp pos_string(line_no, column), do: ":#{line_no}:#{column}"$/;"	f
+pos_string	deps/credo/lib/credo/cli/output/explain.ex	/^  defp pos_string(line_no, nil), do: ":#{line_no}"$/;"	f
+pos_string	deps/credo/lib/credo/cli/output/explain.ex	/^  defp pos_string(nil, nil), do: ""$/;"	f
+pos_suffix	deps/credo/lib/credo/cli/filename.ex	/^  def pos_suffix(line_no, column), do: ":#{line_no}:#{column}"$/;"	f
+pos_suffix	deps/credo/lib/credo/cli/filename.ex	/^  def pos_suffix(line_no, nil), do: ":#{line_no}"$/;"	f
+pos_suffix	deps/credo/lib/credo/cli/filename.ex	/^  def pos_suffix(nil, nil), do: ""$/;"	f
+print	deps/credo/lib/credo/cli/output/categories.ex	/^  def print do$/;"	f
+print	deps/credo/lib/credo/cli/output/summary.ex	/^  def print(_source_files, %Config{one_line: true}, _time_load, _time_run) do$/;"	f
+print	deps/credo/lib/credo/cli/output/summary.ex	/^  def print(source_files, config, time_load, time_run) do$/;"	f
+print_after_info	deps/credo/lib/credo/cli/output/explain.ex	/^  def print_after_info(source_file, config, line_no, column) do$/;"	f
+print_after_info	deps/credo/lib/credo/cli/output/issues_by_scope.ex	/^  def print_after_info(source_files, config, time_load, time_run) do$/;"	f
+print_after_info	deps/credo/lib/credo/cli/output/issues_grouped_by_category.ex	/^  def print_after_info(source_files, config, time_load, time_run) do$/;"	f
+print_after_info	deps/credo/lib/credo/cli/output/issues_short_list.ex	/^  def print_after_info(source_files, config, _time_load, _time_run) do$/;"	f
+print_badge	deps/credo/lib/credo/cli/output/summary.ex	/^  def print_badge([], _), do: nil$/;"	f
+print_badge	deps/credo/lib/credo/cli/output/summary.ex	/^  def print_badge(source_files, issues) do$/;"	f
+print_banner	deps/credo/lib/credo/cli/command/help.ex	/^  def print_banner do$/;"	f
+print_before_info	deps/credo/lib/credo/cli/output/explain.ex	/^  def print_before_info(source_files) do$/;"	f
+print_before_info	deps/credo/lib/credo/cli/output/issues_by_scope.ex	/^  def print_before_info(source_files) do$/;"	f
+print_before_info	deps/credo/lib/credo/cli/output/issues_grouped_by_category.ex	/^  def print_before_info(source_files) do$/;"	f
+print_before_info	deps/credo/lib/credo/cli/output/issues_short_list.ex	/^  def print_before_info(source_files) do$/;"	f
+print_category	deps/credo/lib/credo/cli/output/categories.ex	/^  defp print_category(category) do$/;"	f
+print_cell	lib/landscape/display.ex	/^  defp print_cell({c, false, 0}, {_, season, _, _, _, _}, is_eol), do: smart_put("#{IO.ANSI.Cursor.cursor_up}#{dirt(season)}#{c}#{@reset}", is_eol)$/;"	f
+print_cell	lib/landscape/display.ex	/^  defp print_cell({c, false, 1}, {_, season, _, _, _, _}, is_eol), do: smart_put("#{IO.ANSI.Cursor.cursor_up}#{grass(season)}#{c}#{@reset}", is_eol)$/;"	f
+print_cell	lib/landscape/display.ex	/^  defp print_cell({c, false, 2}, {_, season, _, _, _, _}, is_eol), do: smart_put("#{IO.ANSI.Cursor.cursor_up}#{flower(season)}#{c}#{@reset}", is_eol)$/;"	f
+print_cell	lib/landscape/display.ex	/^  defp print_cell({c, true, _},  {_, season, _, _, _, _}, is_eol), do: smart_put("#{IO.ANSI.Cursor.cursor_up}#{water(season)}#{c}#{@reset}", is_eol)$/;"	f
+print_colors	deps/cecho/src/cecho_example.erl	/^print_colors(false) -> ok;$/;"	f	module:cecho_example
+print_colors	deps/cecho/src/cecho_example.erl	/^print_colors(true) ->$/;"	f	module:cecho_example
+print_help	deps/credo/lib/credo/cli/command/explain.ex	/^  defp print_help do$/;"	f
+print_help	deps/credo/lib/credo/cli/command/list.ex	/^  defp print_help do$/;"	f
+print_help	deps/credo/lib/credo/cli/command/suggest.ex	/^  defp print_help do$/;"	f
+print_issue	deps/credo/lib/credo/cli/output/explain.ex	/^  defp print_issue(%Issue{check: check, message: message, filename: filename, priority: priority} = issue, source_file, term_width) do$/;"	f
+print_issue	deps/credo/lib/credo/cli/output/issue_helper.ex	/^  def print_issue(%Issue{check: check, message: message, filename: filename, priority: priority} = issue, _source_file,$/;"	f
+print_issue	deps/credo/lib/credo/cli/output/issue_helper.ex	/^  def print_issue(%Issue{check: check, message: message, filename: filename, priority: priority} = issue, source_file, %Config{one_line: false} = config, term_width) do$/;"	f
+print_issue	deps/credo/lib/credo/cli/output/issues_by_scope.ex	/^  defp print_issue(%Issue{check: check, message: message, filename: filename, priority: priority} = issue, source_file, term_width) do$/;"	f
+print_issue	deps/credo/lib/credo/cli/output/issues_grouped_by_category.ex	/^  defp print_issue(%Issue{filename: filename} = issue, source_file_map, config, term_width) do$/;"	f
+print_issue	deps/credo/lib/credo/cli/output/issues_short_list.ex	/^  defp print_issue(%Issue{check: check, message: message, filename: filename, priority: priority} = issue, _source_file, _term_width) do$/;"	f
+print_issue_line	deps/credo/lib/credo/cli/output/issue_helper.ex	/^  defp print_issue_line(%Issue{line_no: nil}, _source_file, _inner_color, _outer_color, _term_width) do$/;"	f
+print_issue_line	deps/credo/lib/credo/cli/output/issue_helper.ex	/^  defp print_issue_line(%Issue{} = issue, source_file, inner_color, outer_color, term_width) do$/;"	f
+print_issue_message	deps/credo/lib/credo/cli/output/issue_helper.ex	/^  defp print_issue_message("", _outer_color, _message_color) do$/;"	f
+print_issue_message	deps/credo/lib/credo/cli/output/issue_helper.ex	/^  defp print_issue_message([first_line | other_lines], check, outer_color, message_color, tag_style, priority) do$/;"	f
+print_issue_message	deps/credo/lib/credo/cli/output/issue_helper.ex	/^  defp print_issue_message(message, outer_color, message_color) do$/;"	f
+print_issue_trigger_marker	deps/credo/lib/credo/cli/output/issue_helper.ex	/^  defp print_issue_trigger_marker(%Issue{column: nil}, _line, _inner_color, _outer_color) do$/;"	f
+print_issue_trigger_marker	deps/credo/lib/credo/cli/output/issue_helper.ex	/^  defp print_issue_trigger_marker(%Issue{} = issue, line, inner_color, outer_color) do$/;"	f
+print_issues	deps/credo/lib/credo/cli/output/explain.ex	/^  defp print_issues(%SourceFile{issues: issues, filename: filename} = source_file, config, term_width, line_no, column) do$/;"	f
+print_issues	deps/credo/lib/credo/cli/output/explain.ex	/^  defp print_issues([], _filename, _source_file, _config, _term_width, _line_no, _column) do$/;"	f
+print_issues	deps/credo/lib/credo/cli/output/explain.ex	/^  defp print_issues(issues, _filename, source_file, _config, term_width, line_no, column) do$/;"	f
+print_issues	deps/credo/lib/credo/cli/output/explain.ex	/^  defp print_issues(nil, _config, _term_width, _line_no, _column) do$/;"	f
+print_issues	deps/credo/lib/credo/cli/output/issues_by_scope.ex	/^  defp print_issues(%SourceFile{issues: issues, filename: filename} = source_file, config, term_width) do$/;"	f
+print_issues	deps/credo/lib/credo/cli/output/issues_by_scope.ex	/^  defp print_issues(issues, _filename, source_file, _config, term_width) do$/;"	f
+print_issues	deps/credo/lib/credo/cli/output/issues_grouped_by_category.ex	/^  defp print_issues(_category, issues, source_file_map, %Config{one_line: true} = config, term_width) do$/;"	f
+print_issues	deps/credo/lib/credo/cli/output/issues_grouped_by_category.ex	/^  defp print_issues(_category, nil, _source_file_map, _config, _term_width) do$/;"	f
+print_issues	deps/credo/lib/credo/cli/output/issues_grouped_by_category.ex	/^  defp print_issues(category, issues, source_file_map, config, term_width) do$/;"	f
+print_issues	deps/credo/lib/credo/cli/output/issues_grouped_by_category.ex	/^  defp print_issues(issues, source_file_map, config, term_width) do$/;"	f
+print_issues	deps/credo/lib/credo/cli/output/issues_short_list.ex	/^  defp print_issues(%SourceFile{issues: issues, filename: filename} = source_file, config, term_width) do$/;"	f
+print_issues	deps/credo/lib/credo/cli/output/issues_short_list.ex	/^  defp print_issues(issues, _filename, source_file, _config, term_width) do$/;"	f
+print_line	deps/credo/lib/credo/cli/output/categories.ex	/^  defp print_line(line, color) do$/;"	f
+print_map	lib/landscape/display.ex	/^  def print_map({{w, h, m}, date}) do$/;"	f
+print_message	deps/credo/lib/credo/cli/command/help.ex	/^  def print_message do$/;"	f
+print_result	deps/credo/lib/credo/cli/command/explain.ex	/^  def print_result(source_file, config, line_no, column) do$/;"	f
+print_result	deps/credo/lib/credo/cli/command/explain.ex	/^  defp print_result([filename, line_no, column], source_files, config) do$/;"	f
+print_result	deps/credo/lib/credo/cli/command/explain.ex	/^  defp print_result([filename, line_no], source_files, config) do$/;"	f
+print_result	deps/credo/lib/credo/cli/command/explain.ex	/^  defp print_result([filename], source_files, config) do$/;"	f
+print_results_and_summary	deps/credo/lib/credo/cli/command/list.ex	/^  defp print_results_and_summary(source_files, config, time_load, time_run) do$/;"	f
+print_results_and_summary	deps/credo/lib/credo/cli/command/suggest.ex	/^  defp print_results_and_summary(source_files, config, time_load, time_run) do$/;"	f
+priority_arrow	deps/credo/lib/credo/cli/output.ex	/^  def priority_arrow(priority) do$/;"	f
+priority_for	deps/credo/lib/credo/check.ex	/^      defp priority_for(source_file, scope) do$/;"	f
+priority_for	deps/credo/lib/credo/priority.ex	/^    defp priority_for({unquote(op), _, arguments} = ast) when is_list(arguments) do$/;"	f
+priority_for	deps/credo/lib/credo/priority.ex	/^  defp priority_for({:defmodule, _, _} = ast) do$/;"	f
+priority_name	deps/credo/lib/credo/cli/output.ex	/^  def priority_name(priority) do$/;"	f
+process_exs	deps/credo/lib/credo/exs_loader.ex	/^  defp process_exs(list) when is_list(list) do$/;"	f
+process_exs	deps/credo/lib/credo/exs_loader.ex	/^  defp process_exs(v) when is_atom(v)$/;"	f
+process_exs	deps/credo/lib/credo/exs_loader.ex	/^  defp process_exs({:%{}, _meta, body}) do$/;"	f
+process_exs	deps/credo/lib/credo/exs_loader.ex	/^  defp process_exs({:sigil_w, _, [{:<<>>, _, [list_as_string]}, []]}) do$/;"	f
+process_exs	deps/credo/lib/credo/exs_loader.ex	/^  defp process_exs({:{}, _meta, body}) do$/;"	f
+process_exs	deps/credo/lib/credo/exs_loader.ex	/^  defp process_exs({key, value}) when is_atom(key) or is_binary(key) do$/;"	f
+process_map	deps/credo/lib/credo/exs_loader.ex	/^  defp process_map([], acc), do: acc$/;"	f
+process_map	deps/credo/lib/credo/exs_loader.ex	/^  defp process_map([head|tail], acc) do$/;"	f
+process_map_item	deps/credo/lib/credo/exs_loader.ex	/^  defp process_map_item({key, value}, acc) when is_atom(key) or is_binary(key) do$/;"	f
+process_tuple	deps/credo/lib/credo/exs_loader.ex	/^  defp process_tuple([], acc), do: acc$/;"	f
+process_tuple	deps/credo/lib/credo/exs_loader.ex	/^  defp process_tuple([head|tail], acc) do$/;"	f
+process_tuple_item	deps/credo/lib/credo/exs_loader.ex	/^  defp process_tuple_item(value, acc) do$/;"	f
+project	deps/bunt/mix.exs	/^  def project do$/;"	f
+project	deps/credo/mix.exs	/^  def project do$/;"	f
+project	mix.exs	/^  def project do$/;"	f
+property_list_for	deps/credo/lib/credo/check/consistency/helper.ex	/^  defp property_list_for(source_file, pattern_mods, params) do$/;"	f
+property_value	deps/credo/lib/credo/check/consistency/exception_names/prefix_and_suffix_collector.ex	/^  def property_value, do: nil$/;"	f
+property_value	deps/credo/lib/credo/check/consistency/line_endings/unix.ex	/^  def property_value, do: :unix$/;"	f
+property_value	deps/credo/lib/credo/check/consistency/line_endings/windows.ex	/^  def property_value, do: :windows$/;"	f
+property_value	deps/credo/lib/credo/check/consistency/tabs_or_spaces/spaces.ex	/^  def property_value, do: :spaces$/;"	f
+property_value	deps/credo/lib/credo/check/consistency/tabs_or_spaces/tabs.ex	/^  def property_value, do: :tabs$/;"	f
+property_value_for	deps/credo/lib/credo/check/consistency/exception_names/prefix_and_suffix_collector.ex	/^  def property_value_for(%SourceFile{ast: ast, filename: filename}, _params) do$/;"	f
+property_value_for	deps/credo/lib/credo/check/consistency/line_endings/unix.ex	/^  def property_value_for(%SourceFile{lines: lines, filename: filename}, _params) do$/;"	f
+property_value_for	deps/credo/lib/credo/check/consistency/line_endings/windows.ex	/^  def property_value_for(%SourceFile{lines: lines, filename: filename}, _params) do$/;"	f
+property_value_for	deps/credo/lib/credo/check/consistency/tabs_or_spaces/spaces.ex	/^  def property_value_for(%SourceFile{lines: lines, filename: filename}, _params) do$/;"	f
+property_value_for	deps/credo/lib/credo/check/consistency/tabs_or_spaces/tabs.ex	/^  def property_value_for(%SourceFile{lines: lines, filename: filename}, _params) do$/;"	f
+property_value_for_exception_name	deps/credo/lib/credo/check/consistency/exception_names/prefix_and_suffix_collector.ex	/^  defp property_value_for_exception_name(name, {_, meta, _}, filename) do$/;"	f
+property_value_for_line	deps/credo/lib/credo/check/consistency/line_endings/unix.ex	/^  defp property_value_for_line({line_no, line}, filename) do$/;"	f
+property_value_for_line	deps/credo/lib/credo/check/consistency/line_endings/windows.ex	/^  defp property_value_for_line({line_no, line}, filename) do$/;"	f
+property_value_for_line	deps/credo/lib/credo/check/consistency/tabs_or_spaces/spaces.ex	/^  defp property_value_for_line({_, _}, _), do: nil$/;"	f
+property_value_for_line	deps/credo/lib/credo/check/consistency/tabs_or_spaces/spaces.ex	/^  defp property_value_for_line({line_no, "  " <> _line}, filename) do$/;"	f
+property_value_for_line	deps/credo/lib/credo/check/consistency/tabs_or_spaces/tabs.ex	/^  defp property_value_for_line({_, _}, _), do: nil$/;"	f
+property_value_for_line	deps/credo/lib/credo/check/consistency/tabs_or_spaces/tabs.ex	/^  defp property_value_for_line({line_no, "\\t" <> _line}, filename) do$/;"	f
+prune_hashes	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  def prune_hashes(hashes) do$/;"	f
+put	deps/credo/lib/credo/service/source_file_code_only.ex	/^  def put(filename, source) do$/;"	f
+put	deps/credo/lib/credo/service/source_file_scopes.ex	/^  def put(filename, source) do$/;"	f
+put	deps/credo/lib/credo/service/source_file_without_strings_and_sigils.ex	/^  def put(filename, source) do$/;"	f
+puts	deps/bunt/lib/bunt.ex	/^  def puts(list) when is_list(list) do$/;"	f
+puts	deps/bunt/lib/bunt.ex	/^  def puts(nil), do: puts("")$/;"	f
+puts	deps/bunt/lib/bunt.ex	/^  def puts(text) when is_binary(text), do: text |> IO.puts$/;"	f
+puts	deps/bunt/lib/bunt.ex	/^  def puts, do: puts("")$/;"	f
+puts	deps/credo/lib/credo/cli/output/ui.ex	/^  def puts(v, color), do: Bunt.puts([color, v])$/;"	f
+puts	deps/credo/lib/credo/cli/output/ui.ex	/^  defdelegate puts(v), to: Bunt$/;"	d
+puts	deps/credo/lib/credo/cli/output/ui.ex	/^  defdelegate puts, to: Bunt$/;"	d
+qitem_payload_t	deps/encurses/c_src/encurses.c	/^} qitem_payload_t;$/;"	t	typeref:struct:__anon1	file:
+qitem_t	deps/encurses/c_src/encurses.c	/^} qitem_t;$/;"	t	typeref:struct:_qitem_t	file:
+qthread	deps/encurses/c_src/encurses.c	/^    ErlNifTid qthread;$/;"	m	struct:__anon3	file:
+queue	deps/encurses/c_src/encurses.c	/^    queue_t* queue;$/;"	m	struct:__anon3	file:
+queue_create	deps/encurses/c_src/encurses.c	/^queue_create()$/;"	f
+queue_destroy	deps/encurses/c_src/encurses.c	/^queue_destroy(queue_t* queue)$/;"	f
+queue_pop	deps/encurses/c_src/encurses.c	/^queue_pop(queue_t* queue)$/;"	f
+queue_push	deps/encurses/c_src/encurses.c	/^queue_push(queue_t* queue, qitem_payload_t* payload)$/;"	f
+queue_t	deps/encurses/c_src/encurses.c	/^} queue_t;$/;"	t	typeref:struct:__anon2	file:
+read_or_default	deps/credo/lib/credo/config.ex	/^  def read_or_default(dir, config_name \\\\ nil) do$/;"	f
+refresh	deps/cecho/src/cecho.erl	/^refresh() ->$/;"	f	module:cecho
+refresh	deps/encurses/src/encurses.erl	/^refresh() ->$/;"	f	module:encurses
+refresh	deps/encurses/src/encurses.erl	/^refresh(Win) when is_integer(Win) ->$/;"	f	module:encurses
+refresh	deps/encurses/src/encurses_demo.erl	/^refresh(Win) ->$/;"	f	module:encurses_demo
+refute_issue?	deps/credo/lib/credo/check/readability/max_line_length.ex	/^  defp refute_issue?(line_no, definitions, ignore_definitions, ignore_strings) do$/;"	f
+relevant_config_files	deps/credo/lib/credo/config.ex	/^  defp relevant_config_files(dir) do$/;"	f
+reload!	.iex.exs	/^  def reload! do$/;"	f
+remove_line_no_and_column	deps/credo/lib/credo/cli/filename.ex	/^  def remove_line_no_and_column(filename) do$/;"	f
+remove_metadata	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  def remove_metadata(ast) do$/;"	f
+remove_metadata	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  def remove_metadata(ast) when is_tuple(ast) do$/;"	f
+replace_with_spaces	deps/credo/lib/credo/code/sigils.ex	/^  def replace_with_spaces(source, replacement \\\\ " ") do$/;"	f
+replace_with_spaces	deps/credo/lib/credo/code/strings.ex	/^  def replace_with_spaces(source, replacement \\\\ " ") do$/;"	f
+rescue_block?	deps/credo/lib/credo/code/block.ex	/^  def rescue_block?(ast) do$/;"	f
+rescue_block_for	deps/credo/lib/credo/code/block.ex	/^  def rescue_block_for([do: _do_block, rescue: rescue_block]) do$/;"	f
+rescue_block_for	deps/credo/lib/credo/code/block.ex	/^  def rescue_block_for(_) do$/;"	f
+rescue_block_for	deps/credo/lib/credo/code/block.ex	/^  def rescue_block_for(arguments) when is_list(arguments) do$/;"	f
+rescue_block_for	deps/credo/lib/credo/code/block.ex	/^  def rescue_block_for({_atom, _meta, arguments}) when is_list(arguments) do$/;"	f
+rescue_block_for!	deps/credo/lib/credo/code/block.ex	/^  def rescue_block_for!(ast) do$/;"	f
+run	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  def run(source_files, params \\\\ []) when is_list(source_files) do$/;"	f
+run	deps/credo/lib/credo/check/consistency/line_endings.ex	/^  def run(source_files, params \\\\ []) when is_list(source_files) do$/;"	f
+run	deps/credo/lib/credo/check/consistency/tabs_or_spaces.ex	/^  def run(source_files, params \\\\ []) when is_list(source_files) do$/;"	f
+run	deps/credo/lib/credo/check/design/alias_usage.ex	/^  def run(%SourceFile{ast: ast} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  def run(source_files, params \\\\ []) when is_list(source_files) do$/;"	f
+run	deps/credo/lib/credo/check/design/tag_fixme.ex	/^  def run(%SourceFile{source: source} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/design/tag_todo.ex	/^  def run(%SourceFile{source: source} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/readability/function_names.ex	/^  def run(%SourceFile{} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/readability/max_line_length.ex	/^  def run(%SourceFile{ast: ast, lines: lines} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/readability/module_attribute_names.ex	/^  def run(source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/readability/module_names.ex	/^  def run(source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/readability/predicate_function_names.ex	/^  def run(%SourceFile{} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/readability/trailing_blank_line.ex	/^  def run(%SourceFile{lines: lines} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/readability/trailing_white_space.ex	/^  def run(%SourceFile{lines: lines} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/readability/variable_names.ex	/^  def run(source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  def run(%SourceFile{ast: ast} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/refactor/cyclomatic_complexity.ex	/^  def run(%SourceFile{ast: ast} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/refactor/negated_conditions_in_unless.ex	/^  def run(source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/refactor/negated_conditions_with_else.ex	/^  def run(source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/refactor/nesting.ex	/^  def run(%SourceFile{ast: ast} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/refactor/unless_with_else.ex	/^  def run(source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/runner.ex	/^  def run(%SourceFile{} = source_file, config) do$/;"	f
+run	deps/credo/lib/credo/check/runner.ex	/^  def run(source_files, config) when is_list(source_files) do$/;"	f
+run	deps/credo/lib/credo/check/warning/iex_pry.ex	/^  def run(%SourceFile{} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/warning/io_inspect.ex	/^  def run(%SourceFile{} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  def run(source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  def run(source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  def run(source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  def run(source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/warning/operation_on_same_values.ex	/^  def run(source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/check/warning/unused_string_operation.ex	/^  def run(%SourceFile{} = source_file, params \\\\ []) do$/;"	f
+run	deps/credo/lib/credo/cli.ex	/^  defp run(argv) do$/;"	f
+run	deps/credo/lib/credo/cli/command/categories.ex	/^  def run(_dir, _config) do$/;"	f
+run	deps/credo/lib/credo/cli/command/explain.ex	/^  def run(_dir, %Config{help: true}), do: print_help$/;"	f
+run	deps/credo/lib/credo/cli/command/explain.ex	/^  def run(file, config) do$/;"	f
+run	deps/credo/lib/credo/cli/command/help.ex	/^  def run(_, _) do$/;"	f
+run	deps/credo/lib/credo/cli/command/list.ex	/^  def run(_dir, %Config{help: true}), do: print_help$/;"	f
+run	deps/credo/lib/credo/cli/command/list.ex	/^  def run(_dir, config) do$/;"	f
+run	deps/credo/lib/credo/cli/command/suggest.ex	/^  def run(_dir, %Config{help: true}), do: print_help$/;"	f
+run	deps/credo/lib/credo/cli/command/suggest.ex	/^  def run(_dir, config) do$/;"	f
+run	deps/credo/lib/credo/cli/command/version.ex	/^  def run(_, _) do$/;"	f
+run	deps/credo/lib/mix/tasks/credo.ex	/^  def run(argv) do$/;"	f
+run	lib/sim.ex	/^  def run do$/;"	f
+run	lib/sim.ex	/^  def run(_, true), do: IO.puts 'Bye!'$/;"	f
+run	lib/sim.ex	/^  def run(world, false) do$/;"	f
+run_check	deps/credo/lib/credo/check/runner.ex	/^  defp run_check({_check, false}, _source_file, _config) do$/;"	f
+run_check	deps/credo/lib/credo/check/runner.ex	/^  defp run_check({_check, false}, source_files, _config) when is_list(source_files) do$/;"	f
+run_check	deps/credo/lib/credo/check/runner.ex	/^  defp run_check({check, params}, source_file, %Config{crash_on_error: true}) do$/;"	f
+run_check	deps/credo/lib/credo/check/runner.ex	/^  defp run_check({check, params}, source_file, _config) do$/;"	f
+run_check	deps/credo/lib/credo/check/runner.ex	/^  defp run_check({check}, source_file, config) do$/;"	f
+run_checks	deps/credo/lib/credo/check/runner.ex	/^  defp run_checks(%SourceFile{} = source_file, checks, config) when is_list(checks) do$/;"	f
+run_checks	deps/credo/lib/credo/cli/command/explain.ex	/^  defp run_checks(source_files, config) do$/;"	f
+run_checks	deps/credo/lib/credo/cli/command/list.ex	/^  def run_checks(source_files, config) do$/;"	f
+run_checks	deps/credo/lib/credo/cli/command/suggest.ex	/^  def run_checks(source_files, config) do$/;"	f
+run_checks_that_run_on_all	deps/credo/lib/credo/check/runner.ex	/^  def run_checks_that_run_on_all(source_files, config) do$/;"	f
+run_code_patterns	deps/credo/lib/credo/check/consistency/helper.ex	/^  def run_code_patterns(source_files, pattern_mods, params) do$/;"	f
+run_on_all?	deps/credo/lib/credo/check.ex	/^      def run_on_all?, do: unquote(run_on_all_body(opts[:run_on_all]))$/;"	f
+run_on_all_body	deps/credo/lib/credo/check.ex	/^  defp run_on_all_body(_), do: false$/;"	f
+run_on_all_body	deps/credo/lib/credo/check.ex	/^  defp run_on_all_body(true), do: true$/;"	f
+run_on_all_check?	deps/credo/lib/credo/check/runner.ex	/^  defp run_on_all_check?({check, _params}), do: check.run_on_all?$/;"	f
+run_on_all_check?	deps/credo/lib/credo/check/runner.ex	/^  defp run_on_all_check?({check}), do: check.run_on_all?$/;"	f
+salutation	deps/credo/lib/credo/check/warning/unused_string_operation.ex	/^      def salutation(username) do$/;"	f
+scope_count	deps/credo/lib/credo/cli/output/summary.ex	/^  defp scope_count(source_files) do$/;"	f
+scope_for	deps/credo/lib/credo/check/code_helper.ex	/^  def scope_for(source_file, [line: line_no]) do$/;"	f
+scope_list	deps/credo/lib/credo/check/code_helper.ex	/^  def scope_list(%SourceFile{filename: filename, ast: ast, lines: lines}) do$/;"	f
+scope_priorities	deps/credo/lib/credo/priority.ex	/^  def scope_priorities(%SourceFile{} = source_file) do$/;"	f
+scroll_down	lib/io/cursor.ex	/^  def scroll_down(lines) when lines >= 0, do: "\\e[#{lines}T"$/;"	f
+scroll_up	lib/io/cursor.ex	/^  def scroll_up(lines) when lines >= 0, do: "\\e[#{lines}S"$/;"	f
+scrollok	deps/cecho/src/cecho.erl	/^scrollok(Window, BFlag) when is_integer(Window) andalso is_boolean(BFlag) ->$/;"	f	module:cecho
+scrollok	deps/encurses/src/encurses.erl	/^scrollok(Win, Flag) when is_integer(Win) andalso is_boolean(Flag) ->$/;"	f	module:encurses
+season_string	lib/calendar.ex	/^  def season_string(season), do: season |> to_string |> String.capitalize$/;"	f
+should_have_water	lib/landscape/water.ex	/^  defp should_have_water({w, h, m}, ele) do$/;"	f
+should_stop	lib/sim.ex	/^  def should_stop(key), do: key == "q"$/;"	f
+simple	deps/cecho/src/cecho_example.erl	/^simple() ->$/;"	f	module:cecho_example
+slots	deps/encurses/c_src/encurses.h	/^static WINDOW *slots[_MAXWINDOWS+1];$/;"	v
+smart_put	lib/landscape/display.ex	/^  defp smart_put(str, _),    do: IO.write(str)$/;"	f
+smart_put	lib/landscape/display.ex	/^  defp smart_put(str, true), do: IO.puts(str)$/;"	f
+snake_case?	deps/credo/lib/credo/code/name.ex	/^  def snake_case?(name) do$/;"	f
+some_function	deps/credo/lib/credo/check/refactor/nesting.ex	/^        def some_function(parameter1, parameter2) do$/;"	f
+source_file	deps/credo/lib/credo/issue_meta.ex	/^  def source_file(%SourceFile{} = source_file), do: source_file$/;"	f
+source_file	deps/credo/lib/credo/issue_meta.ex	/^  def source_file({__MODULE__, source_file, _params}), do: source_file$/;"	f
+split_pascal_case	deps/credo/lib/credo/code/name.ex	/^  def split_pascal_case(name) do$/;"	f
+start	chk.exs	/^  def start do$/;"	f
+start	deps/bunt/lib/bunt.ex	/^  def start(_, _), do: {:ok, self}$/;"	f
+start	deps/cecho/c_src/cecho.c	/^static ErlDrvData start(ErlDrvPort port, char *command) {$/;"	f	file:
+start	deps/cecho/src/cecho.erl	/^start(_, _) ->$/;"	f	module:cecho
+start	deps/credo/lib/credo.ex	/^  def start(_type, _args) do$/;"	f
+start	lib/calendar.ex	/^  def start, do: GenServer.start(__MODULE__, nil, name: :calendar)$/;"	f
+start	lib/interface.ex	/^  def start do$/;"	f
+start	lib/landscape.ex	/^  def start(:normal, _) do$/;"	f
+start_color	deps/cecho/src/cecho.erl	/^start_color() ->$/;"	f	module:cecho
+start_color	deps/encurses/src/encurses.erl	/^start_color() ->$/;"	f	module:encurses
+start_link	deps/cecho/src/cecho_srv.erl	/^start_link() ->$/;"	f	module:cecho_srv
+start_link	deps/credo/lib/credo/service/source_file_code_only.ex	/^  def start_link(opts \\\\ []) do$/;"	f
+start_link	deps/credo/lib/credo/service/source_file_scopes.ex	/^  def start_link(opts \\\\ []) do$/;"	f
+start_link	deps/credo/lib/credo/service/source_file_without_strings_and_sigils.ex	/^  def start_link(opts \\\\ []) do$/;"	f
+state	deps/cecho/c_src/cecho.c	/^} state;$/;"	t	typeref:struct:__anon4	file:
+state	deps/cecho/src/cecho_srv.erl	/^-record(state, { port, getch, observer }).$/;"	r
+state_t	deps/encurses/c_src/encurses.c	/^} state_t;$/;"	t	typeref:struct:__anon3	file:
+stop	deps/cecho/c_src/cecho.c	/^static void stop(ErlDrvData drvstate) {$/;"	f	file:
+stop	deps/cecho/src/cecho.erl	/^stop(_) ->$/;"	f	module:cecho
+string	deps/cecho/c_src/cecho.c	/^void string(ei_x_buff *eixb, const char *str) {$/;"	f
+sum	deps/credo/lib/credo/priority.ex	/^  defp sum([], acc), do: acc$/;"	f
+sum	deps/credo/lib/credo/priority.ex	/^  defp sum([head|tail], acc), do: sum(tail, acc+head)$/;"	f
+sum	deps/credo/lib/credo/priority.ex	/^  defp sum(list, acc \\\\ 0)$/;"	f
+summary_part	deps/credo/lib/credo/cli/output/summary.ex	/^  defp summary_part({category, singular, plural}, issues) do$/;"	f
+summary_parts	deps/credo/lib/credo/cli/output/summary.ex	/^  defp summary_parts(source_files, issues) do$/;"	f
+tags	deps/credo/lib/credo/check/design/tag_helper.ex	/^  def tags(source, tag_name) do$/;"	f
+tags?	deps/credo/lib/credo/check/design/tag_helper.ex	/^  defp tags?({_line_no, _line, _tag}), do: true$/;"	f
+tags?	deps/credo/lib/credo/check/design/tag_helper.ex	/^  defp tags?({_line_no, _line, nil}), do: false$/;"	f
+tail	deps/encurses/c_src/encurses.c	/^    qitem_t* tail;$/;"	m	struct:__anon2	file:
+term_columns	deps/credo/lib/credo/cli/output.ex	/^  def term_columns(default \\\\ 80) do$/;"	f
+terminate	deps/cecho/src/cecho_srv.erl	/^terminate(_Reason, State) ->$/;"	f	module:cecho_srv
+the truth	test/landscape_test.exs	/^  test "the truth" do$/;"	t
+thr_main	deps/encurses/c_src/encurses.c	/^thr_main(void* obj)$/;"	f	file:
+time	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^        def time do$/;"	f
+time	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^      def time do$/;"	f
+time	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^      def time do$/;"	f
+time	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^      def time do$/;"	f
+to_config	deps/credo/lib/credo/cli.ex	/^  defp to_config(dir, switches) do$/;"	f
+to_end	deps/credo/lib/credo/cli/sorter.ex	/^  def to_end(list, list_end) do$/;"	f
+to_glob	deps/credo/lib/credo/sources.ex	/^  defp to_glob(path) do$/;"	f
+to_hash	deps/credo/lib/credo/check/design/duplicated_code.ex	/^  def to_hash(ast) do$/;"	f
+to_lines	deps/credo/lib/credo/code.ex	/^  def to_lines(source) do$/;"	f
+to_match_regexes	deps/credo/lib/credo/config.ex	/^  defp to_match_regexes(list) do$/;"	f
+to_one_line	deps/credo/lib/credo/check/consistency/exception_names.ex	/^  def to_one_line(str), do: str |> String.split |> Enum.join(" ")$/;"	f
+to_priority	deps/credo/lib/credo/check.ex	/^  def to_priority(atom) when is_atom(atom) do$/;"	f
+to_priority	deps/credo/lib/credo/check.ex	/^  def to_priority(nil), do: 0$/;"	f
+to_priority	deps/credo/lib/credo/check.ex	/^  def to_priority(value), do: value$/;"	f
+to_source_file	deps/credo/lib/credo/sources.ex	/^  defp to_source_file(filename) do$/;"	f
+to_source_files	deps/credo/lib/credo/sources.ex	/^  def to_source_files(files) do$/;"	f
+to_start	deps/credo/lib/credo/cli/sorter.ex	/^  def to_start(list, list_start) do$/;"	f
+top	lib/landscape/position.ex	/^  defmacro top(w, _, ele), do: quote do: unquote(w) > unquote(ele)$/;"	a
+topleft	lib/landscape/display.ex	/^  def topleft(h),      do: IO.ANSI.Cursor.cursor_to(1, h)$/;"	f
+traverse	deps/credo/lib/credo/check/consistency/exception_names/prefix_and_suffix_collector.ex	/^  defp traverse(ast, property_values, _filename) do$/;"	f
+traverse	deps/credo/lib/credo/check/consistency/exception_names/prefix_and_suffix_collector.ex	/^  defp traverse({:defmodule, _meta, [{:__aliases__, _, _name_arr}, _arguments]} = ast, property_values, filename) do$/;"	f
+traverse	deps/credo/lib/credo/check/design/alias_usage.ex	/^  defp traverse(ast, issues, _source_file, _excluded_namespaces, _excluded_lastnames) do$/;"	f
+traverse	deps/credo/lib/credo/check/design/alias_usage.ex	/^  defp traverse({:., _, [{:__aliases__, meta, mod_list}, fun_atom]} = ast, issues, issue_meta, excluded_namespaces, excluded_lastnames) when is_list(mod_list) and is_atom(fun_atom) do$/;"	f
+traverse	deps/credo/lib/credo/check/readability/function_names.ex	/^    defp traverse({unquote(op), _meta, arguments} = ast, issues, issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/readability/function_names.ex	/^  defp traverse(ast, issues, _issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/readability/module_attribute_names.ex	/^  defp traverse(ast, issues, _source_file) do$/;"	f
+traverse	deps/credo/lib/credo/check/readability/module_attribute_names.ex	/^  defp traverse({:@, _meta, [{name, meta, _arguments}]} = ast, issues, issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/readability/module_names.ex	/^  defp traverse(ast, issues, _issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/readability/module_names.ex	/^  defp traverse({:defmodule, _meta, arguments} = ast, issues, issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/readability/predicate_function_names.ex	/^    defp traverse({unquote(op) = op, _meta, arguments} = ast, issues, issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/readability/predicate_function_names.ex	/^  defp traverse(ast, issues, _issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/readability/variable_names.ex	/^  defp traverse(ast, issues, _issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/readability/variable_names.ex	/^  defp traverse({:=, _meta, [lhs, _rhs]} = ast, issues, issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/abc_size.ex	/^    defp traverse({unquote(op), meta, arguments} = ast, issues, issue_meta, max_abc_size) when is_list(arguments) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  defp traverse(ast, issues, _issue_meta, _max_abc_size) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  defp traverse({:defmacro, _, [{:__using__, _, _}, _]} = ast, issues, _, _) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/cyclomatic_complexity.ex	/^    defp traverse({unquote(op), meta, arguments} = ast, issues, issue_meta, max_complexity) when is_list(arguments) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/cyclomatic_complexity.ex	/^  defp traverse(ast, issues, _source_file, _max_complexity) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/cyclomatic_complexity.ex	/^  defp traverse({:defmacro, _, [{:__using__, _, _}, _]} = ast, issues, _, _) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/negated_conditions_in_unless.ex	/^  defp traverse(ast, issues, _issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/negated_conditions_in_unless.ex	/^  defp traverse({:unless, meta, arguments} = ast, issues, issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/negated_conditions_with_else.ex	/^  defp traverse(ast, issues, _issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/negated_conditions_with_else.ex	/^  defp traverse({:if, meta, arguments} = ast, issues, issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/nesting.ex	/^    defp traverse({unquote(op) = op, meta, arguments} = ast, issues, issue_meta, max_nesting) when is_list(arguments) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/nesting.ex	/^  defp traverse(ast, issues, _issue_meta, _max_nesting) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/unless_with_else.ex	/^  defp traverse(ast, issues, _issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/refactor/unless_with_else.ex	/^  defp traverse({:unless, meta, _arguments} = ast, issues, issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/iex_pry.ex	/^  defp traverse(ast, issues, _issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/iex_pry.ex	/^  defp traverse({{:., _, [{:__aliases__, _, [:IEx]}, :pry]}, meta, _arguments} = ast, issues, issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/io_inspect.ex	/^  defp traverse(ast, issues, _issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/io_inspect.ex	/^  defp traverse({{:., _, [{:__aliases__, _, [:IO]}, :inspect]}, meta, _arguments} = ast, issues, issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  defp traverse(ast, issues, _issue_meta, _excluded_names) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_assignment.ex	/^  defp traverse({:defmodule, _, _} = ast, issues, issue_meta, excluded_names) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  defp traverse(ast, issues, _issue_meta, _excluded_names) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_case.ex	/^  defp traverse({:defmodule, _, _} = ast, issues, issue_meta, excluded_names) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  defp traverse(ast, issues, _issue_meta, _excluded_names) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_def.ex	/^  defp traverse({:defmodule, _, _} = ast, issues, issue_meta, excluded_names) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  defp traverse(ast, issues, _issue_meta, _excluded_names) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/name_redeclaration_by_fn.ex	/^  defp traverse({:defmodule, _, _} = ast, issues, issue_meta, excluded_names) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/operation_on_same_values.ex	/^    defp traverse({unquote(op), meta, [lhs, rhs]} = ast, issues, issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/operation_on_same_values.ex	/^  defp traverse(ast, issues, _issue_meta) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^    defp traverse({unquote(op), _meta, arguments} = ast, all_unused_calls, _source_file, required_mod_list, restrict_fun_names) when is_list(arguments) do$/;"	f
+traverse	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp traverse(ast, all_unused_calls, _source_file, _required_mod_list, _restrict_fun_names) do$/;"	f
+traverse	deps/credo/lib/credo/code.ex	/^  def traverse(%SourceFile{ast: source_ast}, fun, accumulator) do$/;"	f
+traverse	deps/credo/lib/credo/code.ex	/^  def traverse(ast_or_source_file, fun, accumulator \\\\ [])$/;"	f
+traverse	deps/credo/lib/credo/code.ex	/^  def traverse(source_ast, fun, accumulator) do$/;"	f
+traverse	deps/credo/lib/credo/priority.ex	/^    defp traverse({unquote(op), meta, arguments} = ast, acc) when is_list(arguments) do$/;"	f
+traverse	deps/credo/lib/credo/priority.ex	/^  defp traverse(ast, acc) do$/;"	f
+traverse	deps/credo/lib/credo/priority.ex	/^  defp traverse({:defmodule, meta, _} = ast, acc) do$/;"	f
+traverse_abc	deps/credo/lib/credo/check/refactor/abc_size.ex	/^    defp traverse_abc({unquote(op), _, arguments} = ast, abc) when is_list(arguments) do$/;"	f
+traverse_abc	deps/credo/lib/credo/check/refactor/abc_size.ex	/^    defp traverse_abc({unquote(op), _meta, arguments} = ast, [a: a, b: b, c: c, var_names: var_names]) when is_list(arguments) do$/;"	f
+traverse_abc	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  defp traverse_abc(ast, abc) do$/;"	f
+traverse_abc	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  defp traverse_abc({:->, _meta, arguments} = ast, [a: a, b: b, c: c, var_names: var_names]) do$/;"	f
+traverse_abc	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  defp traverse_abc({:=, _meta, [lhs | rhs]}, [a: a, b: b, c: c, var_names: var_names]) do$/;"	f
+traverse_abc	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  defp traverse_abc({fun_or_var_name, _meta, nil} = ast, [a: a, b: b, c: c, var_names: var_names]) do$/;"	f
+traverse_complexity	deps/credo/lib/credo/check/refactor/cyclomatic_complexity.ex	/^    defp traverse_complexity({unquote(op), _meta, arguments} = ast, complexity) when is_list(arguments) do$/;"	f
+traverse_complexity	deps/credo/lib/credo/check/refactor/cyclomatic_complexity.ex	/^    defp traverse_complexity({unquote(op), _meta, nil} = ast, complexity) do$/;"	f
+traverse_complexity	deps/credo/lib/credo/check/refactor/cyclomatic_complexity.ex	/^  defp traverse_complexity(ast, complexity) do$/;"	f
+traverse_line	deps/credo/lib/credo/check/readability/trailing_white_space.ex	/^  defp traverse_line([], issues, _issue_meta), do: issues$/;"	f
+traverse_line	deps/credo/lib/credo/check/readability/trailing_white_space.ex	/^  defp traverse_line([{line_no, line} | tail], issues, issue_meta) do$/;"	f
+traverse_mod	deps/credo/lib/credo/code/module.ex	/^    def traverse_mod({unquote(op), _, arguments} = ast, defs) when is_list(arguments) do$/;"	f
+traverse_mod	deps/credo/lib/credo/code/module.ex	/^  def traverse_mod(ast, defs) do$/;"	f
+tuple	deps/cecho/c_src/cecho.c	/^void tuple(ei_x_buff *eixb, int size) {$/;"	f
+tuple?	deps/credo/lib/credo/check/design/alias_usage.ex	/^  def tuple?(_), do: false$/;"	f
+tuple?	deps/credo/lib/credo/check/design/alias_usage.ex	/^  def tuple?(t) when is_tuple(t), do: true$/;"	f
+twitter_mentions	deps/credo/lib/credo/check/design/alias_usage.ex	/^        def twitter_mentions do$/;"	f
+unload	deps/encurses/c_src/encurses.c	/^unload(ErlNifEnv* env, void* priv)$/;"	f	file:
+unquote	deps/bunt/lib/bunt_ansi.ex	/^      def unquote(alias_name)() do$/;"	f
+unquote	deps/bunt/lib/bunt_ansi.ex	/^      def unquote(name)() do$/;"	f
+update	lib/landscape.ex	/^  def update(world), do: world |> Landscape.Water.flow$/;"	f
+user?	deps/credo/lib/credo/check/readability/predicate_function_names.ex	/^      defp user?(cookie) do$/;"	f
+valid_call_to_string_mod?	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^    defp valid_call_to_string_mod?({unquote(op), _meta, arguments} = ast, call_to_string, last_call_in_def, calls_in_block_above) when is_list(arguments) do$/;"	f
+valid_call_to_string_mod?	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp valid_call_to_string_mod?(_ast, _call_to_string, _last_call_in_def, _calls_in_block_above) do$/;"	f
+valid_call_to_string_mod?	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp valid_call_to_string_mod?({:->, _meta, [params, arguments]} = ast, call_to_string, last_call_in_def, calls_in_block_above) do$/;"	f
+valid_call_to_string_mod?	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp valid_call_to_string_mod?({:=, _, _} = ast, call_to_string, _last_call_in_def, _calls_in_block_above) do$/;"	f
+valid_call_to_string_mod?	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp valid_call_to_string_mod?({:__block__, _meta, arguments}, call_to_string, last_call_in_def, calls_in_block_above) do$/;"	f
+valid_call_to_string_mod?	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp valid_call_to_string_mod?({:cond, _meta, arguments} = ast, call_to_string, last_call_in_def, calls_in_block_above) do$/;"	f
+valid_call_to_string_mod?	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp valid_call_to_string_mod?({:fn, _meta, arguments}, call_to_string, last_call_in_def, calls_in_block_above) do$/;"	f
+valid_call_to_string_mod?	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp valid_call_to_string_mod?({:|>, _, arguments}, call_to_string, _last_call_in_def, _calls_in_block_above) do$/;"	f
+valid_call_to_string_mod?	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp valid_call_to_string_mod?({_atom, _meta, arguments} = ast, call_to_string, last_call_in_def, calls_in_block_above) do$/;"	f
+valid_call_to_string_mod_in_block?	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp valid_call_to_string_mod_in_block?(any_value, ast, call_to_string, last_call_in_def, _calls_in_block_above) do$/;"	f
+valid_call_to_string_mod_in_block?	deps/credo/lib/credo/check/warning/unused_function_return_helper.ex	/^  defp valid_call_to_string_mod_in_block?({:__block__, _meta, calls_in_this_block}, _ast, call_to_string, last_call_in_def, _calls_in_block_above) do$/;"	f
+var_name	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  defp var_name(_), do: nil$/;"	f
+var_name	deps/credo/lib/credo/check/refactor/abc_size.ex	/^  defp var_name({name, _, nil}) when is_atom(name), do: name$/;"	f
+version	deps/bunt/lib/bunt.ex	/^  def version, do: @version$/;"	f
+version	deps/cecho/c_src/cecho.c	/^  int version;$/;"	m	struct:__anon4	file:
+version	deps/credo/lib/credo.ex	/^  def version, do: @version$/;"	f
+vline	deps/cecho/src/cecho.erl	/^vline(Char, MaxN) ->$/;"	f	module:cecho
+vline	deps/encurses/src/encurses.erl	/^vline(Char, MaxN) when is_integer(Char) andalso is_integer(MaxN) ->$/;"	f	module:encurses
+vline	deps/encurses/src/encurses.erl	/^vline(Win, Char, MaxN) when is_integer(Win) andalso is_integer(Char)$/;"	f	module:encurses
+waddch	deps/cecho/src/cecho.erl	/^waddch(Window, Char) when is_integer(Window) andalso is_integer(Char) ->$/;"	f	module:cecho
+waddch	deps/encurses/src/encurses.erl	/^waddch(Win, Char) when is_integer(Win) andalso is_integer(Char) ->$/;"	f	module:encurses
+waddstr	deps/cecho/src/cecho.erl	/^waddstr(Window, String) when is_integer(Window) andalso is_list(String) ->$/;"	f	module:cecho
+waddstr	deps/encurses/src/encurses.erl	/^waddstr(Win, String) when is_integer(Win) andalso is_list(String) ->$/;"	f	module:encurses
+water	lib/landscape/display.ex	/^  def water(:winter),  do: "#{IO.ANSI.cyan_background}#{IO.ANSI.black}"$/;"	f
+water	lib/landscape/display.ex	/^  def water(_),        do: "#{IO.ANSI.color_background(1, 1, 5)}#{IO.ANSI.black}"$/;"	f
+wborder	deps/cecho/src/cecho.erl	/^wborder(Window, Ls, Rs, Ts, Bs, TLs, TRs, BLs, BRs)$/;"	f	module:cecho
+weather_format	lib/weather.ex	/^  def weather_format({temp, hum, spd, dir, cov}) do$/;"	f
+weather_format	test/weather_test.exs	/^  test "weather_format\/1" do$/;"	t
+werase	deps/cecho/src/cecho.erl	/^werase(Window) when is_integer(Window) ->$/;"	f	module:cecho
+whline	deps/cecho/src/cecho.erl	/^whline(Window, Char, MaxN) when is_integer(Window) andalso is_integer(MaxN) ->$/;"	f	module:cecho
+win	deps/cecho/c_src/cecho.c	/^  WINDOW *win[_MAXWINDOWS+1];$/;"	m	struct:__anon4	file:
+winslot	deps/encurses/c_src/encurses.c	/^    long winslot;$/;"	m	struct:__anon1	file:
+with	deps/credo/lib/credo/cli/filename.ex	/^  def with(filename, params) do$/;"	f
+with_ast	deps/credo/lib/credo/source_file.ex	/^  defp with_ast(%Credo.SourceFile{} = source_file) do$/;"	f
+wmove	deps/cecho/src/cecho.erl	/^wmove(Window, Y, X) when is_integer(Window) andalso is_integer(Y) andalso$/;"	f	module:cecho
+wrap_at	deps/credo/lib/credo/cli/output/ui.ex	/^  def wrap_at(text, number) do$/;"	f
+wrefresh	deps/cecho/src/cecho.erl	/^wrefresh(Window) when is_integer(Window) ->$/;"	f	module:cecho
+wvline	deps/cecho/src/cecho.erl	/^wvline(Window, Char, MaxN) when is_integer(Window) andalso is_integer(MaxN) ->$/;"	f	module:cecho
+xy_to_elem	lib/landscape/position.ex	/^  def xy_to_elem(w, {x, y}), do: (w * y) + x$/;"	f
